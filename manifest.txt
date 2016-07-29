@@ -1,0 +1,4 @@
+Name                "Esperanto Translation"
+Description         "Traduko de Prison Architect en Esperanton."
+IsTranslation       true
+Author              "Mia Nordentoft"
