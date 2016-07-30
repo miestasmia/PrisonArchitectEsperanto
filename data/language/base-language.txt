@@ -609,17 +609,17 @@ failuremessage_maxstaff                 Tro da dungitaranoj
 # Status Toolbar
 # =============================================================================
 
-statustoolbar_deliveries                Deliveries
-statustoolbar_finances                  Finances
-statustoolbar_regime                    Regime
-statustoolbar_escapemap                 Security
-statustoolbar_electricity               Electricity
-statustoolbar_stats                     Stats
-statustoolbar_danger                    Danger
-statustoolbar_jobs                      Jobs
-statustoolbar_gangs                     Gangs
-statustoolbar_staff                     Staff
-statustoolbar_research                  Research
+statustoolbar_deliveries                Transdonoj
+statustoolbar_finances                  Financo
+statustoolbar_regime                    Horaro
+statustoolbar_escapemap                 Sekureco
+statustoolbar_electricity               Elektro
+statustoolbar_stats                     Statistiko
+statustoolbar_danger                    Danĝero
+statustoolbar_jobs                      Postenoj
+statustoolbar_gangs                     Bandoj
+statustoolbar_staff                     Dungitaranoj
+statustoolbar_research                  Esploro
 
 
 # =============================================================================
