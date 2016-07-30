@@ -577,32 +577,32 @@ buildtoolbar_deployment_DeathRowZone    Nur 'mortvicanaj' malliberuloj permesiĝ
 buildtoolbar_deployment_StaffOnlyZone   Nur dungitaranoj permesiĝos en ĉi tiu sektoro.
 buildtoolbar_deployment_UnlockedZone    Ĉiuj permesiĝos en ĉi tiu sektoro, kaj ĉiuj pordoj estos malfermitaj.
 
-job_matsassigned                        Materials Assigned
-job_matsavailable                       Materials Available
-job_awaitingmaterials                   Awaiting Materials
-job_inprogress                          Job In Progress
-job_blocked                             Job (Blocked)
-job_queued                              Job (Queued)
+job_matsassigned                        Materialoj asignitaj
+job_matsavailable                       Materialoj haveblaj
+job_awaitingmaterials                   Materialoj atendataj
+job_inprogress                          Laboro progresadata
+job_blocked                             Laboro (Blokita)
+job_queued                              Laboro (Envica)
 
-job_failed_noroute                      No Route
-job_failed_nomaterials                  No Materials
-job_failed_toodangerous                 Too Dangerous
-job_failed_materialsbeingcarried        Materials On Route
+job_failed_noroute                      Neniu vojo
+job_failed_nomaterials                  Neniuj materialoj
+job_failed_toodangerous                 Tro danĝere
+job_failed_materialsbeingcarried        Materialoj survoje
 
-job_rightclicktocancel                  Right Click to Cancel
-job_ftofollow							Press F to follow
-job_makehighpriority					Ctrl + Left Click to make High Priority
-job_removehighpriority					Ctrl + Right Click to remove High Priority
-job_makehighpriority_mac				Alt + Left Click to make High Priority
-job_removehighpriority_mac				Alt + Right Click to remove High Priority
-job_highpriority_tooltip				URGENT
-job_refundamount                        Refund Amount: *X
+job_rightclicktocancel                  Dekstre alklaku por nuligi
+job_ftofollow							Presu F por sekvi
+job_makehighpriority					Ctrl + Maldekstre alklaki por altprioritatigi
+job_removehighpriority					Ctrl + Dekstre aklaki por forigi altprioritaton
+job_makehighpriority_mac				Alt + Maldesktre alklaki por altprioritatigi
+job_removehighpriority_mac				Alt + Dekstre aklaki por forigi altprioritaton
+job_highpriority_tooltip				URĜE
+job_refundamount                        Repagkvanto: *X
 
-failuremessage_blocked                  Blocked
-failuremessage_cantafford               Insufficient Funds
-failuremessage_cantaffordupkeep         Exceeds Daily Budget
-failuremessage_maximumcountreached      Max Hired Already
-failuremessage_maxstaff                 Too Many Staff
+failuremessage_blocked                  Blokita
+failuremessage_cantafford               Malsufiĉa mono
+failuremessage_cantaffordupkeep         Superas ĉiutagbuĝeton
+failuremessage_maximumcountreached      Maksimumo jam dungiĝis
+failuremessage_maxstaff                 Tro da dungitaranoj
 
 
 # =============================================================================
