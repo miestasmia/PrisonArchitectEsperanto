@@ -3,8 +3,10 @@ Traduko de Prison Architect de Introversion Software en la internacian lingvon E
 
 Ankoraŭ nefinita.
 
-## Informo por helpontoj
+## Informoj por helpontoj
 Se vi volas helpi min pri ĉi tiu projekto, mi tre ĝojus. Bonvole ne laboru pri la plej supraj netradukitaj tekstoj—mi verŝajne mem samtempe prilaboras ilin.
+
+Eĉ pli bone, antaŭe demandu min pri kion mi volus ke vi traduku por certigi ke via laboro utilos.
 
 ## Permesilo
 [![Permesilo Krea Komunaĵo](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.eo)  
