@@ -84,7 +84,7 @@ profiler_name                           Nomo
 profiler_timings                        Horoj
 profiler_totaltime                      Totalo
 profiler_glfinishcaption                glFino
-profiler_reset                          Restarti
+profiler_reset                          Rekomenci
 
 
 # =============================================================================
@@ -273,7 +273,7 @@ interfacetopbar_tooltip_idle                    (*X Mallaborantaj)
 interfacetopbar_tooltip_armedguards             + *X Armitaj gardistoj
 interfacetopbar_tooltip_dogs                    + *X Hundstiristoj
 
-interfacetopbar_unlimitedfunds                  NEFINITA MONO
+interfacetopbar_unlimitedfunds                  NEFINITAJ FINANCOJ
 
 interfacetopbar_budget_moneyin					Enspezoj: $*M ĉiutage
 interfacetopbar_budget_moneyout					Elspezoj: $*M ĉiutage
@@ -626,261 +626,261 @@ statustoolbar_research                  Esploro
 # Sprite Bank Editor + other tools
 # =============================================================================
 
-spritebankeditor_title                  Sprite Bank Editor
-spritebankeditor_create                 Create
-spritebankeditor_rotate                 Rotation
-spritebankeditor_sort                   Sort
-spritebankeditor_markermodetitle        Marker Mode
+spritebankeditor_title                  Ikonstribarredaktilo
+spritebankeditor_create                 Krei
+spritebankeditor_rotate                 Turnado
+spritebankeditor_sort                   Sorti
+spritebankeditor_markermodetitle        Markilreĝimo
 
 
 # =============================================================================
 # Codex
 # =============================================================================
 
-codex_mainmenu                          Main Menu
-codex_campaign                          Campaign
-codex_cutscenes                         Cutscenes
-codex_qualifications                    Qualifications
-codex_load                              Load Prison
-codex_loadcampaign                      Load Campaign
-codex_save                              Save Prison
-codex_savecampaign                      Save Campaign
-codex_performance						Performance Test
-codex_developer_load                    (Developer) Load Map
-codex_developer_save                    (Developer) Save Map
-codex_developer_clearach                (Developer) Clear Achievements
-codex_contacts                          Contacts
-codex_materials                         Materials
-codex_play                              Play
-codex_play_escape                       Play Escape Mode
-codex_polaroids                         Polaroids
-codex_introduction                      Introduction
-codex_restartintroduction               Restart Introduction
-codex_restartchapter                    Restart Chapter
-codex_help                              Help (wiki)
-codex_opensavefolder                    Open Save Folder
-codex_options							Options
-codex_nitgs								Names in the Game
-codex_workshop							Prison Sharing (Steam)
-codex_steamtrending                     Most Popular Prisons (Steam)
-codex_checkforupdates                   Check for updates
-codex_preorder                          Pre-order Now
-codex_termsconditions                   Terms and Conditions
-codex_twitter                           Twitter
-codex_extras                            Extras
-codex_unlocked                          Unlocked *X/*Y
-codex_mapsettings                       Map Settings
+codex_mainmenu                          Ĉefa menuo
+codex_campaign                          Kampanjo
+codex_cutscenes                         Tranĉscenoj
+codex_qualifications                    Kvalifikoj
+codex_load                              Ŝarĝi malliberejon
+codex_loadcampaign                      Ŝarĝi kampanjon
+codex_save                              Konservi malliberejon
+codex_savecampaign                      Konservi kampanjon
+codex_performance						Testo de la rendimento
+codex_developer_load                    (Ellabaranta) Ŝarĝi mapon
+codex_developer_save                    (Ellaboranta) Konservi mapon
+codex_developer_clearach                (Ellaboranta) Klarigi akirojn
+codex_contacts                          Kontaktoj
+codex_materials                         Materialoj
+codex_play                              Ludi
+codex_play_escape                       Ludi eskapreĝimon
+codex_polaroids                         Polaroidbildoj
+codex_introduction                      Enkonduko
+codex_restartintroduction               Rekomenci enkondukon
+codex_restartchapter                    Rekomenci ĉapitron
+codex_help                              Helpo (vikipedio)
+codex_opensavefolder                    Malfermi konservdosierujon
+codex_options							Agordoj
+codex_nitgs								Nomoj en la ludo
+codex_workshop							Malliberejkunhavigo (Steam)
+codex_steamtrending                     Plej ŝatataj malliberejoj (Steam)
+codex_checkforupdates                   Kontroli ĝisdatigojn
+codex_preorder                          Antaŭmendi nun
+codex_termsconditions                   Uzokondiĉoj
+codex_twitter                           Tvitero
+codex_extras                            Ekstroj
+codex_unlocked                          Malŝlositaj *X/*Y
+codex_mapsettings                       Mapagordoj
 
-codex_new                               Create New Prison
-codex_new_worldsize                     World Size
-codex_new_small                         Small
-codex_new_medium                        Medium
-codex_new_large                         Large
-codex_new_selectwarden                  Choose your warden
-codex_new_selectgender                  Select Prisoner Gender
+codex_new                               Krei novan malliberejon
+codex_new_worldsize                     Mondgrandeco
+codex_new_small                         Malgranda
+codex_new_medium                        Mezgrandeca
+codex_new_large                         Granda
+codex_new_selectwarden                  Elektu vian malliberejestron
+codex_new_selectgender                  Elektu malliberulsekson
 
-codex_options_graphics					Graphics
-codex_options_resolution				Resolution
-codex_options_resolutionauto			Auto
-codex_options_windowed					Windowed
-codex_options_highdpi					High DPI
-codex_options_filtering					Filtering
-codex_options_nofiltering				Off
-codex_options_multisampled				Multisampled
-codex_options_supersampled				Supersampled
+codex_options_graphics					Grafiko
+codex_options_resolution				Distingivo
+codex_options_resolutionauto			Aŭtomate
+codex_options_windowed					Ekrane
+codex_options_highdpi					Alta DPI
+codex_options_filtering					Filtrado
+codex_options_nofiltering				For
+codex_options_multisampled				Plurspecimena
+codex_options_supersampled				Multspecimena
 
-codex_options_audio						Audio
-codex_options_volume					Master Volume
-codex_options_frequency					Mix Frequency
-codex_options_swapstero					Swap Stereo
-codex_options_dspenabled				Enable DSP
+codex_options_audio						Sono
+codex_options_volume					Ĉefsonforteco
+codex_options_frequency					Miksi frekvenson
+codex_options_swapstero					Permuti sterefonion
+codex_options_dspenabled				Ŝalti DSP
 codex_options_11khz						11025 Hz
 codex_options_22khz						22050 Hz
 codex_options_44khz						44100 Hz
 
-codex_options_clocktype                 Clock Type
-codex_options_clocktype_analogue        Analogue
-codex_options_clocktype_12h             12 Hour
-codex_options_clocktype_24h             24 Hour
+codex_options_clocktype                 Horiltipo
+codex_options_clocktype_analogue        Analoga
+codex_options_clocktype_12h             12 Hora
+codex_options_clocktype_24h             24 Hora
 
-codex_options_gameplay					Game
-codex_options_autosave					Autosave Timer
-codex_options_renderrooms				Room Checkerbox
-codex_options_apply						Apply
+codex_options_gameplay					Ludo
+codex_options_autosave					Aŭtomata konservhorilo
+codex_options_renderrooms				Ĉambroŝakkrado
+codex_options_apply						Apliki
 
-codex_options_language					Language
+codex_options_language					Lingvo
 
-codex_options_experimental              Experimental
-codex_options_enablevbo                 Enable Vertex Buffer Objects
+codex_options_experimental              Eksperimenta
+codex_options_enablevbo                 Ŝalti vertican bufran objekton
 
-codex_nitgs_filtercaption               Filter
-codex_nitgs_filterall                   All
-codex_nitgs_filtermen                   Men
-codex_nitgs_filterwomen                 Women
+codex_nitgs_filtercaption               Filtri
+codex_nitgs_filterall                   Ĉiuj
+codex_nitgs_filtermen                   Malinaj
+codex_nitgs_filterwomen                 Inaj
 
-codex_enabled                           Enabled
-codex_disabled                          Disabled
+codex_enabled                           Ŝaltita
+codex_disabled                          Elŝaltita
 
-codex_option_intake                     Continuous Intake
-codex_tooltip_intake                    If enabled, you will receive a random number of new prisoners every day... forever.\n\nIf disabled, you can chose when you are ready to receive prisoners by going to the reports and clicking on the prisoner tab.
-codex_option_fogofwar                   Fog of War
-codex_tooltip_fogofwar                  You will lose visibility of the insides of your prison buildings, unless you have Guards patrolling the area or CCTV cameras covering the area.
-codex_option_lakes                      Generate Lakes
-codex_tooltip_lakes                     Random lakes will block sections of your land. WARNING: Experimental.
-codex_option_forests                    Generate Forests
-codex_tooltip_forests                   Clusters of trees will appear on your land.
-codex_option_buildings                  Generate Buildings
-codex_tooltip_buildings                 Random derelict buildings will be left behind on your land, which you can use as you wish.
-codex_option_failure                    Failure Conditions
-codex_tooltip_failure                   An extra challenge! You will be sacked and it will be game over if you let things get too bad. (Riots, Bankruptcy, too many Deaths or Escapes, etc.)
-codex_option_unlimitedfunds             Unlimited Funds
-codex_tooltip_unlimitedfunds            Pure Sandbox Mode! You can spend as much money as you like right from the start, without having to worry or wait for more later.
-codex_option_gangs                      Gangs
-codex_tooltip_gangs                     Some prisoners will arrive with gang allegiences, and will attack rival gang members on site. Extra challenge.
-codex_option_events                     Events
-codex_tooltip_events                    Causes events to occur during the game to keep you on your toes. Adds extra challenge and an element of unpredictability. 
-codex_option_weather                    Weather and Temperature
-codex_tooltip_weather                   Adds changing weather and varying temperatures to your prison, requiring you to think about heating.
+codex_option_intake                     Kontinua akceptado
+codex_tooltip_intake                    Se ŝaltita, vi ricevos harzadan nombron da malliberuloj ĉiutage ... eterne.\n\nSe elŝaltita, vi povas decidi kiam vi pretas ricevi malliberulojn per iri raporton kaj alklaki la malliberulklapeton.
+codex_option_fogofwar                   Nebulo de Milito
+codex_tooltip_fogofwar                  Vi perdos videblon de la enternoj de viaj malliberejkonstruaĵoj, krom se vi havas gardistojn patrolantajn je la areo aŭ gvatkameraojn kovrantajn je la areo.
+codex_option_lakes                      Generi lagojn
+codex_tooltip_lakes                     Hazardaj lagoj blokos sekcionojn de via lando. AVERTOL: Eksperimenta.
+codex_option_forests                    Generi arbarojn
+codex_tooltip_forests                   Amasoj da arboj aperos sur via lando.
+codex_option_buildings                  Generi konstruaĵojn
+codex_tooltip_buildings                 Hazardaj forlasitaj konstruaĵoj forlasiĝos sur via lando, kiun vi povas laŭvole uzi.
+codex_option_failure                    Fiaskkondiĉoj
+codex_tooltip_failure                   Ekstra defio! Vi maldungiĝos kaj la ludo finiĝos se vi lasas al aferoj tro malboniĝi. (Turmulotoj, bankroto, tro da mortoj aŭ eskapoj, ktp.)
+codex_option_unlimitedfunds             Nelimigitaj financoj
+codex_tooltip_unlimitedfunds            Pura Provejo! Vi povas elspezi kiom vole plej multe ekde la komenco, sen devi maltrankviliĝi aŭ atendi pli ĝis poste.
+codex_option_gangs                      Bandoj
+codex_tooltip_gangs                     Iuj malliberuloj alvenos kun bandapartenecoj, kaj atakos rivalbandojn surejajn. Ekstra defio.
+codex_option_events                     Okazaĵoj
+codex_tooltip_events                    Kaŭzas okazaĵojn pli ofte okazi dum la ludo por restigi vin maldorma. Aldonas ekstran defion kaj neantaŭdireblecon.
+codex_option_weather                    Vetero kaj temperaturo
+codex_tooltip_weather                   Aldonas ŝanĝiĝantajn veteron kaj temperaturojn al via malliberejo, devigas al vi pensi pri varmigo.
 
-codex_option_funds                      Funds
-codex_tooltip_funds                     You will start with this much money in your bank account. Sell your established prisons from the Valuation screen to start with more funds.
+codex_option_funds                      Financoj
+codex_tooltip_funds                     Vi komenciĝos kun ĉi tiom da mono en via bankkonto. Vendu viajn establiitajn malliberejojn per la taksadekrano por komenciĝi kun pli da financoj.
 
-codex_transfer							Transfer
-codex_transferring						Transferring
-codex_in_prison							Currently Incarcerated
-codex_unavailable                       Unavailable
-codex_useravatar                        This is me
-codex_tooltip_useravatar                Mark this prisoner as your own entry. If you should somehow end up in prison yourself, this is the prisoner that will represent you.
-codex_tooltip_flagbio                   Report this bio as objectionable or offensive.
+codex_transfer							Transdoni
+codex_transferring						Trandonante
+codex_in_prison							Nune malliberigitaj
+codex_unavailable                       Nehavebla
+codex_useravatar                        Ĉi tiu estas mi
+codex_tooltip_useravatar                Marki ĉi tiun malliberulon kiel la vian. Se vi mem iel estontus malliberigita, ĉi tiu estas la malliberulo kiu reprezentos vin.
+codex_tooltip_flagbio                   Raporti ĉi tiun biografion kiel malaprobindan aŭ ofensivan.
 
-codex_workshop_current					Current Prison
-codex_workshop_publish					Publish this prison
-codex_workshop_update					Update
-codex_workshop_play						Play
-codex_workshop_downloading				Downloading
-codex_workshop_download_failed			Download Failed
-codex_workshop_publishing				Publishing...
-codex_workshop_new						NEW
-codex_workshop_title					Title
-codex_workshop_desc						Description
-codex_workshop_view_in_workshop			View in Steam Workshop
-codex_workshop_heading_pubed			Your published prisons
-codex_workshop_heading_subed			Subscribed prisons
-codex_workshop_published_by				Published by *P
-codex_workshop_published_by_you			Published by you
-codex_workshop_published_good			Prison Published
-codex_workshop_published_good_msg		Your prison has been published successfully.
-codex_workshop_published_bad			Failed To Publish Prison
-codex_workshop_published_bad_msg		Your prison failed to publish.
-codex_workshop_published_bad_msg_new	Your new prison has failed to publish. Please try again.
-codex_workshop_busy						Some magic is already happening with Steam. Please wait for that to finish first, then try again.
-codex_workshop_file_exists				You've already published a prison with this name. Please pick a different name.
-codex_workshop_generic_fail				Failed to publish your prison. Please try again.
-codex_workshop_download_bad				Failed To Download Prison
-codex_workshop_pa_workshop				Open Prison Architect Workshop
-codex_workshop_agreement				By submitting this item, you agree to the [url=http://steamcommunity.com/sharedfiles/workshoplegalagreement]workshop terms of service[/url].
+codex_workshop_current					Nuna malliberejo
+codex_workshop_publish					Publikigi ĉi tiun malliberejon
+codex_workshop_update					Ĝisdatigi
+codex_workshop_play						Ludi
+codex_workshop_downloading				Elŝutante
+codex_workshop_download_failed			Elŝuto fiaskis
+codex_workshop_publishing				Publikigante ...
+codex_workshop_new						NOVA
+codex_workshop_title					Titolo
+codex_workshop_desc						Priskribo
+codex_workshop_view_in_workshop			Vidi en Steam Workshop
+codex_workshop_heading_pubed			Viaj publikigitaj malliberejoj
+codex_workshop_heading_subed			Abonitaj malliberejoj
+codex_workshop_published_by				Publikigita de *P
+codex_workshop_published_by_you			Publikigita de vi
+codex_workshop_published_good			Malliberejo publikigita
+codex_workshop_published_good_msg		Via malliberejo sukcese publikiĝis.
+codex_workshop_published_bad			Fiaskis publikigi malliberejon
+codex_workshop_published_bad_msg		Via malliberejo fiaskis publikiĝi.
+codex_workshop_published_bad_msg_new	Via nova malliberejo fiaskis publikiĝi. Bonvole repenu.
+codex_workshop_busy						Iu magio jam okazas rilate al Steam. Bonvole unue atendu tion finiĝi, kaj tiam repenu.
+codex_workshop_file_exists				Vi jam publikigis malliberejon tiunoman. Bonvole elektu alian.
+codex_workshop_generic_fail				Fiaskis publikigi vian malliberejon. Bonvole repenu.
+codex_workshop_download_bad				Fiaskis elŝuti malliberejon
+codex_workshop_pa_workshop				Malfermi je Prison Architect Workshop
+codex_workshop_agreement				Sendante ĉi tion, vi interkonsentas al la [url=http://steamcommunity.com/sharedfiles/workshoplegalagreement]uzkondiĉoj de Steam Workshop[/url].
 
-codex_options_timelapse					Time Lapse
-codex_timelapse_record					Record Time Lapse
-codex_timelapse_stop					Stop Time Lapse
-codex_timelapse_camera					Camera Mode
-codex_timelapse_resolution				Resolution
-codex_timelapse_customresw				Custom Res Width
-codex_timelapse_customresh				Custom Res Height
-codex_timelapse_resolution				Resolution
-codex_timelapse_fps						Playback Rate
-codex_timelapse_interval				Capture Interval
-codex_timelapse_quality					Quality
-codex_timelapse_unsupported				This feature is unavailable on your hardware.
-codex_timelapse_savesettings			Save Settings
+codex_options_timelapse					Fulmfilmeto
+codex_timelapse_record					Registri fulmfilmeton
+codex_timelapse_stop					Ĉesigi fulmfilmeton
+codex_timelapse_camera					Kamerareĝimo
+codex_timelapse_resolution				Distingivo
+codex_timelapse_customresw				Laŭmenda distingivlarĝeco
+codex_timelapse_customresh				Laŭmenda distingivalteco
+codex_timelapse_resolution				Distingivo
+codex_timelapse_fps						Bildrapido
+codex_timelapse_interval				Kaptintervalo
+codex_timelapse_quality					Kvalito
+codex_timelapse_unsupported				Ĉi tiu funkcio nehaveblas en via aparataro.
+codex_timelapse_savesettings			Konservi agordojn
 
-codex_timelapse_cam_zoom                Zoom Camera
-codex_timelapse_cam_fitmap              Fit Map
-codex_timelapse_cam_fitheight           Fit Map Height
-codex_timelapse_cam_fitwidth            Fit Map Width
+codex_timelapse_cam_zoom                Zomi kameraon
+codex_timelapse_cam_fitmap              Taŭgigi mapon
+codex_timelapse_cam_fitheight           Taŭgigi mapaltecon
+codex_timelapse_cam_fitwidth            Taŭgigi maplarĝecon
 codex_timelapse_fps_value               *X FPS
-codex_timelapse_quality_high            High
-codex_timelapse_quality_med             Medium
-codex_timelapse_quality_low             Low
-codex_timelapse_interval_value          *X Game Minutes
-timelapse_caption                       Timelapse recording length *X:*Y, *Z frames recorded, backlog: *T
+codex_timelapse_quality_high            Alta
+codex_timelapse_quality_med             Meza
+codex_timelapse_quality_low             Malalta
+codex_timelapse_interval_value          *X Ludminutoj
+timelapse_caption                       Fulmfilmetregistrolongeco *X:*Y, *Z bilodj registritaj, envicaj: *T
 
-codex_performance_running				Performance Test Running
-codex_performance_time					Time Left: *Ts
-codex_performance_current				Current Frame Time: *Tms
-codex_performance_min					Min Frame Time: *Tms
-codex_performance_avg					Average Frame Time: *Tms
-codex_performance_max					Max Frame Time: *Tms
-codex_performance_numframes				Num Frames: *T
+codex_performance_running				Redimenttesto kuranta
+codex_performance_time					Restanta tempo: *Ts
+codex_performance_current				Nuna bildrapido: *Tms
+codex_performance_min					Minimuma bildrapido: *Tms
+codex_performance_avg					Mezuma bildrapido: *Tms
+codex_performance_max					Maksimuma bildrapido: *Tms
+codex_performance_numframes				Nombro da bildoj: *T
 
-codex_last_modified						Last Modified: *T
-codex_sortbydesc						Sort By Date
-codex_sortname							Name
-codex_sortdate							Date
-codex_apply								Apply
-codex_select                            Select
+codex_last_modified						Laste redaktita: *T
+codex_sortbydesc						Sorti laŭ dato
+codex_sortname							Nomo
+codex_sortdate							Dato
+codex_apply								Apliki
+codex_select                            Elekti
 
-codex_mods								Mods
-codex_mod_activetitle					Active Mods
-codex_mod_inactivetitle					Available Mods
-codex_mod_deactivate					Deactivate all mods
-codex_mod_wiki							Find more mods (Wiki)
-codex_mod_openmodsfolder				Open Mods Folder
-codex_mod_moresteammods					Find more mods (Steam Workshop)
-codex_mod_findsteamtranslations         Find more translations (Steam Workshop)
-codex_authortitle                       Author
-codex_versiontitle                      Version
-codex_datetitle                         Date
-codex_urltitle                          URL
-codex_typetitle							Type
-codex_mod_graphicsandsound				Graphics and Sounds
-codex_mod_translation					Translation
-codex_mod_scenario						Scenario
-codex_mod_content						Content
-codex_mod_load_scenario					Play Scenario
-codex_publishmod						Publish This Mod
+codex_mods								Ludredaktaĵoj
+codex_mod_activetitle					Ŝaltitaj ludredaktaĵoj
+codex_mod_inactivetitle					Haveblaj ludredaktaĵoj
+codex_mod_deactivate					Elŝalti ĉiujn ludredaktaĵojn
+codex_mod_wiki							Trovi pli da ludredaktaĵoj (Vikipedio)
+codex_mod_openmodsfolder				Malfermi ludredaktaĵdosierujon
+codex_mod_moresteammods					Trovi pli da ludredaktaĵoj (Steam Workshop)
+codex_mod_findsteamtranslations         Trovi pli da tradukoj (Steam Workshop)
+codex_authortitle                       Aŭtoro
+codex_versiontitle                      Versio
+codex_datetitle                         Dato
+codex_urltitle                          Retadreso
+codex_typetitle							Tipo
+codex_mod_graphicsandsound				Grafiko kaj sono
+codex_mod_translation					Traduko
+codex_mod_scenario						Scenaro
+codex_mod_content						Enhavo
+codex_mod_load_scenario					Ludi scenaron
+codex_publishmod						Publikigi ĉi tiun ludredaktaĵon
 
-codex_mod_update						Update This Mod
-codex_mod_published_good				Mod Published
-codex_mod_published_good_msg			Your mod has been published successfully.
-codex_mod_published_bad					Failed To Publish Mod
-codex_mod_published_bad_msg				Your mod failed to publish.
-codex_mod_modsupdated					Mods Updated
-codex_mod_modsupdated_msg				Some of your active mods have been updated. Click OK to apply the new changes. Your game will be autosaved.
-codex_mod_translationcaption            Is this a translation to another language?
+codex_mod_update						Ĝisdatigi ĉi tiun ludredaktaĵon
+codex_mod_published_good				Ludredaktaĵo publikiĝis
+codex_mod_published_good_msg			Via ludredaktaĵo sukcese publikiĝis.
+codex_mod_published_bad					Fiaskis publikigi ludredaktaĵon
+codex_mod_published_bad_msg				Via ludredaktaĵo fiaskis publikiĝi.
+codex_mod_modsupdated					Ludredaktaĵoj ĝisdatigitaj
+codex_mod_modsupdated_msg				Iuj el viaj ŝaltitaj ludredaktaĵoj ĝisdatiĝis. Alklaku bone por apliki la novajn ŝanĝojn. Via ludo aŭtomate konserviĝos.
+codex_mod_translationcaption            Ĉu ĉi tio estas traduko al alia lingvo?
 
-codex_language                          Language
-codex_language_englishdefault           English (Default)
-codex_language_default                  Default Language
-codex_language_download                 Download
-codex_language_failed_download          Failed To Download Translation
-codex_language_failed_download_msg      Your selected translation has failed to download.
-codex_language_searching_workshop       Searching Steam Workshop
-codex_language_community                This translation is created and maintained by the community - Thank You!
+codex_language                          Lingvo
+codex_language_englishdefault           La angla (defaŭlta)
+codex_language_default                  Defaŭlta lingvo
+codex_language_download                 Elŝulti
+codex_language_failed_download          Fiaskis elŝulti tradukon
+codex_language_failed_download_msg      Via elektita traduko fiaskis elŝuti.
+codex_language_searching_workshop       Serĉas en Steam Workshop
+codex_language_community                Ĉi tiu traduko estas kreita kaj traktita de la komunumo - Dankon!
 
-codex_polaroids_new                     NEW
+codex_polaroids_new                     NOVA
 
-codex_save_confirm                      Are you sure you wish to overwrite *X with the current prison?
-codex_researtchapter_confirm            Are you sure you wish to restart the current chapter? Unsaved progress will be lost.
+codex_save_confirm                      Ĉu vi certas ke vi volas superskribi *X per via nova malliberejo?
+codex_researtchapter_confirm            Ĉu vi certas ke vi volas rekomenci la nunan ĉapitron? Nekonservita progreso perdiĝos.
 
-codex_premadeprisons                    Premade Prisons
+codex_premadeprisons                    Antaŭkreitaj malliberejoj
 
 codex_trending_more                     ...
-codex_sortbycaption                     Sort By:
-codex_trending_oneday                   One Day
-codex_trending_oneweek                  One Week
-codex_trending_threemonths              Three Months
-codex_trending_sixmonths                Six Months
-codex_trending_oneyear                  One Year
-codex_trending_alltime                  All Time
-codex_trending_failedtogetlist          Failed to get prison list
-codex_trending_failedtogetlist_msg      Failed to get the list of trending prisons.
+codex_sortbycaption                     Sorti laŭ:
+codex_trending_oneday                   Unu tagon
+codex_trending_oneweek                  Unu semajnon
+codex_trending_threemonths              Tri monatojn
+codex_trending_sixmonths                Ses monatojn
+codex_trending_oneyear                  Unu jaron
+codex_trending_alltime                  Ĉiam
+codex_trending_failedtogetlist          Fiaskis atingi malliberejaron
+codex_trending_failedtogetlist_msg      Fiaskis atingi la liston de ŝategataj malliberejoj.
 
-codex_settings                          Map Settings
-codex_settings_gangs                    Enable Gangs
-codex_settings_events                   Enable Events
-codex_settings_weather                  Enable Weather
-codex_settings_confirm                  Once enabled, this setting cannot be deactivated. Are you sure you wish to enable *X?
+codex_settings                          Mapagordoj
+codex_settings_gangs                    Ŝalti bandojn
+codex_settings_events                   Ŝalti okazaĵojn
+codex_settings_weather                  Ŝalti veteron
+codex_settings_confirm                  Kiam ŝaltita, ĉi tiu agordo ne povas elŝaltiĝi. Ĉu vi certas ke vi volas ŝalti je *X?
 
 # =============================================================================
 # Graphics Change Confirmation
