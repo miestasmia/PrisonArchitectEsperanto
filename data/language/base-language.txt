@@ -886,10 +886,10 @@ codex_settings_confirm                  Kiam ŝaltita, ĉi tiu agordo ne povas e
 # Graphics Change Confirmation
 # =============================================================================
 
-graphicschange_message					Do you wish to keep these graphics options? These changes will revert in
-graphicschange_time						seconds.
-graphicschange_accept					Accept
-graphicschange_revert					Revert
+graphicschange_message					Ĉu vi volas pluhavi ĉi tiujn grafikagordojn? Ĉi tiuj ŝanĝoj reiros post
+graphicschange_time						sekundoj.
+graphicschange_accept					Akcepti
+graphicschange_revert					Reiri
 
 # =============================================================================
 # Script
