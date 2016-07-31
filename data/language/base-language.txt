@@ -925,8 +925,8 @@ biography_prisoner_name                 *S, *F
 biography_prisoner_number               Malliberulo #*X
 biography_prisoner_age                  Aĝo : *X
 biography_prisoner_traits               Trajtoj  :
-biography_prisoner_convicted            Kondamnita de *C (pledis *P)
-biography_prisoner_sentenced            Juĝita je *X jaroj en malliberejo
+biography_prisoner_convicted            Juĝiĝis de *C (pledis kiel *P)
+biography_prisoner_sentenced            Juĝiĝis *X jarojn en malliberejo
 biography_parole_now                    Elektebla por provizora liberigo
 biography_parole_later                  Elektebla por provizora liberigo post *X jaroj
 biography_prisoner_served               Pune restis *X jarojn
@@ -937,75 +937,75 @@ biography_prisoner_priors               Antaŭaj punoj:
 # Rap Sheet
 # =============================================================================
 
-rapsheet_age							Age:
-rapsheet_category						Category:
-rapsheet_traits							Known Traits:
-rapsheet_conviction_text				*C - *Y years
-rapsheet_found_text						(Plea: *P)
-rapsheet_convictions					Convictions
-rapsheet_misconductstitle				Recent Misconduct
-rapsheet_biography                      Biography
-rapsheet_guilty							Guilty
-rapsheet_notguilty						Not guilty
-rapsheet_served							Served
-rapsheet_served_time					Served *Y years
-rapsheet_time							*Y years
-rapsheet_bio							Sentenced to *Y years for *A.
-rapsheet_bio_med						Sentenced to *Y years for multiple crimes including *A, and *B.
-rapsheet_bio_long						Sentenced to *Y years for multiple crimes including *A, *B, and *C.
-rapsheet_category_minsec				Minimum Security
-rapsheet_category_normal				Normal Security
-rapsheet_category_maxsec				Maximum Security
-rapsheet_category_protected             Protective Custody
-rapsheet_category_supermax              SuperMax
-rapsheet_category_deathrow              Death Row
-rapsheet_tab_biography                  Biography
-rapsheet_tab_experience                 Experience
-rapsheet_tab_grading                    Grading
-rapsheet_tab_character                  Character
-rapsheet_punish                         Punish
-rapsheet_recruit                        Recruit Informant
+rapsheet_age							Aĝo:
+rapsheet_category						Kategorio:
+rapsheet_traits							Konataj trajtoj:
+rapsheet_conviction_text				*C - *Y jarojn
+rapsheet_found_text						(Pledo: *P)
+rapsheet_convictions					Konvinkoj
+rapsheet_misconductstitle				Lastatempa miskonduto
+rapsheet_biography                      Biografio
+rapsheet_guilty							Kulpa
+rapsheet_notguilty						Ne kulpa
+rapsheet_served							Pune restis
+rapsheet_served_time					Pune restis *Y jarojn
+rapsheet_time							*Y jarojn
+rapsheet_bio							Juĝiĝis *Y jarojn pro *A.
+rapsheet_bio_med						Juĝiĝis *Y jarojn pro pluraj krimoj inkluzive *A, kaj *B.
+rapsheet_bio_long						Juĝiĝis *Y jarojn pro pluraj krimoj inkluzive *A, *B, kaj *C.
+rapsheet_category_minsec				Minimuma Sekureco
+rapsheet_category_normal				Normala Sekureco
+rapsheet_category_maxsec				Maksimuma Sekureco
+rapsheet_category_protected             Protektiva Gardo
+rapsheet_category_supermax              Supermaskimuma Sekureco
+rapsheet_category_deathrow              Mortvicano
+rapsheet_tab_biography                  Biografio
+rapsheet_tab_experience                 Sperto
+rapsheet_tab_grading                    Gradigo
+rapsheet_tab_character                  Karaktero
+rapsheet_punish                         Puni
+rapsheet_recruit                        Dungi informanton
 
-rapsheet_timeinside                     *X days in your prison
-rapsheet_timeinside_hours               *X hours in your prison
-rapsheet_mood                           Mood
-rapsheet_activity                       Activity
-rapsheet_condition                      Condition
-rapsheet_program                        Program
-rapsheet_passchance                     Success Chance
-rapsheet_reformhistory                  Reform Program History
+rapsheet_timeinside                     *X tagojn en via malliberejo
+rapsheet_timeinside_hours               *X tagojn en via malliberejo
+rapsheet_mood                           Humoro
+rapsheet_activity                       Aktivecoj
+rapsheet_condition                      Stato
+rapsheet_program                        Programo
+rapsheet_passchance                     Sukcesŝanco
+rapsheet_reformhistory                  Reformprogramhistorio
 
-rapsheet_reform_success                 Success
-rapsheet_reform_successcount            Completed *X times
-rapsheet_reform_failed                  Failed
-rapsheet_reform_failcount               Failed *X times
+rapsheet_reform_success                 Sukceso
+rapsheet_reform_successcount            Finis *X-foje
+rapsheet_reform_failed                  Fiaskis
+rapsheet_reform_failcount               Fiaskis *X-foje
 
-rapsheet_grading_punishment             Punishment
-rapsheet_grading_health                 Health
-rapsheet_grading_security               Security
-rapsheet_grading_reform                 Reform
-rapsheet_grading_points                 *X points : 
-rapsheet_grading_penalties              *X penalties : 
+rapsheet_grading_punishment             Puniĝado
+rapsheet_grading_health                 Saneco
+rapsheet_grading_security               Sekureco
+rapsheet_grading_reform                 Reformo
+rapsheet_grading_points                 *X poentoj : 
+rapsheet_grading_penalties              *X punoj : 
 
-rapsheet_scheduleexecution              Schedule Execution
+rapsheet_scheduleexecution              Aranĝi ekzekuton
 
 
-punish_lockdown_6                       Lockdown (6hrs)
-punish_lockdown_12                      Lockdown (12hrs)
-punish_lockdown_24                      Lockdown (24hrs)
-punish_solitary_6                       Solitary (6hrs)
-punish_solitary_12                      Solitary (12hrs)
-punish_solitary_24                      Solitary (24hrs)
-punish_solitary_perm                    Solitary (Permanent)
-punish_lockdown_perm                    Lockdown (Permanent)
-punish_solitary                         Solitary
-punish_lockdown                         Lockdown
-punish_none                             None
+punish_lockdown_6                       Enĉelŝlosi (6 horojn)
+punish_lockdown_12                      Enĉelŝlosi (12 horojn)
+punish_lockdown_24                      Enĉelŝlosi (24 horojn)
+punish_solitary_6                       Enizolitecigi (6 horojn)
+punish_solitary_12                      Enizolitecigi (12 horojn)
+punish_solitary_24                      Enizolitecigi (24 horojn)
+punish_solitary_perm                    Enizolitecigi (Permanente)
+punish_lockdown_perm                    Enĉelŝlosi (Permanente)
+punish_solitary                         Enizolitecigi
+punish_lockdown                         Enĉelŝlosi
+punish_none                             Nenio
 punish_timer                            *Xh *Ym
 punish_timer_minutes                    *Xm
-punish_active                           ACTIVE
-punish_permanent                        (Permanent)
-punish_end                              End Punishment
+punish_active                           AKTIVE
+punish_permanent                        (Permanente)
+punish_end                              Fini punon
 
 # =============================================================================
 # Misconducts
