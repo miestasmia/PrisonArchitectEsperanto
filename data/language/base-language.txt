@@ -886,7 +886,7 @@ codex_settings_confirm                  Kiam ŝaltita, ĉi tiu agordo ne povas e
 # Graphics Change Confirmation
 # =============================================================================
 
-graphicschange_message					Ĉu vi volas pluhavi ĉi tiujn grafikagordojn? Ĉi tiuj ŝanĝoj reiros post
+graphicschange_message					Ĉu vi volas pluhavi ĉi tiujn grafikagordojn? Ĉi tiuj ŝanĝoj malfariĝos post
 graphicschange_time						sekundoj.
 graphicschange_accept					Akcepti
 graphicschange_revert					Reiri
