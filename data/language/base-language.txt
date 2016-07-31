@@ -1011,25 +1011,25 @@ punish_end                              Fini punon
 # Misconducts
 # =============================================================================
 
-misconduct_reporttype_none                  None
-misconduct_reporttype_complaint             Complaint
-misconduct_reporttype_destruction           Destruction
-misconduct_reporttype_escapeattempt         Escape Attempt
-misconduct_reporttype_injuredprisoner       Attacked Prisoner
-misconduct_reporttype_injuredstaff          Attacked Staff
-misconduct_reporttype_seriousinjury         Serious Injury
-misconduct_reporttype_murder                Murder
-misconduct_reporttype_contrabandweapons     Found Weapons
-misconduct_reporttype_contrabandtools       Found Tools
-misconduct_reporttype_contrabandnarcotics   Found Drugs
-misconduct_reporttype_contrabandluxuries    Found Luxuries
-misconduct_reporttype_intoxicated           Intoxication
-misconduct_title                            =[Misconduct]=
+misconduct_reporttype_none                  Nenio
+misconduct_reporttype_complaint             Plendo
+misconduct_reporttype_destruction           Destruo
+misconduct_reporttype_escapeattempt         Escapprovo
+misconduct_reporttype_injuredprisoner       Atakis malliberulon
+misconduct_reporttype_injuredstaff          Atakis dungitaranon
+misconduct_reporttype_seriousinjury         Grava lezo
+misconduct_reporttype_murder                Murdo
+misconduct_reporttype_contrabandweapons     Trovis armilojn
+misconduct_reporttype_contrabandtools       Trovis ilojn
+misconduct_reporttype_contrabandnarcotics   Trovis drogojn
+misconduct_reporttype_contrabandluxuries    Trovis luksaĵojn
+misconduct_reporttype_intoxicated           Ebrio
+misconduct_title                            =[Miskonduto]=
 
-misconduct_report_addiction                 Addicted to *X
-misconduct_report_recoving                  Recovering from *X addiction
-misconduct_report_alcoholic                 Alcoholic
-misconduct_report_recovingalcoholic         Recovering alcoholic
+misconduct_report_addiction                 Toksomania je *X
+misconduct_report_recoving                  Reakiras de *Xtoksomanio
+misconduct_report_alcoholic                 Alkoholisto
+misconduct_report_recovingalcoholic         Reakiranta alkoholisto
 
 
 # =============================================================================
