@@ -895,25 +895,25 @@ graphicschange_revert					Reiri
 # Script
 # =============================================================================
 
-scriptdebugger_title                    Script Debugger (F3)
+scriptdebugger_title                    Skripterarserĉilo (F3)
 
 # =============================================================================
 # Mod Confirmation
 # =============================================================================
 
-modnotification_title                   Mod Differences Found
-modnotification_info                    These mods were used when the current prison was saved. We highly recommend downloading and activating them before playing this prison.
-modnotification_playnow                 Play Now
-modnotification_active                  Active
-modnotification_inactive                Inactive
-modnotification_new                     New
-modnotification_unknown                 Unknown
-modnotification_popup_title             Mod difference
-modnotification_popup_active            This mod is currently active. Click to deactivate.
-modnotification_popup_inactive          This mod is currently inactive. Click to activate.
-modnotification_popup_new_url           This is a new mod. Click to open it's link in a web browser.
-modnotification_popup_new_steam         This is a new steam mod. Click to subscribe to and download the mod now.
-modnotification_popup_unknown           We were unable to determine where this mod came from. Please find and install this mod yourself.
+modnotification_title                   Ludredaktaĵdiferencoj trovitaj
+modnotification_info                    Ĉi tiuj ludredaktaĵoj uziĝis kiam la nuna malliberejo konserviĝis. Ni tre konsilas elŝuti kaj ŝalti ilin antaŭ ol ludi ĉi tiun malliberejon.
+modnotification_playnow                 Nun ludi
+modnotification_active                  Ŝaltita
+modnotification_inactive                Elŝaltita
+modnotification_new                     Nova
+modnotification_unknown                 Nekonata
+modnotification_popup_title             Ludredaktaĵdiferenco
+modnotification_popup_active            Ĉi tiu ludredaktaĵo nune ŝaltitas. Alklaku por elŝalti.
+modnotification_popup_inactive          Ĉi tiu ludredaktaĵo nune elŝaltitas. Alklaku por ŝalti.
+modnotification_popup_new_url           Ĉi tio estas nova ludredaktaĵo. Alklaku por malfermi ĝian ligilon en retumilo.
+modnotification_popup_new_steam         Ĉi tio estas nova steamludredaktaĵo. Aklaku por aboni kaj elŝuti ĝin nun.
+modnotification_popup_unknown           Ni ne povis determini de kie ĉi tiu ludredaktaĵo venas. Bonvole trovi kaj mem instali ĉi tiun ludredaktaĵon.
 
 # =============================================================================
 # Biography
