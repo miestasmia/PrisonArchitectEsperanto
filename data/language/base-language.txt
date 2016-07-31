@@ -919,18 +919,18 @@ modnotification_popup_unknown           Ni ne povis determini de kie ĉi tiu lud
 # Biography
 # =============================================================================
 
-biography_search                        Stop and Search
-biography_selected                      SELECTED
+biography_search                        Ĉesi kaj serĉi
+biography_selected                      ELEKTITA
 biography_prisoner_name                 *S, *F
-biography_prisoner_number               Prisoner #*X
-biography_prisoner_age                  Age : *X
-biography_prisoner_traits               Traits  :
-biography_prisoner_convicted            Convicted of *C (pleaded *P)
-biography_prisoner_sentenced            Sentenced to *X years in jail
-biography_parole_now                    Eligible for parole now
-biography_parole_later                  Eligible for parole after *X years
-biography_prisoner_served               Served *X years
-biography_prisoner_priors               Priors: 
+biography_prisoner_number               Malliberulo #*X
+biography_prisoner_age                  Aĝo : *X
+biography_prisoner_traits               Trajtoj  :
+biography_prisoner_convicted            Kondamnita de *C (pledis *P)
+biography_prisoner_sentenced            Juĝita je *X jaroj en malliberejo
+biography_parole_now                    Elektebla por provizora liberigo
+biography_parole_later                  Elektebla por provizora liberigo post *X jaroj
+biography_prisoner_served               Pune restis *X jarojn
+biography_prisoner_priors               Antaŭaj punoj: 
 
 
 # =============================================================================
