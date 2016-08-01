@@ -224,7 +224,7 @@ interfacecontraband_informants                  Informantoj
 interfacecontraband_gangs                       Bandoj
 
 interfacecallout_fireengine                     Pumpkamiono
-interfacecallout_riotpolice                     Kontraŭtumultpolico
+interfacecallout_riotpolice                     Turmultgardisto
 interfacecallout_armedpolice                    Armita polico
 interfacecallout_paramedics                     Savistoj
 interfacecallout_soldiers                       Soldatoj
@@ -309,7 +309,7 @@ interfacetopbar_tension_lockedupprisoners       + *X malliberuloj kateniĝas en 
 interfacetopbar_tension_riotingprisoners        + *X malliberuloj tumultas
 interfacetopbar_tension_wellfedprisoners        - *X malliberuloj bone nutriĝas
 interfacetopbar_tension_suppressedprisoners     = *X malliberuloj subpremiĝas (konsentemas)
-interfacetopbar_tension_activeriotguards        + *X kontraŭtumultpolicanoj estas eje
+interfacetopbar_tension_activeriotguards        + *X turmultgardistoj estas eje
 interfacetopbar_tension_activearmedguards       + *X armitaj gardistoj estas ofice
 interfacetopbar_tension_recentdeaths            + *X homoj lastatempe mortigiĝis
 interfacetopbar_tension_recentsearches          + *X malliberuloj nenecese lastatempe traserĉiĝis
@@ -1036,54 +1036,54 @@ misconduct_report_recovingalcoholic         Reakiranta alkoholisto
 # Research Names + Captions
 # =============================================================================
 
-research_required                       You need a *X to prepare this report.
-research_requireunlock                  You need to research '*X' to unlock this report
-research_approved                       APPROVED
-research_cost                           Cost: *X
-research_costperitem                    + *X per item.
-research_timetounlock                   Time to unlock : *X hours
-research_movementpenalty                Movement Penalty: *X%
-research_protectionbonus                Protection: *X%
-research_tap_to_authorise               TAP TO AUTHORISE
+research_required                       Vi bezonas je *X por prepari ĉi tiun raporton.
+research_requireunlock                  Vi devas esplori je '*X' por malŝlosi ĉi tiun raporton
+research_approved                       APROBITA
+research_cost                           Kosto: *X
+research_costperitem                    + *X po aĵo.
+research_timetounlock                   Malŝlostempo : *X horojn
+research_movementpenalty                Movadpuno: *X%
+research_protectionbonus                Protektado: *X%
+research_tap_to_authorise               FRAPETU POR PERMESI
 
-research_none                           None
-research_warden                         Warden
-research_maintainance                   Maintenance
-research_security                       Security
-research_legal                          Legal
-research_mentalhealth                   Psychology
-research_finance                        Finance
-research_landexpansion                  Land Expansion
-research_cctv                           Surveillance
-research_riotguards                     Riot Guards
-research_health                         Health
-research_cleaning                       Cleaning
-research_groundskeeping                 Grounds Keeping
-research_clone                          Clone
-research_deployment                     Deployment
-research_patrols                        Patrols
-research_dogs                           Dogs
-research_prisonlabour                   Prison Labour
-research_education                      Education
-research_contraband                     Intelligence
-research_policy                         Prison Policy
-research_armoury                        Armoury
-research_bodyarmour                     Body Armour
-research_tazers                         Tazers
-research_tazersforeveryone              Tazer Rollout
-research_bankloans                      Bank Loan
-research_lowertaxes1                    Tax Relief
-research_lowertaxes2                    Offshore Tax Haven
-research_remoteaccess                   Remote Access
-research_extragrant                     Extra Grant
-research_advancedmanagement             Micromanagement
-research_deathrow                       Death Row
-research_permanentpunishment            Permanent Punishments
-research_removemincellsize              Small Cells
-research_reduceexecutionliability       Reduce Execution Liability
-research_legalprep                      Legal Prep
-research_legaldefense                   Legal Defense
-research_guardtowers                    Guard Towers
+research_none                           Nenio
+research_warden                         Malliberejestro
+research_maintainance                   Bontenado
+research_security                       Sekureco
+research_legal                          Leĝo
+research_mentalhealth                   Psikologio
+research_finance                        Financo
+research_landexpansion                  Landekspansio
+research_cctv                           Gvatado
+research_riotguards                     Turmultgardistoj
+research_health                         Saneco
+research_cleaning                       Lavado
+research_groundskeeping                 Ekstera bontenado
+research_clone                          Klonado
+research_deployment                     Deplojo
+research_patrols                        Patroloj
+research_dogs                           Hundoj
+research_prisonlabour                   Malliberejlaboro
+research_education                      Edukado
+research_contraband                     Informo
+research_policy                         Malliberejpolitiko
+research_armoury                        Armejo
+research_bodyarmour                     Korparmaĵo
+research_tazers                         Tasero
+research_tazersforeveryone              Taserdisdono
+research_bankloans                      Bankprunto
+research_lowertaxes1                    Impostreliefo
+research_lowertaxes2                    Eksterlanda impostrifuĝejo
+research_remoteaccess                   Demalproksima akceso
+research_extragrant                     Ekstra subvencio
+research_advancedmanagement             Mikromastrumado
+research_deathrow                       Mortvico
+research_permanentpunishment            Permanentaj punoj
+research_removemincellsize              Malgrandaj ĉeloj
+research_reduceexecutionliability       Pligrandigi ekzekutpasivon
+research_legalprep                      Leĝpreparado
+research_legaldefense                   Leĝdefendado
+research_guardtowers                    Gardistturoj
 
 researchtooltip_warden                  Unlocks the Warden, and the entire Bureaucracy system.  Hire him from the Staff toolbar.\n\nLike all Administrators, he requires an office to work.  
 researchtooltip_security                Unlocks the Chief of Security, who can be hired from the staff toolbar.  The chief gives you access to the Deployment screen, and will also give you a realtime report of the danger level of your prison, often predicting future trouble.\n\nLike all Administrators, he requires an office to work.  
