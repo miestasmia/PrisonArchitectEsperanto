@@ -1099,8 +1099,8 @@ researchtooltip_maintainance            Malŝlosas la laborestron.  Li permesas 
 researchtooltip_clone                   Malŝlosas la klonilon en la ĉefilo.  Uzu ĉi tiun ilon por rapide duobligi areojn de via malliberejo kiel ĉelojn.  Por uzi, elektu zonon kopiotan per dekstra ŝovo, kaj tiam maldekstra alklako por meti kopion.
 researchtooltip_groundskeeping          Malŝlosas la ĝardeniston.  Li restigos vian eksteran areon pura.
 researchtooltip_cleaning                Malŝlosas la laviston.  Li purigos ĉiujn enternajn areojn de via malliberejo kaj ankaŭ povas helpi pri la malliberejlavservo.
-researchtooltip_health                  Unlocks the Doctor, along with the Infirmary and the Morgue.  Injured prisoners and staff will be taken to the Infirmary and Doctors will patch them up.
-researchtooltip_MentalHealth            Unlocks the Psychologist, providing you with a valuable insight into your Prisoner's internal psychological state at all times.\n\nLike all Administrators, he requires an office to work.  
+researchtooltip_health                  Malŝlosas la kuraciston, kuracejon kaj la mortulejon.  Vunditaj malliberuloj kaj dungitaranoj preniĝos al la kurecejo kaj kuracistoj kuracos ilin.
+researchtooltip_MentalHealth            Malŝlosas la psikologiiston donantan al vi valorajn informojn pri la enternaj psikologiaj statoj ĉiamaj.\n\nKiel ĉiuj administrantoj, li bezonas oficejon por funkcii.
 researchtooltip_finance                 Unlocks the Accountant, which gives access to the financial report for your Prison.\n\nAlso allows you to spend more each day than your income would normally allow, assuming you have the funds in reserve.\n\nLike all Administrators, she requires an office to work.  
 researchtooltip_landexpansion           Authorises you to purchase neighbouring plots of land, and thereby expand the size of your prison beyond its initial bounds.
 researchtooltip_prisonlabour            Allows you to put your prisoners to work around your prison (Cooking, Cleaning etc), saving you on staff wages, earning you money, and teaching your prisoners new skills at the same time.\n\nAlso Unlocks the Workshop and the Laundry.
