@@ -4361,3087 +4361,3087 @@ msgid ""
 "They are exhausted."
 msgstr ""
 
-#~ msgid "SuperMax"
-#~ msgstr "Supermaskimuma Sekureco"
+msgid "SuperMax"
+msgstr "Supermaskimuma Sekureco"
 
-#~ msgid "Your prison has been published successfully."
-#~ msgstr "Via malliberejo sukcese publikiĝis."
+msgid "Your prison has been published successfully."
+msgstr "Via malliberejo sukcese publikiĝis."
 
-#~ msgid "Closed"
-#~ msgstr "Fermita"
+msgid "Closed"
+msgstr "Fermita"
 
-#~ msgid "Finances"
-#~ msgstr "Financo"
+msgid "Finances"
+msgstr "Financo"
 
-#~ msgid "Grid"
-#~ msgstr "Krado"
+msgid "Grid"
+msgstr "Krado"
 
-#~ msgid ""
-#~ "Adds changing weather and varying temperatures to your prison, requiring "
-#~ "you to think about heating."
-#~ msgstr ""
-#~ "Aldonas ŝanĝiĝantajn veteron kaj temperaturojn al via malliberejo, "
-#~ "devigas al vi pensi pri varmigo."
+msgid ""
+"Adds changing weather and varying temperatures to your prison, requiring "
+"you to think about heating."
+msgstr ""
+"Aldonas ŝanĝiĝantajn veteron kaj temperaturojn al via malliberejo, "
+"devigas al vi pensi pri varmigo."
 
-#~ msgid ""
-#~ "You will lose visibility of the insides of your prison buildings, unless "
-#~ "you have Guards patrolling the area or CCTV cameras covering the area."
-#~ msgstr ""
-#~ "Vi perdos videblon de la enternoj de viaj malliberejkonstruaĵoj, krom se "
-#~ "vi havas gardistojn patrolantajn je la areo aŭ gvatkameraojn kovrantajn "
-#~ "je la areo."
+msgid ""
+"You will lose visibility of the insides of your prison buildings, unless "
+"you have Guards patrolling the area or CCTV cameras covering the area."
+msgstr ""
+"Vi perdos videblon de la enternoj de viaj malliberejkonstruaĵoj, krom se "
+"vi havas gardistojn patrolantajn je la areo aŭ gvatkameraojn kovrantajn "
+"je la areo."
 
-#~ msgid "+ *X prisoners are rioting"
-#~ msgstr "+ *X malliberuloj tumultas"
+msgid "+ *X prisoners are rioting"
+msgstr "+ *X malliberuloj tumultas"
 
-#~ msgid ""
-#~ "Allows you to permanently station Guards to the sectors of your Prison."
-#~ msgstr ""
-#~ "Permesas al vi permanente enpostenigi gardistojn en la sektoroj de via "
-#~ "malliberejo."
+msgid ""
+"Allows you to permanently station Guards to the sectors of your Prison."
+msgstr ""
+"Permesas al vi permanente enpostenigi gardistojn en la sektoroj de via "
+"malliberejo."
 
-#~ msgid "Lock shut"
-#~ msgstr "Pordreĝimo: Ŝlosite fermita"
+msgid "Lock shut"
+msgstr "Pordreĝimo: Ŝlosite fermita"
 
-#~ msgid "None"
-#~ msgstr "Nenio"
+msgid "None"
+msgstr "Nenio"
 
-#~ msgid "seconds."
-#~ msgstr "sekundoj."
+msgid "seconds."
+msgstr "sekundoj."
 
-#~ msgid ""
-#~ "Armed with a shotgun, prisoners will think twice before attacking this "
-#~ "fellow.\n"
-#~ "\n"
-#~ "Note: Each armed guard requires his own locker in the Armoury."
-#~ msgstr ""
-#~ "Armita per ĉaspafilo, malliberuloj duoble pensos antaŭ ol ili atakos ĉi "
-#~ "tiun ulon.\n"
-#~ "\n"
-#~ "Notu: Ĉiu armita gardisto bezonas sian propran ŝrankon en la armejo."
+msgid ""
+"Armed with a shotgun, prisoners will think twice before attacking this "
+"fellow.\n"
+"\n"
+"Note: Each armed guard requires his own locker in the Armoury."
+msgstr ""
+"Armita per ĉaspafilo, malliberuloj duoble pensos antaŭ ol ili atakos ĉi "
+"tiun ulon.\n"
+"\n"
+"Notu: Ĉiu armita gardisto bezonas sian propran ŝrankon en la armejo."
 
-#~ msgid "Play"
-#~ msgstr "Ludi"
+msgid "Play"
+msgstr "Ludi"
 
-#~ msgid ""
-#~ "A multiple-occupancy cell for holding multiple prisoners. Can hold up to "
-#~ "8 prisoners."
-#~ msgstr ""
-#~ "Plurloĝiga ĉelo por loĝigi plurajn malliberulojn. Povas loĝigi ĝis 8 "
-#~ "malliberulojn."
+msgid ""
+"A multiple-occupancy cell for holding multiple prisoners. Can hold up to "
+"8 prisoners."
+msgstr ""
+"Plurloĝiga ĉelo por loĝigi plurajn malliberulojn. Povas loĝigi ĝis 8 "
+"malliberulojn."
 
-#~ msgid "Staff Only"
-#~ msgstr "Nur dungitaro"
+msgid "Staff Only"
+msgstr "Nur dungitaro"
 
-#~ msgid "Pre-order Now"
-#~ msgstr "Antaŭmendi nun"
+msgid "Pre-order Now"
+msgstr "Antaŭmendi nun"
 
-#~ msgid "24 Hour"
-#~ msgstr "24 Hora"
+msgid "24 Hour"
+msgstr "24 Hora"
 
-#~ msgid "(Permanent)"
-#~ msgstr "(Permanente)"
+msgid "(Permanent)"
+msgstr "(Permanente)"
 
-#~ msgid "Quality"
-#~ msgstr "Kvalito"
+msgid "Quality"
+msgstr "Kvalito"
 
-#~ msgid "Income *I"
-#~ msgstr "Enspezoj *I"
-
-#, fuzzy
-#~ msgid "Bureaucracy"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Burokatrio\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Burokratio"
-
-#~ msgid "Murder"
-#~ msgstr "Murdo"
-
-#~ msgid ""
-#~ "Shows all contraband confiscated in the last 7 days. The icons show where "
-#~ "the contraband was confiscated."
-#~ msgstr "Montras ĉiun kontrabandon konfiskitan dum la pasintaj 7 tagoj."
-
-#~ msgid "Tazer Rollout"
-#~ msgstr "Taserdisdono"
-
-#~ msgid "Completed *X times"
-#~ msgstr "Finis *X-foje"
-
-#~ msgid "Armoury"
-#~ msgstr "Armejo"
-
-#~ msgid "New"
-#~ msgstr "Nova"
-
-#~ msgid "Reform"
-#~ msgstr "Reformo"
-
-#~ msgid "Custom Res Height"
-#~ msgstr "Laŭmenda distingivalteco"
+msgid "Income *I"
+msgstr "Enspezoj *I"
 
 #, fuzzy
-#~ msgid "High"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Alta\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Alte\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Alta"
+msgid "Bureaucracy"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Burokatrio\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Burokratio"
 
-#~ msgid "Update"
-#~ msgstr "Ĝisdatigi"
+msgid "Murder"
+msgstr "Murdo"
 
-#~ msgid "*X Stationed"
-#~ msgstr "*X Postenigitaj"
+msgid ""
+"Shows all contraband confiscated in the last 7 days. The icons show where "
+"the contraband was confiscated."
+msgstr "Montras ĉiun kontrabandon konfiskitan dum la pasintaj 7 tagoj."
 
-#~ msgid "Select"
-#~ msgstr "Elekti"
+msgid "Tazer Rollout"
+msgstr "Taserdisdono"
 
-#~ msgid "Container"
-#~ msgstr "Ujo"
+msgid "Completed *X times"
+msgstr "Finis *X-foje"
 
-#~ msgid "Food Logistics"
-#~ msgstr "Manĝloĝistiko"
+msgid "Armoury"
+msgstr "Armejo"
 
-#~ msgid "Stop"
-#~ msgstr "Ĉesigi"
+msgid "New"
+msgstr "Nova"
 
-#~ msgid "Prison Grading"
-#~ msgstr "Malliberejgradigo"
+msgid "Reform"
+msgstr "Reformo"
 
-#~ msgid "Your mod has been published successfully."
-#~ msgstr "Via ludredaktaĵo sukcese publikiĝis."
-
-#~ msgid "Reset"
-#~ msgstr "Rekomenci"
-
-#~ msgid "CCTV"
-#~ msgstr "Gvatkamerao"
+msgid "Custom Res Height"
+msgstr "Laŭmenda distingivalteco"
 
 #, fuzzy
-#~ msgid "Death Row"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Mortvico\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Mortvicano"
+msgid "High"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Alta\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Alte\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Alta"
 
-#~ msgid "Down"
-#~ msgstr "Malsupren"
+msgid "Update"
+msgstr "Ĝisdatigi"
 
-#~ msgid "COVERAGE"
-#~ msgstr "coverage *X%"
+msgid "*X Stationed"
+msgstr "*X Postenigitaj"
 
-#~ msgid "Custom Res Width"
-#~ msgstr "Laŭmenda distingivlarĝeco"
+msgid "Select"
+msgstr "Elekti"
 
-#~ msgid ""
-#~ "Prisoners might want to talk to their family, and these handy phonebooths "
-#~ "let them."
-#~ msgstr ""
-#~ "Malliberuloj eble volas paroli kun sia familio, kaj ĉi tiuj utilaj "
-#~ "telefonujoj ebligas tion."
+msgid "Container"
+msgstr "Ujo"
 
-#~ msgid "The number of CCTV cameras and monitors you currently have."
-#~ msgstr "La nombro da gvatkameraoj kaj ekranoj kiujn vi nune havas."
+msgid "Food Logistics"
+msgstr "Manĝloĝistiko"
 
-#~ msgid "Release"
-#~ msgstr "Liberigo"
+msgid "Stop"
+msgstr "Ĉesigi"
 
-#~ msgid "Title"
-#~ msgstr "Titolo"
+msgid "Prison Grading"
+msgstr "Malliberejgradigo"
 
-#~ msgid "Windowed"
-#~ msgstr "Ekrane"
+msgid "Your mod has been published successfully."
+msgstr "Via ludredaktaĵo sukcese publikiĝis."
 
-#~ msgid "*C - *Y years"
-#~ msgstr "*C - *Y jarojn"
+msgid "Reset"
+msgstr "Rekomenci"
 
-#~ msgid "Download"
-#~ msgstr "Elŝulti"
-
-#~ msgid "Funds"
-#~ msgstr "Financoj"
-
-#~ msgid "Main Menu (Esc)"
-#~ msgstr "Ĉefmenuo (Esc)"
-
-#~ msgid "Security"
-#~ msgstr "Sekureco"
-
-#~ msgid "Save As"
-#~ msgstr "Konservi kiel"
-
-#~ msgid "Download Failed"
-#~ msgstr "Elŝuto fiaskis"
-
-#~ msgid "SelectionList"
-#~ msgstr "Elektlisto"
-
-#~ msgid "Fast"
-#~ msgstr "Rapide"
-
-#~ msgid "Traits  :"
-#~ msgstr "Trajtoj  :"
-
-#~ msgid "Keep your food supplies from rotting."
-#~ msgstr "Malebiligi al viaj manĝaĵprovizoj putri."
-
-#~ msgid "Unknown"
-#~ msgstr "Nekonata"
-
-#~ msgid "Space for *C cameras"
-#~ msgstr "Spaco por *C kameraoj"
-
-#~ msgid "Call in the emergency services if things take a turn for the worse."
-#~ msgstr "Alvoki la krizservilojn se aferoj malboniĝus."
-
-#~ msgid "Copy"
-#~ msgstr "Kopii"
-
-#~ msgid "Sell Object"
-#~ msgstr "Vendi objekton"
-
-#~ msgid ""
-#~ "Can be used to automatically open doors at certain times of day.\n"
-#~ "\n"
-#~ "Use the Connect tool to connect this timer to your Door Servos."
-#~ msgstr ""
-#~ "Povas uziĝi por aŭtomate malfermi pordojn je ekzaktaj horoj.\n"
-#~ "\n"
-#~ "Uzu la konektilon por konekti ĉi tiun horilon al via pordservoj."
-
-#~ msgid "Height"
-#~ msgstr "Alteco"
-
-#~ msgid "Prison Labour"
-#~ msgstr "Malliberejlaboro"
-
-#~ msgid "Maximum Security"
-#~ msgstr "Maksimuma Sekureco"
-
-#~ msgid "Content"
-#~ msgstr "Enhavo"
-
-#~ msgid "Min Distance"
-#~ msgstr "Min. distanco"
-
-#~ msgid "Where your prisoners will take their afternoon tea."
-#~ msgstr "Kie viaj malliberuloj havos siajn vesperajn teojn."
-
-#~ msgid "Shakedown"
-#~ msgstr "Razii"
-
-#~ msgid "Yellow Wing"
-#~ msgstr "Flava flanko"
-
-#~ msgid "Small Cells"
-#~ msgstr "Malgrandaj ĉeloj"
-
-#~ msgid "Unlocked capacity: *X"
-#~ msgstr "Malŝlosita kapacito: *X"
-
-#~ msgid "Available Mods"
-#~ msgstr "Haveblaj ludredaktaĵoj"
-
-#~ msgid "Test"
-#~ msgstr "Testi"
-
-#~ msgid "Load Prison"
-#~ msgstr "Ŝarĝi malliberejon"
-
-#~ msgid "Found Drugs"
-#~ msgstr "Trovis drogojn"
-
-#~ msgid ""
-#~ "Unlocks high-tech equipment for remote control and automation of doors. "
-#~ "Doors can be opened remotely using a Door Control System (operated by a "
-#~ "Guard), or opened by a Door Timer at specific times of day."
-#~ msgstr ""
-#~ "Malŝlosas altnivelan ekipaĵon por demalproksima rego kaj aŭtomatigo de "
-#~ "pordoj. Pordoj povas demalproksime malfermiĝi pere de pordkontrolsistemo "
-#~ "(operaciita de gardisto), aŭ malfermiĝi de pordhorilo je specifaj horoj."
-
-#~ msgid "Decline"
-#~ msgstr "Malakcepti"
-
-#~ msgid "NEW"
-#~ msgstr "NOVA"
-
-#~ msgid "Needs"
-#~ msgstr "Bezonoj"
-
-#~ msgid "Not guilty"
-#~ msgstr "Ne kulpa"
-
-#~ msgid "Work/FreeTime"
-#~ msgstr "Work"
-
-#~ msgid "Mood"
-#~ msgstr "Humoro"
-
-#~ msgid "Served *X years"
-#~ msgstr "Pune restis *X jarojn"
-
-#~ msgid "Update Type"
-#~ msgstr "Ĝisdatigtipo"
-
-#~ msgid "Component"
-#~ msgstr "Komponento"
-
-#~ msgid ""
-#~ "An independent research group is offering funds in order to participate "
-#~ "in a trial on the effects of varying inmate eating habits."
-#~ msgstr ""
-#~ "An independent research group are offering funds in order to participate "
-#~ "in a trial on the effects of varying inmate eating habits."
-
-#~ msgid "Failed To Download Translation"
-#~ msgstr "Fiaskis elŝulti tradukon"
+msgid "CCTV"
+msgstr "Gvatkamerao"
 
 #, fuzzy
-#~ msgid "Lockdown"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Enĉelŝlosi\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Fermegi"
+msgid "Death Row"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Mortvico\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Mortvicano"
 
-#~ msgid "Remove water from the floor."
-#~ msgstr "Forigi akvon el la planko."
+msgid "Down"
+msgstr "Malsupren"
 
-#~ msgid "Linked To"
-#~ msgstr "Ligita al"
+msgid "COVERAGE"
+msgstr "coverage *X%"
 
-#~ msgid "Informants"
-#~ msgstr "Informantoj"
+msgid "Custom Res Width"
+msgstr "Laŭmenda distingivlarĝeco"
 
-#~ msgid "Serious Injury"
-#~ msgstr "Grava lezo"
+msgid ""
+"Prisoners might want to talk to their family, and these handy phonebooths "
+"let them."
+msgstr ""
+"Malliberuloj eble volas paroli kun sia familio, kaj ĉi tiuj utilaj "
+"telefonujoj ebligas tion."
 
-#~ msgid "Qualifications"
-#~ msgstr "Kvalifikoj"
+msgid "The number of CCTV cameras and monitors you currently have."
+msgstr "La nombro da gvatkameraoj kaj ekranoj kiujn vi nune havas."
 
-#~ msgid "Mod Published"
-#~ msgstr "Ludredaktaĵo publikiĝis"
+msgid "Release"
+msgstr "Liberigo"
 
-#~ msgid "Check for updates"
-#~ msgstr "Kontroli ĝisdatigojn"
+msgid "Title"
+msgstr "Titolo"
 
-#~ msgid "Recent Transactions"
-#~ msgstr "Lastatempaj transakcioj"
+msgid "Windowed"
+msgstr "Ekrane"
 
-#~ msgid "Generate Buildings"
-#~ msgstr "Generi konstruaĵojn"
+msgid "*C - *Y years"
+msgstr "*C - *Y jarojn"
 
-#~ msgid "Are you sure you wish to buy this plot of land for $*X?"
-#~ msgstr "Ĉu vi certas ke vi volas aĉeti ĉi tiun teritorion por $*X?"
+msgid "Download"
+msgstr "Elŝulti"
 
-#~ msgid "Multisampled"
-#~ msgstr "Plurspecimena"
+msgid "Funds"
+msgstr "Financoj"
 
-#~ msgid ""
-#~ "Allow lots of your prisoners to share the experience of brain rot. "
-#~ "Requires a place for prisoners to sit in front of the TV."
-#~ msgstr ""
-#~ "Permesi multe da viaj malliberuloj kunhavigi la sperton de cerbputro."
+msgid "Main Menu (Esc)"
+msgstr "Ĉefmenuo (Esc)"
 
-#~ msgid "Chain"
-#~ msgstr "Ĉeno"
+msgid "Security"
+msgstr "Sekureco"
 
-#~ msgid "Blue Wing"
-#~ msgstr "Blua flanko"
+msgid "Save As"
+msgstr "Konservi kiel"
 
-#~ msgid "Open Prison Architect Workshop"
-#~ msgstr "Malfermi je Prison Architect Workshop"
+msgid "Download Failed"
+msgstr "Elŝuto fiaskis"
 
-#~ msgid ""
-#~ "Advanced architects only.\n"
-#~ "\n"
-#~ "A simple circuit box that performs a logical operation based on its "
-#~ "inputs, and sets its output accordingly.\n"
-#~ "\n"
-#~ "Available operations: And / Or / Not / Nand / Nor / Xor\n"
-#~ "\n"
-#~ "Right click to cycle through logical operations."
-#~ msgstr ""
-#~ "Nur altnivelaj arkitektoj.\n"
-#~ "\n"
-#~ "Simpla cirkvitujo kiu faras logikan operacion bazitan de siaj enigoj, kaj "
-#~ "laŭe metas sian eligon.\n"
-#~ "\n"
-#~ "Haveblaj operacioj: Kaj (And) / Aŭ (Or) / Ne (Not) / Nekaj (Nand) / Neaŭ "
-#~ "(Nor) / Ikso-aŭ (Xor)\n"
-#~ "\n"
-#~ "Dekstre alklaku por cikle trairi la logikajn operaciojn."
+msgid "SelectionList"
+msgstr "Elektlisto"
 
-#~ msgid "Currently holding *X Prisoners:"
-#~ msgstr "Nune gardas *X Malliberulojn:"
+msgid "Fast"
+msgstr "Rapide"
 
-#~ msgid "Priors:"
-#~ msgstr "Antaŭaj punoj:"
+msgid "Traits  :"
+msgstr "Trajtoj  :"
 
-#, fuzzy
-#~ msgid "Low"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Malalta\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Malalte\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Malalta"
+msgid "Keep your food supplies from rotting."
+msgstr "Malebiligi al viaj manĝaĵprovizoj putri."
 
-#~ msgid "Danger"
-#~ msgstr "Danĝero"
+msgid "Unknown"
+msgstr "Nekonata"
 
-#~ msgid ""
-#~ "The amount of money you will receive each day, based on your current "
-#~ "expenses and income.\n"
-#~ "\n"
-#~ "Click to access a detailed financial breakdown of income and expenses."
-#~ msgstr ""
-#~ "La kvanto da mono kiun vi ĉiutage ricevos bazitan de via nunaj elspezoj "
-#~ "kaj enspezoj.\n"
-#~ "\n"
-#~ "Alklaku por aliri detaljan financan superrigardon de enspezoj kaj "
-#~ "elspezoj."
+msgid "Space for *C cameras"
+msgstr "Spaco por *C kameraoj"
 
-#~ msgid "Record Time Lapse"
-#~ msgstr "Registri fulmfilmeton"
+msgid "Call in the emergency services if things take a turn for the worse."
+msgstr "Alvoki la krizservilojn se aferoj malboniĝus."
 
-#~ msgid "Failed to publish your prison. Please try again."
-#~ msgstr "Fiaskis publikigi vian malliberejon. Bonvole repenu."
+msgid "Copy"
+msgstr "Kopii"
 
-#~ msgid "Prisoners"
-#~ msgstr "Malliberuloj"
+msgid "Sell Object"
+msgstr "Vendi objekton"
 
-#~ msgid "Door Mode: Normal"
-#~ msgstr "Pordreĝimo: Normala"
+msgid ""
+"Can be used to automatically open doors at certain times of day.\n"
+"\n"
+"Use the Connect tool to connect this timer to your Door Servos."
+msgstr ""
+"Povas uziĝi por aŭtomate malfermi pordojn je ekzaktaj horoj.\n"
+"\n"
+"Uzu la konektilon por konekti ĉi tiun horilon al via pordservoj."
 
-#~ msgid "Age : *X"
-#~ msgstr "Aĝo : *X"
+msgid "Height"
+msgstr "Alteco"
 
-#~ msgid ""
-#~ "If enabled, you will receive a random number of new prisoners every "
-#~ "day... forever.\n"
-#~ "\n"
-#~ "If disabled, you can chose when you are ready to receive prisoners by "
-#~ "going to the reports and clicking on the prisoner tab."
-#~ msgstr ""
-#~ "Se ŝaltita, vi ricevos harzadan nombron da malliberuloj ĉiutage ... "
-#~ "eterne.\n"
-#~ "\n"
-#~ "Se elŝaltita, vi povas decidi kiam vi pretas ricevi malliberulojn per iri "
-#~ "raporton kaj alklaki la malliberulklapeton."
+msgid "Prison Labour"
+msgstr "Malliberejlaboro"
 
-#~ msgid "TitleCaption"
-#~ msgstr "Titolkapvorto"
+msgid "Maximum Security"
+msgstr "Maksimuma Sekureco"
 
-#~ msgid "Accept"
-#~ msgstr "Akcepti"
+msgid "Content"
+msgstr "Enhavo"
 
-#~ msgid "Generate Lakes"
-#~ msgstr "Generi lagojn"
+msgid "Min Distance"
+msgstr "Min. distanco"
 
-#~ msgid "Average Frame Time: *Tms"
-#~ msgstr "Mezuma bildrapido: *Tms"
+msgid "Where your prisoners will take their afternoon tea."
+msgstr "Kie viaj malliberuloj havos siajn vesperajn teojn."
 
-#~ msgid "Gangs"
-#~ msgstr "Bandoj"
+msgid "Shakedown"
+msgstr "Razii"
 
-#~ msgid "Solitary"
-#~ msgstr "Enizolitecigi"
+msgid "Yellow Wing"
+msgstr "Flava flanko"
 
-#~ msgid "Materials Available"
-#~ msgstr "Materialoj haveblaj"
+msgid "Small Cells"
+msgstr "Malgrandaj ĉeloj"
 
-#~ msgid ""
-#~ "Are you sure you wish to load this map? All unsaved progress will be lost."
-#~ msgstr ""
-#~ "Ĉu vi certas ke vi volas ŝarĝi ĉi tiun mapon? Ĉiu nekonservita progreso "
-#~ "perdiĝos."
+msgid "Unlocked capacity: *X"
+msgstr "Malŝlosita kapacito: *X"
 
-#~ msgid "Protective Custody"
-#~ msgstr "Protektiva Gardo"
+msgid "Available Mods"
+msgstr "Haveblaj ludredaktaĵoj"
 
-#, fuzzy
-#~ msgid "Medium"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Meze\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Meza\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Mezgrandeca\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Meza"
+msgid "Test"
+msgstr "Testi"
 
-#~ msgid "Solitary (Permanent)"
-#~ msgstr "Enizolitecigi (Permanente)"
+msgid "Load Prison"
+msgstr "Ŝarĝi malliberejon"
 
-#~ msgid ""
-#~ "Place a servo over a door you wish to control remotely. Ensure the motor "
-#~ "gear is directly above the door.\n"
-#~ "\n"
-#~ "Once installed, the door will be opened when the Servo itself is "
-#~ "triggered - typically by a Door Control System, or a Door Timer.\n"
-#~ "\n"
-#~ "Servos can be chained together, so that when the first one opens it will "
-#~ "trigger the later ones."
-#~ msgstr ""
-#~ "Metu servon super la pordo kiun vi volas demalproksime regi. Certigu ke "
-#~ "la motorilaro estas ĝuste super la pordo.\n"
-#~ "\n"
-#~ "Kiam instalita, la pordo malfermiĝos kiam la servo mem ellasiĝos - kutime "
-#~ "de pordregsistemo, aŭ pordhorilo.\n"
-#~ "\n"
-#~ "Servoj povas kunen ĉeniĝi tiel kiam la unua malfermiĝos ĝi ellasos la "
-#~ "aliajn."
+msgid "Found Drugs"
+msgstr "Trovis drogojn"
 
-#~ msgid "Health"
-#~ msgstr "Saneco"
+msgid ""
+"Unlocks high-tech equipment for remote control and automation of doors. "
+"Doors can be opened remotely using a Door Control System (operated by a "
+"Guard), or opened by a Door Timer at specific times of day."
+msgstr ""
+"Malŝlosas altnivelan ekipaĵon por demalproksima rego kaj aŭtomatigo de "
+"pordoj. Pordoj povas demalproksime malfermiĝi pere de pordkontrolsistemo "
+"(operaciita de gardisto), aŭ malfermiĝi de pordhorilo je specifaj horoj."
 
-#~ msgid "-Queued-"
-#~ msgstr "Laboro (Envica)"
+msgid "Decline"
+msgstr "Malakcepti"
 
-#~ msgid ""
-#~ "We were unable to determine where this mod came from. Please find and "
-#~ "install this mod yourself."
-#~ msgstr ""
-#~ "Ni ne povis determini de kie ĉi tiu ludredaktaĵo venas. Bonvole trovi kaj "
-#~ "mem instali ĉi tiun ludredaktaĵon."
+msgid "NEW"
+msgstr "NOVA"
 
-#~ msgid "Your selected translation has failed to download."
-#~ msgstr "Via elektita traduko fiaskis elŝuti."
+msgid "Needs"
+msgstr "Bezonoj"
+
+msgid "Not guilty"
+msgstr "Ne kulpa"
+
+msgid "Work/FreeTime"
+msgstr "Work"
+
+msgid "Mood"
+msgstr "Humoro"
+
+msgid "Served *X years"
+msgstr "Pune restis *X jarojn"
+
+msgid "Update Type"
+msgstr "Ĝisdatigtipo"
+
+msgid "Component"
+msgstr "Komponento"
+
+msgid ""
+"An independent research group is offering funds in order to participate "
+"in a trial on the effects of varying inmate eating habits."
+msgstr ""
+"An independent research group are offering funds in order to participate "
+"in a trial on the effects of varying inmate eating habits."
+
+msgid "Failed To Download Translation"
+msgstr "Fiaskis elŝulti tradukon"
 
 #, fuzzy
-#~ msgid "Done"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Finite\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Fine"
+msgid "Lockdown"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Enĉelŝlosi\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Fermegi"
 
-#~ msgid "Minimum capacity: *X"
-#~ msgstr "Minimumula kapacito: *X"
+msgid "Remove water from the floor."
+msgstr "Forigi akvon el la planko."
 
-#~ msgid ""
-#~ "Sends a signal to connected objects whenever something is on top of the "
-#~ "pad."
-#~ msgstr ""
-#~ "Sendas signalon al konektitaj objektoj kiam ajn io estas supre sur la "
-#~ "kuseneto."
+msgid "Linked To"
+msgstr "Ligita al"
 
-#~ msgid "Off"
-#~ msgstr "For"
+msgid "Informants"
+msgstr "Informantoj"
 
-#~ msgid "Volume"
-#~ msgstr "Sonforteco"
+msgid "Serious Injury"
+msgstr "Grava lezo"
 
-#~ msgid "Mod Differences Found"
-#~ msgstr "Ludredaktaĵdiferencoj trovitaj"
+msgid "Qualifications"
+msgstr "Kvalifikoj"
 
-#~ msgid "Author"
-#~ msgstr "Aŭtoro"
+msgid "Mod Published"
+msgstr "Ludredaktaĵo publikiĝis"
 
-#~ msgid "Enabled"
-#~ msgstr "Ŝaltita"
+msgid "Check for updates"
+msgstr "Kontroli ĝisdatigojn"
 
-#~ msgid "- *X prisoners are well fed"
-#~ msgstr "- *X malliberuloj bone nutriĝas"
+msgid "Recent Transactions"
+msgstr "Lastatempaj transakcioj"
 
-#~ msgid "Complaint"
-#~ msgstr "Plendo"
+msgid "Generate Buildings"
+msgstr "Generi konstruaĵojn"
 
-#~ msgid "Max Sec Only"
-#~ msgstr "Nur maks. sekureco"
+msgid "Are you sure you wish to buy this plot of land for $*X?"
+msgstr "Ĉu vi certas ke vi volas aĉeti ĉi tiun teritorion por $*X?"
 
-#~ msgid "Outdoor only"
-#~ msgstr "Nur ekstere"
+msgid "Multisampled"
+msgstr "Plurspecimena"
 
-#~ msgid ""
-#~ "The number of prisoners you currently have, and how many you can hold, in "
-#~ "your prison."
-#~ msgstr ""
-#~ "La nombro da malliberuloj kiujn vi nune havas, kaj kiom vi povas havi, en "
-#~ "via malliberejo."
+msgid ""
+"Allow lots of your prisoners to share the experience of brain rot. "
+"Requires a place for prisoners to sit in front of the TV."
+msgstr ""
+"Permesi multe da viaj malliberuloj kunhavigi la sperton de cerbputro."
 
-#~ msgid "Weather and Temperature"
-#~ msgstr "Vetero kaj temperaturo"
+msgid "Chain"
+msgstr "Ĉeno"
 
-#~ msgid "Timelapse recording length *X:*Y, *Z frames recorded, backlog: *T"
-#~ msgstr "Fulmfilmetregistrolongeco *X:*Y, *Z bilodj registritaj, envicaj: *T"
+msgid "Blue Wing"
+msgstr "Blua flanko"
 
-#~ msgid "Sound Instance Editor"
-#~ msgstr "Sonaperredaktilo"
+msgid "Open Prison Architect Workshop"
+msgstr "Malfermi je Prison Architect Workshop"
 
-#~ msgid "Search Cell Block"
-#~ msgstr "Ekzameni ĉelaron"
+msgid ""
+"Advanced architects only.\n"
+"\n"
+"A simple circuit box that performs a logical operation based on its "
+"inputs, and sets its output accordingly.\n"
+"\n"
+"Available operations: And / Or / Not / Nand / Nor / Xor\n"
+"\n"
+"Right click to cycle through logical operations."
+msgstr ""
+"Nur altnivelaj arkitektoj.\n"
+"\n"
+"Simpla cirkvitujo kiu faras logikan operacion bazitan de siaj enigoj, kaj "
+"laŭe metas sian eligon.\n"
+"\n"
+"Haveblaj operacioj: Kaj (And) / Aŭ (Or) / Ne (Not) / Nekaj (Nand) / Neaŭ "
+"(Nor) / Ikso-aŭ (Xor)\n"
+"\n"
+"Dekstre alklaku por cikle trairi la logikajn operaciojn."
 
-#~ msgid "Generates electricity to be used in your prison."
-#~ msgstr "Generas elektron uzeblan en via malliberejo."
+msgid "Currently holding *X Prisoners:"
+msgstr "Nune gardas *X Malliberulojn:"
 
-#~ msgid "TAP TO AUTHORISE"
-#~ msgstr "FRAPETU POR PERMESI"
-
-#~ msgid "Last Modified: *T"
-#~ msgstr "Laste redaktita: *T"
-
-#~ msgid ""
-#~ "The media have started a campaign over the amenities granted to "
-#~ "prisoners, and it's bringing a lot of heat on my office."
-#~ msgstr ""
-#~ "The media have started a campaign over the amenities granted to "
-#~ "prisoners, and it's brining a lot of heat on my office."
-
-#~ msgid "Cost: $*C"
-#~ msgstr "Kosto: $*C"
-
-#~ msgid "Six Months"
-#~ msgstr "Ses monatojn"
-
-#~ msgid ""
-#~ "Seats for the faithful. Made from the hardest, most unpadded of woods."
-#~ msgstr ""
-#~ "Seĝoj por la kredemaj. Kreitaj el la plej malmola, plej nevitata de ligno."
-
-#~ msgid "INSECURE"
-#~ msgstr "MALSEKURA"
-
-#~ msgid "*Y years"
-#~ msgstr "*Y jarojn"
-
-#~ msgid "Yes"
-#~ msgstr "Jes"
-
-#~ msgid "Enable DSP"
-#~ msgstr "Ŝalti DSP"
-
-#~ msgid "Report this bio as objectionable or offensive."
-#~ msgstr "Raporti ĉi tiun biografion kiel malaprobindan aŭ ofensivan."
+msgid "Priors:"
+msgstr "Antaŭaj punoj:"
 
 #, fuzzy
-#~ msgid "Patrols"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Patroloj\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Patrolo"
+msgid "Low"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Malalta\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Malalte\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Malalta"
 
-#~ msgid "Recovering alcoholic"
-#~ msgstr "Reakiranta alkoholisto"
+msgid "Danger"
+msgstr "Danĝero"
 
-#~ msgid "Terms and Conditions"
-#~ msgstr "Uzokondiĉoj"
+msgid ""
+"The amount of money you will receive each day, based on your current "
+"expenses and income.\n"
+"\n"
+"Click to access a detailed financial breakdown of income and expenses."
+msgstr ""
+"La kvanto da mono kiun vi ĉiutage ricevos bazitan de via nunaj elspezoj "
+"kaj enspezoj.\n"
+"\n"
+"Alklaku por aliri detaljan financan superrigardon de enspezoj kaj "
+"elspezoj."
 
-#~ msgid "Open"
-#~ msgstr "Malfermi"
+msgid "Record Time Lapse"
+msgstr "Registri fulmfilmeton"
 
-#~ msgid "Type"
-#~ msgstr "Tipo"
+msgid "Failed to publish your prison. Please try again."
+msgstr "Fiaskis publikigi vian malliberejon. Bonvole repenu."
 
-#~ msgid ""
-#~ "Once enabled, this setting cannot be deactivated. Are you sure you wish "
-#~ "to enable *X?"
-#~ msgstr ""
-#~ "Kiam ŝaltita, ĉi tiu agordo ne povas elŝaltiĝi. Ĉu vi certas ke vi volas "
-#~ "ŝalti je *X?"
+msgid "Prisoners"
+msgstr "Malliberuloj"
 
-#~ msgid "One Day"
-#~ msgstr "Unu tagon"
+msgid "Door Mode: Normal"
+msgstr "Pordreĝimo: Normala"
 
-#~ msgid ""
-#~ "Designed to be built in a Security Room, and operated by a Guard. "
-#~ "Monitors the CCTV cameras around your prison remotely.\n"
-#~ "\n"
-#~ "Use the Connect tool to connect this monitor to your CCTV cameras.\n"
-#~ "\n"
-#~ "Note: A maximum of eight cameras can be viewed at once. If you connect "
-#~ "more than eight cameras, the monitor will cycle through them gradually, "
-#~ "giving only partial coverage."
-#~ msgstr ""
-#~ "Dezajnita por konstruiĝi en sekurecĉambro, kaj regita de gardisto. Gvatas "
-#~ "la gvatkameraojn dise en via malliberejo de malproksimo.\n"
-#~ "\n"
-#~ "Uzu la konektilon por konekti xi tiun ekranon al viaj gvatkameraoj.\n"
-#~ "\n"
-#~ "Notu: Maksimumo de ok kameraoj povas samtempe vidiĝi. Se oni konektos pli "
-#~ "ol ok kameraojn, la ekrano grade cikle traktos ilin, donante nur partan "
-#~ "gvatecon."
+msgid "Age : *X"
+msgstr "Aĝo : *X"
 
-#~ msgid "Different types of floors and walls."
-#~ msgstr "Malsamaj tipoj de plankoj kaj muroj."
+msgid ""
+"If enabled, you will receive a random number of new prisoners every "
+"day... forever.\n"
+"\n"
+"If disabled, you can chose when you are ready to receive prisoners by "
+"going to the reports and clicking on the prisoner tab."
+msgstr ""
+"Se ŝaltita, vi ricevos harzadan nombron da malliberuloj ĉiutage ... "
+"eterne.\n"
+"\n"
+"Se elŝaltita, vi povas decidi kiam vi pretas ricevi malliberulojn per iri "
+"raporton kaj alklaki la malliberulklapeton."
 
-#~ msgid "FACTORS:"
-#~ msgstr "FAKTOROJ:"
+msgid "TitleCaption"
+msgstr "Titolkapvorto"
 
-#~ msgid "+ *X riot police are on site"
-#~ msgstr "+ *X turmultgardistoj estas eje"
+msgid "Accept"
+msgstr "Akcepti"
 
-#~ msgid "Find more mods (Wiki)"
-#~ msgstr "Trovi pli da ludredaktaĵoj (Vikipedio)"
+msgid "Generate Lakes"
+msgstr "Generi lagojn"
 
-#~ msgid "Fire Engine"
-#~ msgstr "Pumpkamiono"
+msgid "Average Frame Time: *Tms"
+msgstr "Mezuma bildrapido: *Tms"
 
-#~ msgid "Ensure you can see your prisoners at all times of the day."
-#~ msgstr ""
-#~ "Certigi ke vi povas vidi viajn malliberulojn ĉiujn horojn de la tago."
+msgid "Gangs"
+msgstr "Bandoj"
 
-#~ msgid "(Developer) Load Map"
-#~ msgstr "(Ellabaranta) Ŝarĝi mapon"
+msgid "Solitary"
+msgstr "Enizolitecigi"
+
+msgid "Materials Available"
+msgstr "Materialoj haveblaj"
+
+msgid ""
+"Are you sure you wish to load this map? All unsaved progress will be lost."
+msgstr ""
+"Ĉu vi certas ke vi volas ŝarĝi ĉi tiun mapon? Ĉiu nekonservita progreso "
+"perdiĝos."
+
+msgid "Protective Custody"
+msgstr "Protektiva Gardo"
 
 #, fuzzy
-#~ msgid "Intelligence"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Informo\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Spionservo"
-
-#~ msgid "Regime"
-#~ msgstr "Horaro"
-
-#~ msgid "Allow your prisoners to exercise, which keeps them happy."
-#~ msgstr "Permemi al viaj malliberuloj ekzerciĝi, kiu plaĉas al ili."
-
-#~ msgid "SUSPICION"
-#~ msgstr "Suspicion"
-
-#~ msgid "Lockdown (6hrs)"
-#~ msgstr "Enĉelŝlosi (6 horojn)"
-
-#~ msgid "Plumbing and electrical systems."
-#~ msgstr "Akvotubaro kaj elektraj sistemoj."
-
-#~ msgid "Performance Test"
-#~ msgstr "Testo de la rendimento"
-
-#~ msgid "Paramedics"
-#~ msgstr "Savistoj"
-
-#~ msgid "Search Cell"
-#~ msgstr "Ekzameni ĉelon"
-
-#~ msgid "SHAKEDOWN UNDERWAY"
-#~ msgstr "RAZIO SURVOJE"
-
-#~ msgid "Unlocks the Gardener.  He will keep your outdoor areas tidy."
-#~ msgstr "Malŝlosas la ĝardeniston.  Li restigos vian eksteran areon pura."
-
-#~ msgid "Connect your remote access systems together."
-#~ msgstr "Konektu viajn demalproksimaj akcessistemoj kunen."
-
-#~ msgid "- High Powered"
-#~ msgstr "- Elektrega"
-
-#~ msgid "Visible"
-#~ msgstr "Videble"
-
-#~ msgid "Your prison failed to publish."
-#~ msgstr "Via malliberejo fiaskis publikiĝi."
-
-#~ msgid "Objects"
-#~ msgstr "Objektoj"
-
-#~ msgid "Repair"
-#~ msgstr "Ripari"
-
-#~ msgid "Biography"
-#~ msgstr "Biografio"
-
-#~ msgid "Women"
-#~ msgstr "Inaj"
-
-#~ msgid "Death Row Only"
-#~ msgstr "Nur mortvicanoj"
-
-#~ msgid "Next Event"
-#~ msgstr "Venonta okazaĵo"
-
-#~ msgid "Laundry Logistics"
-#~ msgstr "Lavejloĝistiko"
-
-#~ msgid ""
-#~ "Allows you to define patrols around crucial areas of your prison (eg the "
-#~ "perimeter), and assign guards to walk those patrols."
-#~ msgstr ""
-#~ "Permesas al vi difini patrolojn ĉirkaŭ kernaj areoj de via malliberejo "
-#~ "(ekz. la perimetro), kaj asigni gardistojn tramarŝi tiujn patrolojn."
-
-#~ msgid "Premade Prisons"
-#~ msgstr "Antaŭkreitaj malliberejoj"
-
-#~ msgid "Enable Vertex Buffer Objects"
-#~ msgstr "Ŝalti vertican bufran objekton"
-
-#~ msgid ""
-#~ "Unlocks the Dog Handler and Guard Dog.  They excel in sniffing out the "
-#~ "smelly contraband in your prison, and detecting escape tunnels.\n"
-#~ "\n"
-#~ "Dogs are also very fast which allows them to chase prisoners with ease."
-#~ msgstr ""
-#~ "Malŝlosas la hundiston kaj gardisthundon.  Ili elstaras je snufante trovi "
-#~ "la odorantan kontrabandon en via malliberejo, kaj detekti eskaptunelojn.\n"
-#~ "\n"
-#~ "Hundoj ankaŭ tre rapidas kiu permesas al ili tre facile ĉassekvi "
-#~ "malliberulojn."
-
-#~ msgid "Shared"
-#~ msgstr "Dividita"
-
-#~ msgid "Prison Published"
-#~ msgstr "Malliberejo publikigita"
-
-#~ msgid ""
-#~ "An extra challenge! You will be sacked and it will be game over if you "
-#~ "let things get too bad. (Riots, Bankruptcy, too many Deaths or Escapes, "
-#~ "etc.)"
-#~ msgstr ""
-#~ "Ekstra defio! Vi maldungiĝos kaj la ludo finiĝos se vi lasas al aferoj "
-#~ "tro malboniĝi. (Turmulotoj, bankroto, tro da mortoj aŭ eskapoj, ktp.)"
-
-#~ msgid "Lockdown (12hrs)"
-#~ msgstr "Enĉelŝlosi (12 horojn)"
-
-#~ msgid "Room Checkerbox"
-#~ msgstr "Ĉambroŝakkrado"
-
-#~ msgid "Caption"
-#~ msgstr "Kapvorto"
-
-#~ msgid "Materials On Route"
-#~ msgstr "Materialoj survoje"
-
-#~ msgid "Sound Parameter"
-#~ msgstr "Sonparametro"
-
-#~ msgid "LOCKED"
-#~ msgstr "FERMITA"
-
-#~ msgid "Room"
-#~ msgstr "Ĉambro"
-
-#~ msgid "Cannot Enter: Riot"
-#~ msgstr "Ne eblas eniri: Turmulto"
-
-#~ msgid "Place useful items around your prison."
-#~ msgstr "Dismeti utilaĵojn en via malliberejo."
-
-#~ msgid "Save Prison"
-#~ msgstr "Konservi malliberejon"
-
-#~ msgid ""
-#~ "Only maximum security prisoners will be permitted to enter this sector."
-#~ msgstr "Nur maksimumsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
-
-#~ msgid "Instance Type"
-#~ msgstr "Apertipo"
-
-#~ msgid "Language"
-#~ msgstr "Lingvo"
-
-#~ msgid ""
-#~ "Toggles the availability of electricity to any cable connected to it.\n"
-#~ "\n"
-#~ "Right click to toggle on/off state."
-#~ msgstr ""
-#~ "Baskuligas la haveblecon de elektro al iu kablo konektita al si.\n"
-#~ "\n"
-#~ "Dekstre alklaku por baskuligi la ek/for-staton."
-
-#~ msgid "Relays your prayers directly to your higher power of choice."
-#~ msgstr "Relajas viajn preĝojn rekte al la alta potenco de via elekto."
-
-#~ msgid "Maintenance"
-#~ msgstr "Bontenado"
-
-#~ msgid "Where you send your prisoners to die."
-#~ msgstr "Kien vi sendas viajn malliberulojn por morti."
-
-#~ msgid "Medium capacity: *X"
-#~ msgstr "Mezula kapacito: *X"
-
-#~ msgid "To glimpse the sun through."
-#~ msgstr "Por traduonvidi la sunon."
-
-#~ msgid "Green Wing"
-#~ msgstr "Verda flanko"
-
-#~ msgid "English (Default)"
-#~ msgstr "La angla (defaŭlta)"
-
-#~ msgid "Goes excellently with a chair."
-#~ msgstr "Bone taŭgas kun seĝo."
-
-#~ msgid ""
-#~ "Open up the reports window to see information on your prisoners, staff, "
-#~ "income, grants, and more."
-#~ msgstr ""
-#~ "Malfermu la raportfenestron por vidi informojn pri viaj malliberuloj, "
-#~ "dungitaro, enspezoj, stipendioj, kaj pli."
-
-#~ msgid "Legal"
-#~ msgstr "Leĝo"
-
-#~ msgid ""
-#~ "Shows all contraband confiscated in the history of your prison. The icons "
-#~ "show where the contraband was confiscated."
-#~ msgstr ""
-#~ "Montras ĉiun kontrabandon konfiskitan dum la historio de via malliberejo."
-
-#~ msgid ""
-#~ "Unlocks the Warden, and the entire Bureaucracy system.  Hire him from the "
-#~ "Staff toolbar.\n"
-#~ "\n"
-#~ "Like all Administrators, he requires an office to work."
-#~ msgstr ""
-#~ "Malŝlosas la malliberejestron, kaj la tutan burokratisistemon. Dungu lin "
-#~ "per la dungitarilo.\n"
-#~ "\n"
-#~ "Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
-
-#~ msgid ""
-#~ "Mark this prisoner as your own entry. If you should somehow end up in "
-#~ "prison yourself, this is the prisoner that will represent you."
-#~ msgstr ""
-#~ "Marki ĉi tiun malliberulon kiel la vian. Se vi mem iel estontus "
-#~ "malliberigita, ĉi tiu estas la malliberulo kiu reprezentos vin."
-
-#~ msgid "Contents : *X"
-#~ msgstr "Enhavo : *X"
-
-#~ msgid "Unlocked"
-#~ msgstr "Malŝlosita"
-
-#~ msgid ""
-#~ "Unlocks the Psychologist, providing you with a valuable insight into your "
-#~ "Prisoner's internal psychological state at all times.\n"
-#~ "\n"
-#~ "Like all Administrators, he requires an office to work."
-#~ msgstr ""
-#~ "Malŝlosas la psikologiiston donantan al vi valorajn informojn pri la "
-#~ "enternaj psikologiaj statoj ĉiamaj.\n"
-#~ "\n"
-#~ "Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
-
-#~ msgid "Destruction"
-#~ msgstr "Destruo"
-
-#~ msgid "Bank *B"
-#~ msgstr "Mono *B"
-
-#~ msgid "Bank Loan"
-#~ msgstr "Bankprunto"
-
-#~ msgid "Playback Rate"
-#~ msgstr "Bildrapido"
-
-#~ msgid "Continuous Intake"
-#~ msgstr "Kontinua akceptado"
-
-#~ msgid "Wages : $*W per day"
-#~ msgstr "Salajro : $*W ĉiutage"
-
-#~ msgid "Window"
-#~ msgstr "Fenestro"
-
-#~ msgid "Sound Type"
-#~ msgstr "Sontipo"
-
-#~ msgid "Active"
-#~ msgstr "Ŝaltita"
-
-#~ msgid "Solitary (12hrs)"
-#~ msgstr "Enizolitecigi (12 horojn)"
-
-#~ msgid "Ok"
-#~ msgstr "Bone"
-
-#~ msgid "Description"
-#~ msgstr "Priskribo"
-
-#~ msgid "Clear"
-#~ msgstr "Klarigi"
-
-#~ msgid "Polaroids"
-#~ msgstr "Polaroidbildoj"
-
-#~ msgid "Where your prisoners live, if they have babies."
-#~ msgstr "Kie viaj malliberuloj loĝas, se ili havas bebojn."
-
-#~ msgid "Freefire"
-#~ msgstr "Laŭvoligi armilojn"
-
-#~ msgid "- Ctrl + Right Click to remove High Priority"
-#~ msgstr "Ctrl + Dekstre aklaki por forigi altprioritaton"
-
-#~ msgid "Rioting"
-#~ msgstr "Tumultado"
-
-#~ msgid "Transfer"
-#~ msgstr "Transdoni"
-
-#~ msgid "Toggles the availability of water to any pipe connected to it."
-#~ msgstr "Baskuligas la haveblecon de akvo al iu pipo konektita al si."
-
-#~ msgid ""
-#~ "Advanced architects only.\n"
-#~ "\n"
-#~ "Takes its incoming signal, and bridges it onto Electrical Cable installed "
-#~ "in the same square. That Electrical cable will carry the signal to any "
-#~ "other Logic Circuits installed on the same Electrical Cable.\n"
-#~ "\n"
-#~ "Can be used to 'broadcast' a common signal all around your prison, eg "
-#~ "Useful to pass around a common Clock signal."
-#~ msgstr ""
-#~ "Nur altnivelaj arkitektoj.\n"
-#~ "\n"
-#~ "Prenas sian eniran signalon, kaj plusendas ĝin supren sur elektra kablo "
-#~ "instalita en la samo ĉelo. Tiu elektra kablo portos la signalon al iuj "
-#~ "aliaj logikaj cirkvitoj instalitaj sur la sama elektra kablo.\n"
-#~ "\n"
-#~ "Povas uziĝi por 'dissendi' komunan signalon disen en vian malliberejon, "
-#~ "ekz. utila por sendi komunan horloĝsignalon."
-
-#~ msgid "This mod is currently active. Click to deactivate."
-#~ msgstr "Ĉi tiu ludredaktaĵo nune ŝaltitas. Alklaku por elŝalti."
-
-#~ msgid ""
-#~ "Copy and paste existing parts of your prison, or place predefined rooms."
-#~ msgstr ""
-#~ "Kopii kaj alglui ekzistajn partojn de via malliberejo, aŭ meti "
-#~ "antaŭdefinitajn ĉambrojn."
-
-#~ msgid "Scrollbar"
-#~ msgstr "Rulumskalo"
-
-#~ msgid ""
-#~ "A tower from which your snipers (hired separately) can watch over your "
-#~ "prison."
-#~ msgstr ""
-#~ "Turo de kiu viaj fusilistoj (aparte dungitaj) povas gvati vian "
-#~ "malliberejon."
-
-#~ msgid "Convicted of *C (pleaded *P)"
-#~ msgstr "Juĝiĝis de *C (pledis kiel *P)"
-
-#~ msgid "Utilities"
-#~ msgstr "Utilecoj"
-
-#~ msgid "Autosave Timer"
-#~ msgstr "Aŭtomata konservhorilo"
-
-#~ msgid ""
-#~ "See your overall prison grading on four key metrics - Punishment, Reform, "
-#~ "Security, and Health. Also shows the re-offending rate for your prison."
-#~ msgstr ""
-#~ "Vidu la entutan malliberejgradigon laŭ kvar ŝlosilaj metrikoj - Punoj, "
-#~ "Reformo, Sekureco, kaj Saneco. Ankaŭ montras la refojan malobservraton de "
-#~ "via malliberejo."
-
-#~ msgid "SecureArea"
-#~ msgstr "SekuraAreo"
-
-#~ msgid "Visually identify weaknesses in your prison's layout."
-#~ msgstr "Videble identigi malfortecojn en la konstruado de via malliberejo."
-
-#~ msgid "To glimpse lots of the sun through."
-#~ msgstr "Por traduonvidegi la sunon."
-
-#~ msgid "Contents : *X x *Y"
-#~ msgstr "Enhavo : *X x *Y"
-
-#~ msgid "Filtering"
-#~ msgstr "Filtrado"
-
-#~ msgid "Hardware Compatibility Test"
-#~ msgstr "Aparatarkongruectesto"
-
-#~ msgid ""
-#~ "This is a new steam mod. Click to subscribe to and download the mod now."
-#~ msgstr ""
-#~ "Ĉi tio estas nova steamludredaktaĵo. Aklaku por aboni kaj elŝuti ĝin nun."
-
-#~ msgid "Keeps your prison grounds nice and tidy."
-#~ msgstr "Tenas viajn malliberejareojn puraj kaj ordaj."
-
-#~ msgid ""
-#~ "A strong metal door that cannot be opened with a key (Can only be opened "
-#~ "remotely). Use this to prevent mass escape events when a prisoner has "
-#~ "Jail Keys."
-#~ msgstr ""
-#~ "Forta metalpordo kiu ne povas malfermiĝi per ŝlosilo (nur povas "
-#~ "demalproksime malfermiĝi). Uzu ĉi tiun por preventi amaseskapokazaĵojn "
-#~ "kiam malliberulo havas malliberejŝlosilojn."
-
-#~ msgid "Protected Only"
-#~ msgstr "Nur protektitoj"
-
-#~ msgid "Alcoholic"
-#~ msgstr "Alkoholisto"
-
-#~ msgid "Frequency"
-#~ msgstr "Frekvenso"
-
-#~ msgid "UNLIMITED FUNDS"
-#~ msgstr "NEFINITAJ FINANCOJ"
-
-#~ msgid ""
-#~ "All employees are required to wash their hands. Will work faster if "
-#~ "connected to hot water."
-#~ msgstr ""
-#~ "Ĉiuj dungitaranoj devas lavi siajn manojn. Pli rapide laboros se "
-#~ "konektita al varma akvo."
-
-#~ msgid "Foundations"
-#~ msgstr "Fundamento"
-
-#~ msgid "ProgressBar"
-#~ msgstr "Plenumskalo"
-
-#~ msgid "Failed to get the list of trending prisons."
-#~ msgstr "Fiaskis atingi la liston de ŝategataj malliberejoj."
-
-#~ msgid ""
-#~ "Shows all the locations around your prison that contraband could be "
-#~ "stolen from."
-#~ msgstr ""
-#~ "Montras ĉiujn lokojn dise en via malliberejo kie kontrabando elŝteleblas."
-
-#~ msgid "Failed To Publish Mod"
-#~ msgstr "Fiaskis publikigi ludredaktaĵon"
+msgid "Medium"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Meze\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Meza\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Mezgrandeca\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Meza"
+
+msgid "Solitary (Permanent)"
+msgstr "Enizolitecigi (Permanente)"
+
+msgid ""
+"Place a servo over a door you wish to control remotely. Ensure the motor "
+"gear is directly above the door.\n"
+"\n"
+"Once installed, the door will be opened when the Servo itself is "
+"triggered - typically by a Door Control System, or a Door Timer.\n"
+"\n"
+"Servos can be chained together, so that when the first one opens it will "
+"trigger the later ones."
+msgstr ""
+"Metu servon super la pordo kiun vi volas demalproksime regi. Certigu ke "
+"la motorilaro estas ĝuste super la pordo.\n"
+"\n"
+"Kiam instalita, la pordo malfermiĝos kiam la servo mem ellasiĝos - kutime "
+"de pordregsistemo, aŭ pordhorilo.\n"
+"\n"
+"Servoj povas kunen ĉeniĝi tiel kiam la unua malfermiĝos ĝi ellasos la "
+"aliajn."
+
+msgid "Health"
+msgstr "Saneco"
+
+msgid "-Queued-"
+msgstr "Laboro (Envica)"
+
+msgid ""
+"We were unable to determine where this mod came from. Please find and "
+"install this mod yourself."
+msgstr ""
+"Ni ne povis determini de kie ĉi tiu ludredaktaĵo venas. Bonvole trovi kaj "
+"mem instali ĉi tiun ludredaktaĵon."
+
+msgid "Your selected translation has failed to download."
+msgstr "Via elektita traduko fiaskis elŝuti."
 
 #, fuzzy
-#~ msgid "Deployment"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Deplojado\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Deplojo"
+msgid "Done"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Finite\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Fine"
 
-#~ msgid "Taking steps against global warming is all of our responsibility."
-#~ msgstr "Elpaŝi kontraŭ tutmonda varmiĝo entute estas via respondeco."
+msgid "Minimum capacity: *X"
+msgstr "Minimumula kapacito: *X"
 
-#~ msgid "Filter"
-#~ msgstr "Filtri"
+msgid ""
+"Sends a signal to connected objects whenever something is on top of the "
+"pad."
+msgstr ""
+"Sendas signalon al konektitaj objektoj kiam ajn io estas supre sur la "
+"kuseneto."
 
-#~ msgid ""
-#~ "Your prisoners will be eligible for parole after serving 50% and 75% of "
-#~ "their terms. Their fate will be decided in this room, with the Warden and "
-#~ "the Chief.\n"
-#~ "\n"
-#~ "Nb Extra security is advised. Prisoners have been known to become quite "
-#~ "upset when their parole is denied."
-#~ msgstr ""
-#~ "Viaj malliberuloj rajtas provizoran liberigon post pune servi 50% kaj 75% "
-#~ "de siaj punoj. Iliaj sortoj fikiĝos en ĉi tiu ĉambro, kun la "
-#~ "Malliberejestro kaj Sekurecestro.\n"
-#~ "\n"
-#~ "N.B. Ekstra sekureco konsiliĝas. Malliberuloj tre koleregiĝemas kiam "
-#~ "iliaj prozorliberigoj rifuziĝas."
+msgid "Off"
+msgstr "For"
 
-#~ msgid "Press ESC to Continue"
-#~ msgstr "Presu ESC por daŭrigi"
+msgid "Volume"
+msgstr "Sonforteco"
 
-#~ msgid "Are you sure you wish to overwrite *X with the current prison?"
-#~ msgstr "Ĉu vi certas ke vi volas superskribi *X per via nova malliberejo?"
+msgid "Mod Differences Found"
+msgstr "Ludredaktaĵdiferencoj trovitaj"
 
-#~ msgid "Tunnel"
-#~ msgstr "Tunelo"
+msgid "Author"
+msgstr "Aŭtoro"
 
-#~ msgid "All"
-#~ msgstr "Ĉiuj"
+msgid "Enabled"
+msgstr "Ŝaltita"
 
-#~ msgid "Feeds your prisoners with the meals they prepare."
-#~ msgstr "Nutras viajn malliberulojn per la manĝoj kiujn ili pretigas."
+msgid "- *X prisoners are well fed"
+msgstr "- *X malliberuloj bone nutriĝas"
 
-#~ msgid "SuperMax Only"
-#~ msgstr "Nur super maks. sekureco"
+msgid "Complaint"
+msgstr "Plendo"
 
-#~ msgid "Show every connected wire in your prison."
-#~ msgstr "Montru ĉiun konektitan draton en via malliberejo."
+msgid "Max Sec Only"
+msgstr "Nur maks. sekureco"
 
-#~ msgid "Reform Program History"
-#~ msgstr "Reformprogramhistorio"
+msgid "Outdoor only"
+msgstr "Nur ekstere"
 
-#~ msgid "Character"
-#~ msgstr "Karaktero"
+msgid ""
+"The number of prisoners you currently have, and how many you can hold, in "
+"your prison."
+msgstr ""
+"La nombro da malliberuloj kiujn vi nune havas, kaj kiom vi povas havi, en "
+"via malliberejo."
+
+msgid "Weather and Temperature"
+msgstr "Vetero kaj temperaturo"
+
+msgid "Timelapse recording length *X:*Y, *Z frames recorded, backlog: *T"
+msgstr "Fulmfilmetregistrolongeco *X:*Y, *Z bilodj registritaj, envicaj: *T"
+
+msgid "Sound Instance Editor"
+msgstr "Sonaperredaktilo"
+
+msgid "Search Cell Block"
+msgstr "Ekzameni ĉelaron"
+
+msgid "Generates electricity to be used in your prison."
+msgstr "Generas elektron uzeblan en via malliberejo."
+
+msgid "TAP TO AUTHORISE"
+msgstr "FRAPETU POR PERMESI"
+
+msgid "Last Modified: *T"
+msgstr "Laste redaktita: *T"
+
+msgid ""
+"The media have started a campaign over the amenities granted to "
+"prisoners, and it's bringing a lot of heat on my office."
+msgstr ""
+"The media have started a campaign over the amenities granted to "
+"prisoners, and it's brining a lot of heat on my office."
+
+msgid "Cost: $*C"
+msgstr "Kosto: $*C"
+
+msgid "Six Months"
+msgstr "Ses monatojn"
+
+msgid ""
+"Seats for the faithful. Made from the hardest, most unpadded of woods."
+msgstr ""
+"Seĝoj por la kredemaj. Kreitaj el la plej malmola, plej nevitata de ligno."
+
+msgid "INSECURE"
+msgstr "MALSEKURA"
+
+msgid "*Y years"
+msgstr "*Y jarojn"
+
+msgid "Yes"
+msgstr "Jes"
+
+msgid "Enable DSP"
+msgstr "Ŝalti DSP"
+
+msgid "Report this bio as objectionable or offensive."
+msgstr "Raporti ĉi tiun biografion kiel malaprobindan aŭ ofensivan."
 
 #, fuzzy
-#~ msgid "Staff"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Dungitaro\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Dungitaranoj"
-
-#~ msgid ""
-#~ "Keep an eye on your prison without the need for guards to be everywhere "
-#~ "at once.\n"
-#~ "\n"
-#~ "You must Connect a CCTV Monitor to this camera for it to work."
-#~ msgstr ""
-#~ "Pririgardu vian malliberejon sen la bezono de gardistoj ĉie samtempe.\n"
-#~ "\n"
-#~ "Vi devos konekti gvatekranon al ĉi tiu kamerao por ke ĝi funkciu."
-
-#~ msgid "ACTIVE"
-#~ msgstr "AKTIVE"
-
-#~ msgid ""
-#~ "Your staff need to write things down a lot. Give them a shiny office desk "
-#~ "to do it on."
-#~ msgstr ""
-#~ "Via dungitaro ofte bezoans surpaperigi aferojn. Donu al ili brilan "
-#~ "oficejtablon sur kiu ili povas tion fari."
-
-#~ msgid "Attacked Staff"
-#~ msgstr "Atakis dungitaranon"
-
-#~ msgid "= *X prisoners are suppressed (compliant)"
-#~ msgstr "= *X malliberuloj subpremiĝas (konsentemas)"
-
-#~ msgid "Materials"
-#~ msgstr "Materialoj"
-
-#~ msgid "Body Armour"
-#~ msgstr "Korparmaĵo"
-
-#~ msgid "This mod is currently inactive. Click to activate."
-#~ msgstr "Ĉi tiu ludredaktaĵo nune elŝaltitas. Alklaku por ŝalti."
-
-#~ msgid "Only 'death row' prisoners will be permitted to enter this sector."
-#~ msgstr "Nur 'mortvicanaj' malliberuloj permesiĝos en ĉi tiu sektoro."
-
-#~ msgid "Date"
-#~ msgstr "Dato"
-
-#~ msgid "Shows information about your prison's gangs."
-#~ msgstr "Montras informon pri la bandoj de via malliberejo."
-
-#~ msgid ""
-#~ "An advanced staff member that allows you to gain an insight in to the "
-#~ "minds of your prisoners."
-#~ msgstr ""
-#~ "Altnivela dungitarano kiu permesas al vi atingi sagacecon al la mencoj de "
-#~ "viaj malliberuloj"
-
-#~ msgid ""
-#~ "Only 'superMax' security prisoners will be permitted to enter this sector."
-#~ msgstr ""
-#~ "Nur 'supermaksimumsekurecaj' malliberuloj permesiĝos en ĉi tiu sektoro."
-
-#~ msgid "Published by you"
-#~ msgstr "Publikigita de vi"
-
-#~ msgid "Todo List"
-#~ msgstr "Endaĵaro"
-
-#~ msgid "Timings"
-#~ msgstr "Horoj"
-
-#~ msgid "Map Settings"
-#~ msgstr "Mapagordoj"
-
-#~ msgid "Stats"
-#~ msgstr "Statistiko"
-
-#~ msgid "Activity"
-#~ msgstr "Aktivecoj"
-
-#~ msgid "Protected capacity: *X"
-#~ msgstr "Protektitula kapacito: *X"
-
-#~ msgid "View in Steam Workshop"
-#~ msgstr "Vidi en Steam Workshop"
-
-#~ msgid "Electricity"
-#~ msgstr "Elektro"
-
-#~ msgid "Loading..."
-#~ msgstr "Ŝarĝas ..."
-
-#~ msgid "Psychology"
-#~ msgstr "Psikologio"
-
-#~ msgid "Supersampled"
-#~ msgstr "Multspecimena"
-
-#~ msgid "Toggle the todo list"
-#~ msgstr "Baskuligi la endaĵaron"
-
-#~ msgid "- *X prisoners say they are well treated"
-#~ msgstr "- *X malliberuloj diras ke ili bone traktiĝas"
-
-#~ msgid "Eligible for parole after *X years"
-#~ msgstr "Elektebla por provizora liberigo post *X jaroj"
-
-#~ msgid "Save Campaign"
-#~ msgstr "Konservi kampanjon"
-
-#~ msgid "*X Available"
-#~ msgstr "*X Haveblaj"
-
-#~ msgid "Employ the necessary people to keep your prison running."
-#~ msgstr "Dungi la necesajn homojn por kurigi vian malliberejon."
-
-#~ msgid "Auto"
-#~ msgstr "Aŭtomate"
-
-#~ msgid "Bangup"
-#~ msgstr "Enĉeligi"
-
-#~ msgid "Select Prisoner Gender"
-#~ msgstr "Elektu malliberulsekson"
-
-#~ msgid "Area for your medical staff to work."
-#~ msgstr "Laborareo por viaj malsanulejestraranoj."
-
-#~ msgid "Destroy"
-#~ msgstr "Detrui"
-
-#~ msgid "Total time played : *X hours, *Y minutes, *Z seconds"
-#~ msgstr "Totala tempo ludita : *X horoj, *Y minutoj, *Z sekundoj"
-
-#~ msgid "Front"
-#~ msgstr "Malfono"
-
-#~ msgid "Where your prisoners live."
-#~ msgstr "Kie viaj malliberuloj loĝas."
-
-#~ msgid "Time Left: *Ts"
-#~ msgstr "Restanta tempo: *Ts"
-
-#~ msgid ""
-#~ "An advanced staff member that gives access to the deployment, CCTV, and "
-#~ "riot guards research items."
-#~ msgstr ""
-#~ "Altnivela dungitarano kiu donas akceson al deplojado, gvatado, kaj "
-#~ "kontraŭtumultgardistoj."
-
-#~ msgid "Position Type"
-#~ msgstr "Pozicitipo"
-
-#~ msgid "Goes brilliantly with a table."
-#~ msgstr "Bone taŭgas kun tablo."
-
-#~ msgid "Remove the monotony of prison life with a game of pool."
-#~ msgstr "Forigi la monotonecon de malliberejvivo per ludo de poŝbilardo."
-
-#~ msgid "*X total guards"
-#~ msgstr "*X Gardistoj totale"
-
-#~ msgid ""
-#~ "The Warden and the Chief make their way to the condemned inmate's cell.  "
-#~ "In addition, a priest or spiritual leader of the prisoners choice arrives "
-#~ "on site and visits the prisoner in his cell to say final prayers."
-#~ msgstr ""
-#~ "The Warden and the Chief make thier way to the condemned inmate's cell.  "
-#~ "In addition, a priest or spiritual leader of the prisoners choice arrives "
-#~ "on site and visits the prisoner in his cell to say final prayers."
-
-#~ msgid ""
-#~ "Plan out your prison without the fear of workers actually doing anything."
-#~ msgstr ""
-#~ "Elplani vian malliberejon sen la timo de laborantoj fakte laborantaj."
-
-#~ msgid "*X Doing Jobs"
-#~ msgstr "*X Laborantaj"
-
-#~ msgid "Sort"
-#~ msgstr "Sorti"
-
-#~ msgid "Will build your prison for you, based on the plans you provide them."
-#~ msgstr ""
-#~ "Konstruos vian malliberojn por vi, bazite de la planoj kiujn vi al ili "
-#~ "donos."
-
-#~ msgid "This is a new mod. Click to open it's link in a web browser."
-#~ msgstr ""
-#~ "Ĉi tio estas nova ludredaktaĵo. Alklaku por malfermi ĝian ligilon en "
-#~ "retumilo."
-
-#~ msgid "Failure Conditions"
-#~ msgstr "Fiaskkondiĉoj"
-
-#~ msgid "- Alt + Left Click to make High Priority"
-#~ msgstr "Alt + Maldesktre alklaki por altprioritatigi"
-
-#~ msgid "Sustain"
-#~ msgstr "Subteno"
-
-#~ msgid "Adjacent to Room: *X"
-#~ msgstr "Adjacent to Room:"
-
-#~ msgid "Dog Patrols"
-#~ msgstr "Hundpatroloj"
-
-#~ msgid "Cashflow *C"
-#~ msgstr "Nete *C"
-
-#~ msgid "Clear Connections"
-#~ msgstr "Klarigi konektojn"
-
-#~ msgid "Capture Interval"
-#~ msgstr "Kaptintervalo"
-
-#~ msgid "Cost: $*C /sq"
-#~ msgstr "Kosto: $*C /kvadrato"
-
-#~ msgid "Failed To Download Prison"
-#~ msgstr "Fiaskis elŝuti malliberejon"
-
-#~ msgid "+ *X prisoners are shackled in their cells or in solitary"
-#~ msgstr "+ *X malliberuloj kateniĝas en siaj ĉeloj aŭ izolĉelo"
-
-#~ msgid "Riot Police"
-#~ msgstr "Turmultgardisto"
-
-#~ msgid "Shows information gathered by your confidential informants."
-#~ msgstr "Montras ĉiun informon atingitan de viaj konfidencaj informantoj."
-
-#~ msgid "Red Wing"
-#~ msgstr "Ruĝa flanko"
-
-#~ msgid "Legal Prep"
-#~ msgstr "Leĝpreparado"
-
-#~ msgid "Restart Chapter"
-#~ msgstr "Rekomenci ĉapitron"
-
-#~ msgid "Allowing your prisoners some free time to relax."
-#~ msgstr "Permesas al viaj malliberuloj iom da libertempo por malstreĉi."
-
-#~ msgid "Recovering from *X addiction"
-#~ msgstr "Reakiras de *Xtoksomanio"
-
-#~ msgid "Money In: $*M /day"
-#~ msgstr "Enspezoj: $*M ĉiutage"
-
-#~ msgid "Open Save Folder"
-#~ msgstr "Malfermi konservdosierujon"
-
-#~ msgid "Unlocked *X/*Y"
-#~ msgstr "Malŝlositaj *X/*Y"
-
-#~ msgid "+ *X Armed Guards"
-#~ msgstr "+ *X Armitaj gardistoj"
-
-#~ msgid "Resolution"
-#~ msgstr "Distingivo"
-
-#~ msgid "All prisoners will be allowed in this sector."
-#~ msgstr "Ĉiuj malliberuloj permesiĝos en ĉi tiu sektoro."
-
-#~ msgid "Prison Sharing (Steam)"
-#~ msgstr "Malliberejkunhavigo (Steam)"
-
-#~ msgid "Sprite Bank Editor"
-#~ msgstr "Ikonstribarredaktilo"
-
-#~ msgid "Min Sec Only"
-#~ msgstr "Nur min. sekureco"
-
-#~ msgid "Zoom Camera"
-#~ msgstr "Zomi kameraon"
-
-#~ msgid "Clock Type"
-#~ msgstr "Horiltipo"
-
-#~ msgid "+ *X GANG MEMBERS ARE FURIOUS (leader being punished)"
-#~ msgstr "+ *X BANDANOJ KOLEREGAS (bandestro puniĝas)"
-
-#~ msgid "*X Game Minutes"
-#~ msgstr "*X Ludminutoj"
-
-#~ msgid "Rooms"
-#~ msgstr "Ĉambroj"
-
-#~ msgid "Dialog Editor"
-#~ msgstr "Dialogredaktilo"
-
-#~ msgid "Campaign"
-#~ msgstr "Kampanjo"
-
-#~ msgid "DSP Editor"
-#~ msgstr "DSP-redaktilo"
-
-#~ msgid "Script Debugger (F3)"
-#~ msgstr "Skripterarserĉilo (F3)"
-
-#~ msgid "Med Sec Only"
-#~ msgstr "Nur meza sekureco"
-
-#~ msgid "Attacked Prisoner"
-#~ msgstr "Atakis malliberulon"
-
-#~ msgid "Punish"
-#~ msgstr "Puni"
-
-#~ msgid "Deliveries"
-#~ msgstr "Transdonoj"
-
-#~ msgid ""
-#~ "Unlocks the Foreman.  Hire him from the Staff toolbar.\n"
-#~ "\n"
-#~ "Like all Administrators, he requires an office to work."
-#~ msgstr ""
-#~ "Malŝlosas la laborestron.  Dungu lin en la dungitarilo.\n"
-#~ "\n"
-#~ "Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
-
-#~ msgid "Loop Type"
-#~ msgstr "Iteracitipo"
-
-#~ msgid ""
-#~ "Unlocks CCtv cameras and security monitors.  Use these to keep watch on "
-#~ "unmanned parts of your prison.\n"
-#~ "\n"
-#~ "Also unlocks the Phone Tap system, which allows you to listen in on "
-#~ "prisoner phone calls and gain vital intelligence."
-#~ msgstr ""
-#~ "Malŝlosas gvatkameraojn kaj sekurecekranojn.  Uzu ĉi tiujn por gvati "
-#~ "sengardistajn areojn de via malliberejo.\n"
-#~ "\n"
-#~ "Ankaŭ malŝlosas la telefongvatsistemon, kiu permesas al vi aŭskulti "
-#~ "malliberejtelefonalvokojn kaj atingi ecajn informojn."
-
-#~ msgid "Extras"
-#~ msgstr "Ekstroj"
-
-#~ msgid "and is increasing"
-#~ msgstr "kaj plialtiĝanta"
-
-#~ msgid "Time to unlock : *X hours"
-#~ msgstr "Malŝlostempo : *X horojn"
-
-#~ msgid "Where you send your dead prisoners and staff to."
-#~ msgstr "Kien vi sendas viajn mortajn malliberulojn kaj dungitaranojn."
-
-#~ msgid "Max Hired Already"
-#~ msgstr "Maksimumo jam dungiĝis"
-
-#~ msgid "Publish this prison"
-#~ msgstr "Publikigi ĉi tiun malliberejon"
-
-#~ msgid "Extra Grant"
-#~ msgstr "Ekstra subvencio"
-
-#~ msgid "Lockdown (24hrs)"
-#~ msgstr "Enĉelŝlosi (24 horojn)"
-
-#~ msgid "Switch On"
-#~ msgstr "Ŝalti"
-
-#~ msgid "Stop and Search"
-#~ msgstr "Ĉesi kaj serĉi"
-
-#~ msgid "(Properties)"
-#~ msgstr "(Detaloj)"
-
-#~ msgid "INFORMANT"
-#~ msgstr "CONFIDENTIAL INFORMANTS"
-
-#~ msgid "Close"
-#~ msgstr "Fermi"
-
-#~ msgid "Jobs"
-#~ msgstr "Postenoj"
-
-#~ msgid "*X Prisoners are unable to be assigned a cell"
-#~ msgstr "Al *X nalliberuloj ne eblas asigniĝi ĉelon"
-
-#~ msgid "H"
-#~ msgstr "A"
-
-#~ msgid "Paste"
-#~ msgstr "Alglui"
-
-#~ msgid "Connect"
-#~ msgstr "Konekti"
-
-#~ msgid ""
-#~ "Unlocks the Foreman.  He allows you to do further research on things like "
-#~ "Prison Labour, or additional staff members like the Gardener.\n"
-#~ "\n"
-#~ "Like all Administrators, he requires an office to work."
-#~ msgstr ""
-#~ "Malŝlosas la laborestron.  Li permesas al vi plu esplori aferojn kiel "
-#~ "malliberejlaboron, aŭ aliajn dungitaranojn kiel la ĝardeniston.\n"
-#~ "\n"
-#~ "Kiel ĉiuj administrantoj, li bezonas oficejon por labori."
-
-#~ msgid "Save Settings"
-#~ msgstr "Konservi agordojn"
-
-#~ msgid "Graphics and Sounds"
-#~ msgstr "Grafiko kaj sono"
-
-#~ msgid "Execution Liability"
-#~ msgstr "Pligrandigi ekzekutpasivon"
-
-#~ msgid ""
-#~ "Pacify your prisoners with mind-numbing mediocrity. Requires a place for "
-#~ "prisoners to sit in front of the TV."
-#~ msgstr "Pacigi viajn malliberulojn per mencparaliza mezboneco."
-
-#~ msgid "Unavailable: *X"
-#~ msgstr "Nehavebla: *X"
-
-#~ msgid "Close On Trigger"
-#~ msgstr "Malfermi laŭ ellasilo"
-
-#~ msgid "Too Dangerous"
-#~ msgstr "Tro danĝere"
-
-#~ msgid ""
-#~ "Opens the Prison Grading screen, which shows you an overall rating of how "
-#~ "successful you have been."
-#~ msgstr ""
-#~ "Malfermas la Malliberejgradigdialogon, kiu montras entutan gradigon pri "
-#~ "kiom vi sukcesis."
-
-#~ msgid "W"
-#~ msgstr "L"
-
-#~ msgid "Load"
-#~ msgstr "Ŝarĝi"
-
-#~ msgid "Activity room for prisoners with babies."
-#~ msgstr "Aktivecĉambro por malliberuloj kun beboj."
-
-#~ msgid "Grounds Keeping"
-#~ msgstr "Ekstera bontenado"
-
-#~ msgid "+ *X prisoners have serious complaints"
-#~ msgstr "+ *X malliberuloj havas gravajn plendojn"
-
-#~ msgid "Exceeds Daily Budget"
-#~ msgstr "Superas ĉiutagbuĝeton"
-
-#~ msgid "Maximum safe capacity: *X"
-#~ msgstr "Maksimala sekura kapacito: *X"
-
-#~ msgid ""
-#~ "Only minimum security prisoners will be permitted to enter this sector."
-#~ msgstr "Nur mimumsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
-
-#~ msgid "Provides a source of water to your prison."
-#~ msgstr "Provizas fonton da akvo por via malliberejo."
-
-#~ msgid "*X Patrolling"
-#~ msgstr "*X Patrolantaj"
-
-#~ msgid "Open Mods Folder"
-#~ msgstr "Malfermi ludredaktaĵdosierujon"
-
-#~ msgid "This feature is unavailable on your hardware."
-#~ msgstr "Ĉi tiu funkcio nehaveblas en via aparataro."
-
-#~ msgid "Distributes electricity around your prison."
-#~ msgstr "Distribuas elektron en via malliberejo."
-
-#~ msgid "Contacts"
-#~ msgstr "Kontaktoj"
-
-#~ msgid "and is decreasing"
-#~ msgstr "kaj malplialtiĝanta"
-
-#~ msgid "Fog of War"
-#~ msgstr "Nebulo de Milito"
-
-#~ msgid "Category:"
-#~ msgstr "Kategorio:"
-
-#~ msgid "Laundry Distribution"
-#~ msgstr "Lavaĵdistribuo"
-
-#~ msgid "Lock open"
-#~ msgstr "Pordreĝimo: Ŝlosite malfermita"
-
-#~ msgid "Solitary (24hrs)"
-#~ msgstr "Enizolitecigi (24 horojn)"
-
-#~ msgid "Fit Map Height"
-#~ msgstr "Taŭgigi mapaltecon"
-
-#~ msgid "Copy and paste your existing structures."
-#~ msgstr "Kopii kaj alglui viajn ekzistajn konstruojn."
-
-#~ msgid "Failed *X times"
-#~ msgstr "Fiaskis *X-foje"
-
-#~ msgid ""
-#~ "Are you sure you wish to save with this file name? Existing data will be "
-#~ "overwritten."
-#~ msgstr ""
-#~ "Ĉu vi certas ke vi volas konservi per ĉi tiu dosiernomo? Ekzistanta "
-#~ "datumo superskribiĝos."
-
-#~ msgid "Your published prisons"
-#~ msgstr "Viaj publikigitaj malliberejoj"
-
-#~ msgid "Guards"
-#~ msgstr "Gardistoj"
-
-#~ msgid ""
-#~ "Opens the Bureaucracy screen, where you can assign your administrators to "
-#~ "unlock new items, staff types, and facilities."
-#~ msgstr ""
-#~ "Malfermas la Burokratidialogon, kie oni povas asigni siajn "
-#~ "administrantojn por malŝlosi novajn aĵojn, dungittipojn, kaj instalaĵojn."
-
-#~ msgid "Normal"
-#~ msgstr "Normale"
-
-#~ msgid "Assign staff to areas of your prison."
-#~ msgstr "Destini dungitaranojn al areoj de via malliberejo."
-
-#~ msgid "Current Prison"
-#~ msgstr "Nuna malliberejo"
-
-#~ msgid "Money Out: $*M /day"
-#~ msgstr "Elspezoj: $*M ĉiutage"
-
-#~ msgid "Awaiting Materials"
-#~ msgstr "Materialoj atendataj"
-
-#~ msgid ""
-#~ "Assign prisoners to work around your prison. Also manual control over the "
-#~ "canteen and laundry assignments."
-#~ msgstr ""
-#~ "Destini malliberulojn labori dise en via malliberejo. Ankaŭ permana "
-#~ "kontrolo de la manĝej- kaj lavejdestinoj."
-
-#~ msgid "Options"
-#~ msgstr "Agordoj"
-
-#~ msgid "Unlock new possibilities for your prison."
-#~ msgstr "Malfermi novajn eblecojn por via malliberejo."
-
-#~ msgid ""
-#~ "You cannot have a negative cashflow (ie have more expenses than income) "
-#~ "until you have hired an Accountant to manage your finances."
-#~ msgstr ""
-#~ "Oni ne povas havi negativan netenspezon (t.e. havi pli da elspezoj ol "
-#~ "enspezoj) antaŭ ol oni dongis Kontiston administriontan je viaj financoj."
-
-#~ msgid ""
-#~ "Used to connect items like toilets, showers, sinks etc to your large pipe "
-#~ "network. The pressure is much lower, so there is a limited length that a "
-#~ "small pipe can run for before the pressure becomes too low."
-#~ msgstr ""
-#~ "Uziĝas por konekti aĵojn kiel necesujoj, duŝiloj, manlavujoj ktp al via "
-#~ "granda pipreto. La premo multe pli malgrandas, do estas limigita longeco "
-#~ "laŭ kiu malgranda pipo povas kuri antaŭ ol la premo tro malgrandiĝos."
-
-#~ msgid "Give your prisoners the life of luxury with hot food."
-#~ msgstr "Doni al viaj malliberuloj la vivon de lukso per varma manĝaĵo."
-
-#~ msgid "Small"
-#~ msgstr "Malgranda"
-
-#~ msgid "InputSlider"
-#~ msgstr "Enigŝovilo"
-
-#~ msgid ""
-#~ "Some magic is already happening with Steam. Please wait for that to "
-#~ "finish first, then try again."
-#~ msgstr ""
-#~ "Iu magio jam okazas rilate al Steam. Bonvole unue atendu tion finiĝi, kaj "
-#~ "tiam repenu."
-
-#~ msgid "To deliver 2000V of justice."
-#~ msgstr "Por doni 2000V da justeco."
-
-#~ msgid "Condition"
-#~ msgstr "Stato"
-
-#~ msgid ""
-#~ "Random derelict buildings will be left behind on your land, which you can "
-#~ "use as you wish."
-#~ msgstr ""
-#~ "Hazardaj forlasitaj konstruaĵoj forlasiĝos sur via lando, kiun vi povas "
-#~ "laŭvole uzi."
-
-#~ msgid "Men"
-#~ msgstr "Malinaj"
-
-#~ msgid "Intoxication"
-#~ msgstr "Ebrio"
-
-#~ msgid "Performance Test Running"
-#~ msgstr "Redimenttesto kuranta"
-
-#~ msgid "Todo"
-#~ msgstr "Endaĵoj"
-
-#~ msgid "Back"
-#~ msgstr "Reen"
-
-#~ msgid "Apply"
-#~ msgstr "Apliki"
-
-#~ msgid "No Route"
-#~ msgstr "Neniu vojo"
-
-#~ msgid "Slow"
-#~ msgstr "Malrapide"
-
-#~ msgid "NO ACCESS"
-#~ msgstr "NENIU ENIRO"
-
-#~ msgid "Publishing..."
-#~ msgstr "Publikigante ..."
-
-#~ msgid "Your mod failed to publish."
-#~ msgstr "Via ludredaktaĵo fiaskis publikiĝi."
-
-#~ msgid "Find more translations (Steam Workshop)"
-#~ msgstr "Trovi pli da tradukoj (Steam Workshop)"
-
-#~ msgid "Shared capacity: *X"
-#~ msgstr "Dividita kapacito: *X"
-
-#~ msgid "Sound Editor"
-#~ msgstr "Sonredaktilo"
-
-#~ msgid "Mod difference"
-#~ msgstr "Ludredaktaĵdiferenco"
-
-#~ msgid ""
-#~ "A heavyset door to stop even the strongest of prisoners from escaping."
-#~ msgstr ""
-#~ "Fortega pordo por teni eĉ la plej fortajn el malliberuloj de eskapi."
-
-#~ msgid "Tazers"
-#~ msgstr "Tasero"
-
-#~ msgid "Stop Time Lapse"
-#~ msgstr "Ĉesigi fulmfilmeton"
+msgid "Patrols"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Patroloj\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Patrolo"
+
+msgid "Recovering alcoholic"
+msgstr "Reakiranta alkoholisto"
+
+msgid "Terms and Conditions"
+msgstr "Uzokondiĉoj"
+
+msgid "Open"
+msgstr "Malfermi"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid ""
+"Once enabled, this setting cannot be deactivated. Are you sure you wish "
+"to enable *X?"
+msgstr ""
+"Kiam ŝaltita, ĉi tiu agordo ne povas elŝaltiĝi. Ĉu vi certas ke vi volas "
+"ŝalti je *X?"
+
+msgid "One Day"
+msgstr "Unu tagon"
+
+msgid ""
+"Designed to be built in a Security Room, and operated by a Guard. "
+"Monitors the CCTV cameras around your prison remotely.\n"
+"\n"
+"Use the Connect tool to connect this monitor to your CCTV cameras.\n"
+"\n"
+"Note: A maximum of eight cameras can be viewed at once. If you connect "
+"more than eight cameras, the monitor will cycle through them gradually, "
+"giving only partial coverage."
+msgstr ""
+"Dezajnita por konstruiĝi en sekurecĉambro, kaj regita de gardisto. Gvatas "
+"la gvatkameraojn dise en via malliberejo de malproksimo.\n"
+"\n"
+"Uzu la konektilon por konekti xi tiun ekranon al viaj gvatkameraoj.\n"
+"\n"
+"Notu: Maksimumo de ok kameraoj povas samtempe vidiĝi. Se oni konektos pli "
+"ol ok kameraojn, la ekrano grade cikle traktos ilin, donante nur partan "
+"gvatecon."
+
+msgid "Different types of floors and walls."
+msgstr "Malsamaj tipoj de plankoj kaj muroj."
+
+msgid "FACTORS:"
+msgstr "FAKTOROJ:"
+
+msgid "+ *X riot police are on site"
+msgstr "+ *X turmultgardistoj estas eje"
+
+msgid "Find more mods (Wiki)"
+msgstr "Trovi pli da ludredaktaĵoj (Vikipedio)"
+
+msgid "Fire Engine"
+msgstr "Pumpkamiono"
+
+msgid "Ensure you can see your prisoners at all times of the day."
+msgstr ""
+"Certigi ke vi povas vidi viajn malliberulojn ĉiujn horojn de la tago."
+
+msgid "(Developer) Load Map"
+msgstr "(Ellabaranta) Ŝarĝi mapon"
 
 #, fuzzy
-#~ msgid "Clone"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Klonado\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Kloni\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Kloni"
+msgid "Intelligence"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Informo\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Spionservo"
 
-#~ msgid ""
-#~ "Keeps the inside of your prison nice and tidy. Can also help with the "
-#~ "prison laundry."
-#~ msgstr ""
-#~ "Tenas la enternon de via malliberejo pura kaj orda. Ankaŭ povas helpi pri "
-#~ "malliberejlavado."
+msgid "Regime"
+msgstr "Horaro"
 
-#~ msgid "Failed"
-#~ msgstr "Fiaskis"
+msgid "Allow your prisoners to exercise, which keeps them happy."
+msgstr "Permemi al viaj malliberuloj ekzerciĝi, kiu plaĉas al ili."
 
-#~ msgid "*X Incapacitated"
-#~ msgstr "*X Senkapabligitaj"
+msgid "SUSPICION"
+msgstr "Suspicion"
 
-#~ msgid "- *X prisoners have been calmed recently"
-#~ msgstr "- *X malliberuloj lastatempe trankviliĝis"
+msgid "Lockdown (6hrs)"
+msgstr "Enĉelŝlosi (6 horojn)"
 
-#~ msgid "Guilty"
-#~ msgstr "Kulpa"
+msgid "Plumbing and electrical systems."
+msgstr "Akvotubaro kaj elektraj sistemoj."
 
-#~ msgid "Used to keep your prisoners in check and out of trouble."
-#~ msgstr "Uzata por viajn malliberulojn disciplini kaj eksterturmultigi."
+msgid "Performance Test"
+msgstr "Testo de la rendimento"
 
-#~ msgid "Legal Defense"
-#~ msgstr "Leĝdefendado"
+msgid "Paramedics"
+msgstr "Savistoj"
 
-#~ msgid "Success Chance"
-#~ msgstr "Sukcesŝanco"
+msgid "Search Cell"
+msgstr "Ekzameni ĉelon"
 
-#~ msgid ""
-#~ "Protect your prisoners from the dirty floor while they offer their "
-#~ "prayers."
-#~ msgstr ""
-#~ "Protekti viajn malliberulojn de la malpura planko kiam ili ofertas siajn "
-#~ "preĝojn."
+msgid "SHAKEDOWN UNDERWAY"
+msgstr "RAZIO SURVOJE"
 
-#~ msgid "Sample Bank Editor"
-#~ msgstr "Sonpecujredaktilo"
+msgid "Unlocks the Gardener.  He will keep your outdoor areas tidy."
+msgstr "Malŝlosas la ĝardeniston.  Li restigos vian eksteran areon pura."
 
-#~ msgid "+ *X people have been killed recently"
-#~ msgstr "+ *X homoj lastatempe mortigiĝis"
+msgid "Connect your remote access systems together."
+msgstr "Konektu viajn demalproksimaj akcessistemoj kunen."
 
-#~ msgid "Normal Security"
-#~ msgstr "Normala Sekureco"
+msgid "- High Powered"
+msgstr "- Elektrega"
 
-#~ msgid ""
-#~ "Send all (willing) prisoners back to their cells. This will make your "
-#~ "prisoners very angry if you leave them locked up for too long."
-#~ msgstr ""
-#~ "Sendi ĉiujn (akceptantajn) malliberulojn al siaj ĉeloj. Ĉi tio tre "
-#~ "kolerigos viajn malliberulojn se vi lasos ilin enŝlositajn dum tro longe."
+msgid "Visible"
+msgstr "Videble"
 
-#~ msgid "Dangers"
-#~ msgstr "Danĝeroj"
+msgid "Your prison failed to publish."
+msgstr "Via malliberejo fiaskis publikiĝi."
 
-#~ msgid "Room Quality"
-#~ msgstr "Ĉambrokvalito"
+msgid "Objects"
+msgstr "Objektoj"
 
-#~ msgid "Publish This Mod"
-#~ msgstr "Publikigi ĉi tiun ludredaktaĵon"
+msgid "Repair"
+msgstr "Ripari"
 
-#~ msgid ""
-#~ "Unlocks the Lawyer, who can be hired from the Staff toolbar. Unlocks a "
-#~ "number of research options to give you greater control over your prison.\n"
-#~ "\n"
-#~ "Like all Administrators, he requires an office to work."
-#~ msgstr ""
-#~ "Malŝlosas la advokaton, kiu povas dungiĝi en la dungitarilo. Malĝlosas "
-#~ "iujn esploreleketojn donantaj al vi pli bonan regon de via malliberejo.\n"
-#~ "\n"
-#~ "Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+msgid "Biography"
+msgstr "Biografio"
 
-#~ msgid "A room where new recruits are placed until a cell is found for them."
-#~ msgstr ""
-#~ "Ĉambro kie novaj malliberuloj metiĝas antaŭ ol ĉelo por ili troviĝis."
+msgid "Women"
+msgstr "Inaj"
+
+msgid "Death Row Only"
+msgstr "Nur mortvicanoj"
+
+msgid "Next Event"
+msgstr "Venonta okazaĵo"
+
+msgid "Laundry Logistics"
+msgstr "Lavejloĝistiko"
+
+msgid ""
+"Allows you to define patrols around crucial areas of your prison (eg the "
+"perimeter), and assign guards to walk those patrols."
+msgstr ""
+"Permesas al vi difini patrolojn ĉirkaŭ kernaj areoj de via malliberejo "
+"(ekz. la perimetro), kaj asigni gardistojn tramarŝi tiujn patrolojn."
+
+msgid "Premade Prisons"
+msgstr "Antaŭkreitaj malliberejoj"
+
+msgid "Enable Vertex Buffer Objects"
+msgstr "Ŝalti vertican bufran objekton"
+
+msgid ""
+"Unlocks the Dog Handler and Guard Dog.  They excel in sniffing out the "
+"smelly contraband in your prison, and detecting escape tunnels.\n"
+"\n"
+"Dogs are also very fast which allows them to chase prisoners with ease."
+msgstr ""
+"Malŝlosas la hundiston kaj gardisthundon.  Ili elstaras je snufante trovi "
+"la odorantan kontrabandon en via malliberejo, kaj detekti eskaptunelojn.\n"
+"\n"
+"Hundoj ankaŭ tre rapidas kiu permesas al ili tre facile ĉassekvi "
+"malliberulojn."
+
+msgid "Shared"
+msgstr "Dividita"
+
+msgid "Prison Published"
+msgstr "Malliberejo publikigita"
+
+msgid ""
+"An extra challenge! You will be sacked and it will be game over if you "
+"let things get too bad. (Riots, Bankruptcy, too many Deaths or Escapes, "
+"etc.)"
+msgstr ""
+"Ekstra defio! Vi maldungiĝos kaj la ludo finiĝos se vi lasas al aferoj "
+"tro malboniĝi. (Turmulotoj, bankroto, tro da mortoj aŭ eskapoj, ktp.)"
+
+msgid "Lockdown (12hrs)"
+msgstr "Enĉelŝlosi (12 horojn)"
+
+msgid "Room Checkerbox"
+msgstr "Ĉambroŝakkrado"
+
+msgid "Caption"
+msgstr "Kapvorto"
+
+msgid "Materials On Route"
+msgstr "Materialoj survoje"
+
+msgid "Sound Parameter"
+msgstr "Sonparametro"
+
+msgid "LOCKED"
+msgstr "FERMITA"
+
+msgid "Room"
+msgstr "Ĉambro"
+
+msgid "Cannot Enter: Riot"
+msgstr "Ne eblas eniri: Turmulto"
+
+msgid "Place useful items around your prison."
+msgstr "Dismeti utilaĵojn en via malliberejo."
+
+msgid "Save Prison"
+msgstr "Konservi malliberejon"
+
+msgid ""
+"Only maximum security prisoners will be permitted to enter this sector."
+msgstr "Nur maksimumsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
+
+msgid "Instance Type"
+msgstr "Apertipo"
+
+msgid "Language"
+msgstr "Lingvo"
+
+msgid ""
+"Toggles the availability of electricity to any cable connected to it.\n"
+"\n"
+"Right click to toggle on/off state."
+msgstr ""
+"Baskuligas la haveblecon de elektro al iu kablo konektita al si.\n"
+"\n"
+"Dekstre alklaku por baskuligi la ek/for-staton."
+
+msgid "Relays your prayers directly to your higher power of choice."
+msgstr "Relajas viajn preĝojn rekte al la alta potenco de via elekto."
+
+msgid "Maintenance"
+msgstr "Bontenado"
+
+msgid "Where you send your prisoners to die."
+msgstr "Kien vi sendas viajn malliberulojn por morti."
+
+msgid "Medium capacity: *X"
+msgstr "Mezula kapacito: *X"
+
+msgid "To glimpse the sun through."
+msgstr "Por traduonvidi la sunon."
+
+msgid "Green Wing"
+msgstr "Verda flanko"
+
+msgid "English (Default)"
+msgstr "La angla (defaŭlta)"
+
+msgid "Goes excellently with a chair."
+msgstr "Bone taŭgas kun seĝo."
+
+msgid ""
+"Open up the reports window to see information on your prisoners, staff, "
+"income, grants, and more."
+msgstr ""
+"Malfermu la raportfenestron por vidi informojn pri viaj malliberuloj, "
+"dungitaro, enspezoj, stipendioj, kaj pli."
+
+msgid "Legal"
+msgstr "Leĝo"
+
+msgid ""
+"Shows all contraband confiscated in the history of your prison. The icons "
+"show where the contraband was confiscated."
+msgstr ""
+"Montras ĉiun kontrabandon konfiskitan dum la historio de via malliberejo."
+
+msgid ""
+"Unlocks the Warden, and the entire Bureaucracy system.  Hire him from the "
+"Staff toolbar.\n"
+"\n"
+"Like all Administrators, he requires an office to work."
+msgstr ""
+"Malŝlosas la malliberejestron, kaj la tutan burokratisistemon. Dungu lin "
+"per la dungitarilo.\n"
+"\n"
+"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+
+msgid ""
+"Mark this prisoner as your own entry. If you should somehow end up in "
+"prison yourself, this is the prisoner that will represent you."
+msgstr ""
+"Marki ĉi tiun malliberulon kiel la vian. Se vi mem iel estontus "
+"malliberigita, ĉi tiu estas la malliberulo kiu reprezentos vin."
+
+msgid "Contents : *X"
+msgstr "Enhavo : *X"
+
+msgid "Unlocked"
+msgstr "Malŝlosita"
+
+msgid ""
+"Unlocks the Psychologist, providing you with a valuable insight into your "
+"Prisoner's internal psychological state at all times.\n"
+"\n"
+"Like all Administrators, he requires an office to work."
+msgstr ""
+"Malŝlosas la psikologiiston donantan al vi valorajn informojn pri la "
+"enternaj psikologiaj statoj ĉiamaj.\n"
+"\n"
+"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+
+msgid "Destruction"
+msgstr "Destruo"
+
+msgid "Bank *B"
+msgstr "Mono *B"
+
+msgid "Bank Loan"
+msgstr "Bankprunto"
+
+msgid "Playback Rate"
+msgstr "Bildrapido"
+
+msgid "Continuous Intake"
+msgstr "Kontinua akceptado"
+
+msgid "Wages : $*W per day"
+msgstr "Salajro : $*W ĉiutage"
+
+msgid "Window"
+msgstr "Fenestro"
+
+msgid "Sound Type"
+msgstr "Sontipo"
+
+msgid "Active"
+msgstr "Ŝaltita"
+
+msgid "Solitary (12hrs)"
+msgstr "Enizolitecigi (12 horojn)"
+
+msgid "Ok"
+msgstr "Bone"
+
+msgid "Description"
+msgstr "Priskribo"
+
+msgid "Clear"
+msgstr "Klarigi"
+
+msgid "Polaroids"
+msgstr "Polaroidbildoj"
+
+msgid "Where your prisoners live, if they have babies."
+msgstr "Kie viaj malliberuloj loĝas, se ili havas bebojn."
+
+msgid "Freefire"
+msgstr "Laŭvoligi armilojn"
+
+msgid "- Ctrl + Right Click to remove High Priority"
+msgstr "Ctrl + Dekstre aklaki por forigi altprioritaton"
+
+msgid "Rioting"
+msgstr "Tumultado"
+
+msgid "Transfer"
+msgstr "Transdoni"
+
+msgid "Toggles the availability of water to any pipe connected to it."
+msgstr "Baskuligas la haveblecon de akvo al iu pipo konektita al si."
+
+msgid ""
+"Advanced architects only.\n"
+"\n"
+"Takes its incoming signal, and bridges it onto Electrical Cable installed "
+"in the same square. That Electrical cable will carry the signal to any "
+"other Logic Circuits installed on the same Electrical Cable.\n"
+"\n"
+"Can be used to 'broadcast' a common signal all around your prison, eg "
+"Useful to pass around a common Clock signal."
+msgstr ""
+"Nur altnivelaj arkitektoj.\n"
+"\n"
+"Prenas sian eniran signalon, kaj plusendas ĝin supren sur elektra kablo "
+"instalita en la samo ĉelo. Tiu elektra kablo portos la signalon al iuj "
+"aliaj logikaj cirkvitoj instalitaj sur la sama elektra kablo.\n"
+"\n"
+"Povas uziĝi por 'dissendi' komunan signalon disen en vian malliberejon, "
+"ekz. utila por sendi komunan horloĝsignalon."
+
+msgid "This mod is currently active. Click to deactivate."
+msgstr "Ĉi tiu ludredaktaĵo nune ŝaltitas. Alklaku por elŝalti."
+
+msgid ""
+"Copy and paste existing parts of your prison, or place predefined rooms."
+msgstr ""
+"Kopii kaj alglui ekzistajn partojn de via malliberejo, aŭ meti "
+"antaŭdefinitajn ĉambrojn."
+
+msgid "Scrollbar"
+msgstr "Rulumskalo"
+
+msgid ""
+"A tower from which your snipers (hired separately) can watch over your "
+"prison."
+msgstr ""
+"Turo de kiu viaj fusilistoj (aparte dungitaj) povas gvati vian "
+"malliberejon."
+
+msgid "Convicted of *C (pleaded *P)"
+msgstr "Juĝiĝis de *C (pledis kiel *P)"
+
+msgid "Utilities"
+msgstr "Utilecoj"
+
+msgid "Autosave Timer"
+msgstr "Aŭtomata konservhorilo"
+
+msgid ""
+"See your overall prison grading on four key metrics - Punishment, Reform, "
+"Security, and Health. Also shows the re-offending rate for your prison."
+msgstr ""
+"Vidu la entutan malliberejgradigon laŭ kvar ŝlosilaj metrikoj - Punoj, "
+"Reformo, Sekureco, kaj Saneco. Ankaŭ montras la refojan malobservraton de "
+"via malliberejo."
+
+msgid "SecureArea"
+msgstr "SekuraAreo"
+
+msgid "Visually identify weaknesses in your prison's layout."
+msgstr "Videble identigi malfortecojn en la konstruado de via malliberejo."
+
+msgid "To glimpse lots of the sun through."
+msgstr "Por traduonvidegi la sunon."
+
+msgid "Contents : *X x *Y"
+msgstr "Enhavo : *X x *Y"
+
+msgid "Filtering"
+msgstr "Filtrado"
+
+msgid "Hardware Compatibility Test"
+msgstr "Aparatarkongruectesto"
+
+msgid ""
+"This is a new steam mod. Click to subscribe to and download the mod now."
+msgstr ""
+"Ĉi tio estas nova steamludredaktaĵo. Aklaku por aboni kaj elŝuti ĝin nun."
+
+msgid "Keeps your prison grounds nice and tidy."
+msgstr "Tenas viajn malliberejareojn puraj kaj ordaj."
+
+msgid ""
+"A strong metal door that cannot be opened with a key (Can only be opened "
+"remotely). Use this to prevent mass escape events when a prisoner has "
+"Jail Keys."
+msgstr ""
+"Forta metalpordo kiu ne povas malfermiĝi per ŝlosilo (nur povas "
+"demalproksime malfermiĝi). Uzu ĉi tiun por preventi amaseskapokazaĵojn "
+"kiam malliberulo havas malliberejŝlosilojn."
+
+msgid "Protected Only"
+msgstr "Nur protektitoj"
+
+msgid "Alcoholic"
+msgstr "Alkoholisto"
+
+msgid "Frequency"
+msgstr "Frekvenso"
+
+msgid "UNLIMITED FUNDS"
+msgstr "NEFINITAJ FINANCOJ"
+
+msgid ""
+"All employees are required to wash their hands. Will work faster if "
+"connected to hot water."
+msgstr ""
+"Ĉiuj dungitaranoj devas lavi siajn manojn. Pli rapide laboros se "
+"konektita al varma akvo."
+
+msgid "Foundations"
+msgstr "Fundamento"
+
+msgid "ProgressBar"
+msgstr "Plenumskalo"
+
+msgid "Failed to get the list of trending prisons."
+msgstr "Fiaskis atingi la liston de ŝategataj malliberejoj."
+
+msgid ""
+"Shows all the locations around your prison that contraband could be "
+"stolen from."
+msgstr ""
+"Montras ĉiujn lokojn dise en via malliberejo kie kontrabando elŝteleblas."
+
+msgid "Failed To Publish Mod"
+msgstr "Fiaskis publikigi ludredaktaĵon"
 
 #, fuzzy
-#~ msgid "Grading"
-#~ msgstr ""
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Gradigo\n"
-#~ "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-#~ "Rangigo"
+msgid "Deployment"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Deplojado\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Deplojo"
+
+msgid "Taking steps against global warming is all of our responsibility."
+msgstr "Elpaŝi kontraŭ tutmonda varmiĝo entute estas via respondeco."
+
+msgid "Filter"
+msgstr "Filtri"
+
+msgid ""
+"Your prisoners will be eligible for parole after serving 50% and 75% of "
+"their terms. Their fate will be decided in this room, with the Warden and "
+"the Chief.\n"
+"\n"
+"Nb Extra security is advised. Prisoners have been known to become quite "
+"upset when their parole is denied."
+msgstr ""
+"Viaj malliberuloj rajtas provizoran liberigon post pune servi 50% kaj 75% "
+"de siaj punoj. Iliaj sortoj fikiĝos en ĉi tiu ĉambro, kun la "
+"Malliberejestro kaj Sekurecestro.\n"
+"\n"
+"N.B. Ekstra sekureco konsiliĝas. Malliberuloj tre koleregiĝemas kiam "
+"iliaj prozorliberigoj rifuziĝas."
+
+msgid "Press ESC to Continue"
+msgstr "Presu ESC por daŭrigi"
+
+msgid "Are you sure you wish to overwrite *X with the current prison?"
+msgstr "Ĉu vi certas ke vi volas superskribi *X per via nova malliberejo?"
+
+msgid "Tunnel"
+msgstr "Tunelo"
+
+msgid "All"
+msgstr "Ĉiuj"
+
+msgid "Feeds your prisoners with the meals they prepare."
+msgstr "Nutras viajn malliberulojn per la manĝoj kiujn ili pretigas."
+
+msgid "SuperMax Only"
+msgstr "Nur super maks. sekureco"
+
+msgid "Show every connected wire in your prison."
+msgstr "Montru ĉiun konektitan draton en via malliberejo."
+
+msgid "Reform Program History"
+msgstr "Reformprogramhistorio"
+
+msgid "Character"
+msgstr "Karaktero"
+
+#, fuzzy
+msgid "Staff"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Dungitaro\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Dungitaranoj"
 
-#~ msgid "Micromanagement"
-#~ msgstr "Mikromastrumado"
+msgid ""
+"Keep an eye on your prison without the need for guards to be everywhere "
+"at once.\n"
+"\n"
+"You must Connect a CCTV Monitor to this camera for it to work."
+msgstr ""
+"Pririgardu vian malliberejon sen la bezono de gardistoj ĉie samtempe.\n"
+"\n"
+"Vi devos konekti gvatekranon al ĉi tiu kamerao por ke ĝi funkciu."
 
-#~ msgid "Automatically sprays the area with water in the event of a fire."
-#~ msgstr "Aŭtomate spruĉas la areon per akvo kaze de fajro."
+msgid "ACTIVE"
+msgstr "AKTIVE"
 
-#~ msgid "Permanent Punishments"
-#~ msgstr "Permanentaj punoj"
+msgid ""
+"Your staff need to write things down a lot. Give them a shiny office desk "
+"to do it on."
+msgstr ""
+"Via dungitaro ofte bezoans surpaperigi aferojn. Donu al ili brilan "
+"oficejtablon sur kiu ili povas tion fari."
 
-#~ msgid ""
-#~ "An advanced staff member that helps you bend some of the rules for "
-#~ "greater control over your prison."
-#~ msgstr ""
-#~ "Altnivela dungitarano kiu helpas vin fleksi iujn el la reguloj por pli "
-#~ "bona kontrolo de via malliberejo."
+msgid "Attacked Staff"
+msgstr "Atakis dungitaranon"
 
-#~ msgid "SKIP"
-#~ msgstr "PRETERPASI"
+msgid "= *X prisoners are suppressed (compliant)"
+msgstr "= *X malliberuloj subpremiĝas (konsentemas)"
 
-#~ msgid "LOCKED (*B required)"
-#~ msgstr "FERMITA (*B bezoniĝas)"
+msgid "Materials"
+msgstr "Materialoj"
 
-#~ msgid ""
-#~ "The grand overseer of your prison. Required before you can research and "
-#~ "hire advanced staff members."
-#~ msgstr ""
-#~ "La granda estro de via malliberejo. Bezonatas antaŭ ol vi povas esplori "
-#~ "kaj dungi altnivelajn dungitaranojn."
+msgid "Body Armour"
+msgstr "Korparmaĵo"
 
-#~ msgid "Profiler"
-#~ msgstr "Testilo"
+msgid "This mod is currently inactive. Click to activate."
+msgstr "Ĉi tiu ludredaktaĵo nune elŝaltitas. Alklaku por ŝalti."
 
-#~ msgid ""
-#~ "Lights up either red or green, depending on the signal it is receiving."
-#~ msgstr "Aŭ ruĝe aŭ verde lumiĝas depende de la signalo kiun ĝi ricevas."
+msgid "Only 'death row' prisoners will be permitted to enter this sector."
+msgstr "Nur 'mortvicanaj' malliberuloj permesiĝos en ĉi tiu sektoro."
 
-#~ msgid "Experience"
-#~ msgstr "Sperto"
+msgid "Date"
+msgstr "Dato"
 
-#~ msgid "Pathways"
-#~ msgstr "Vojetoj"
+msgid "Shows information about your prison's gangs."
+msgstr "Montras informon pri la bandoj de via malliberejo."
 
-#~ msgid "Cost: *X"
-#~ msgstr "Kosto: *X"
+msgid ""
+"An advanced staff member that allows you to gain an insight in to the "
+"minds of your prisoners."
+msgstr ""
+"Altnivela dungitarano kiu permesas al vi atingi sagacecon al la mencoj de "
+"viaj malliberuloj"
 
-#~ msgid "Spawn? The fuck does this do?"
-#~ msgstr "Aperigi? Kion la fek ĉi tio faras?"
+msgid ""
+"Only 'superMax' security prisoners will be permitted to enter this sector."
+msgstr ""
+"Nur 'supermaksimumsekurecaj' malliberuloj permesiĝos en ĉi tiu sektoro."
 
-#~ msgid "*X prisoners are rioting"
-#~ msgstr "*X malliberuloj turmultas"
+msgid "Published by you"
+msgstr "Publikigita de vi"
 
-#~ msgid "Main Menu"
-#~ msgstr "Ĉefa menuo"
+msgid "Todo List"
+msgstr "Endaĵaro"
 
-#~ msgid ""
-#~ "When selected, lights will automatically be placed throughout your newly "
-#~ "created buildings once they are finished."
-#~ msgstr ""
-#~ "Kiam elektita, lampoj aŭtomate dismetiĝos en viajn nove kreitajn "
-#~ "konstruaĵojn kiam ili estas finitaj."
+msgid "Timings"
+msgstr "Horoj"
 
-#~ msgid "Automatic Light Placement"
-#~ msgstr "Aŭtomata lampmetado"
+msgid "Map Settings"
+msgstr "Mapagordoj"
 
-#~ msgid "Minimum Security"
-#~ msgstr "Minimuma Sekureco"
+msgid "Stats"
+msgstr "Statistiko"
 
-#~ msgid "- URGENT"
-#~ msgstr "URĜE"
+msgid "Activity"
+msgstr "Aktivecoj"
 
-#~ msgid "Version"
-#~ msgstr "Versio"
+msgid "Protected capacity: *X"
+msgstr "Protektitula kapacito: *X"
 
-#~ msgid "Remove an object from your prison."
-#~ msgstr "Forigi objekton el via malliberejo."
+msgid "View in Steam Workshop"
+msgstr "Vidi en Steam Workshop"
 
-#~ msgid "(*X are idle)"
-#~ msgstr "(*X Mallaborantaj)"
+msgid "Electricity"
+msgstr "Elektro"
 
-#~ msgid "Logistics"
-#~ msgstr "Loĝistiko"
+msgid "Loading..."
+msgstr "Ŝarĝas ..."
 
-#~ msgid "Overlays"
-#~ msgstr "Surmetoj"
+msgid "Psychology"
+msgstr "Psikologio"
 
-#~ msgid ""
-#~ "Only medium security prisoners will be permitted to enter this sector."
-#~ msgstr "Nur mezsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
+msgid "Supersampled"
+msgstr "Multspecimena"
 
-#~ msgid "- Mod Content"
-#~ msgstr "- Modifenhavo"
+msgid "Toggle the todo list"
+msgstr "Baskuligi la endaĵaron"
 
-#~ msgid ""
-#~ "What happens when a bureaucratic committee gets together and designs a "
-#~ "solution to inmate's religious needs? A 'Multi Faith Prayer Room', that's "
-#~ "what. We refer to it as the Chapel."
-#~ msgstr ""
-#~ "Kio okazas kiam burokratia komitato kunvenas kaj elpensas solvon al la "
-#~ "religiaj bezonoj de malliberuloj? 'Plurkreda Preĝĉambro', tio estas kio. "
-#~ "Ni nomas ĝin la Kapelo."
+msgid "- *X prisoners say they are well treated"
+msgstr "- *X malliberuloj diras ke ili bone traktiĝas"
 
-#~ msgid "Twitter"
-#~ msgstr "Tvitero"
+msgid "Eligible for parole after *X years"
+msgstr "Elektebla por provizora liberigo post *X jaroj"
 
-#~ msgid "Failed To Publish Prison"
-#~ msgstr "Fiaskis publikigi malliberejon"
+msgid "Save Campaign"
+msgstr "Konservi kampanjon"
 
-#~ msgid "Protection: *X%"
-#~ msgstr "Protektado: *X%"
+msgid "*X Available"
+msgstr "*X Haveblaj"
 
-#~ msgid "Experimental"
-#~ msgstr "Eksperimenta"
+msgid "Employ the necessary people to keep your prison running."
+msgstr "Dungi la necesajn homojn por kurigi vian malliberejon."
 
-#~ msgid "Dogs"
-#~ msgstr "Hundoj"
+msgid "Auto"
+msgstr "Aŭtomate"
 
-#~ msgid "A shelf that holds books."
-#~ msgstr "Breto kiu tenas librojn."
+msgid "Bangup"
+msgstr "Enĉeligi"
 
-#~ msgid "Indoor"
-#~ msgstr "Enterne"
+msgid "Select Prisoner Gender"
+msgstr "Elektu malliberulsekson"
 
-#~ msgid "Mix Frequency"
-#~ msgstr "Miksi frekvenson"
+msgid "Area for your medical staff to work."
+msgstr "Laborareo por viaj malsanulejestraranoj."
 
-#~ msgid "How long you've been running your prison."
-#~ msgstr "Dum kiom longe vi regis vian malliberejon."
+msgid "Destroy"
+msgstr "Detrui"
 
-#~ msgid ""
-#~ "Where you send your prisoners to die of boredom while making you car "
-#~ "license plates."
-#~ msgstr ""
-#~ "Kien vi sendas viajn malliberulojn por morti pro enueco farante "
-#~ "aŭtolicensplatojn por vi."
+msgid "Total time played : *X hours, *Y minutes, *Z seconds"
+msgstr "Totala tempo ludita : *X horoj, *Y minutoj, *Z sekundoj"
 
-#~ msgid "Disconnect"
-#~ msgstr "Malkonekti"
+msgid "Front"
+msgstr "Malfono"
 
-#~ msgid "Custom"
-#~ msgstr "Laŭmende"
+msgid "Where your prisoners live."
+msgstr "Kie viaj malliberuloj loĝas."
 
-#~ msgid "Insufficient Funds"
-#~ msgstr "Malsufiĉa mono"
+msgid "Time Left: *Ts"
+msgstr "Restanta tempo: *Ts"
 
-#~ msgid ""
-#~ "A variable-size room for housing multiple prisoners. The bigger the "
-#~ "dormitory, the more prisoners it can house."
-#~ msgstr ""
-#~ "Variablograndeca ĉambro por loĝigi plurajn malliberulojn. Ju pli granda "
-#~ "la loĝejo des pli da malliberuloj eblas al ĝi loĝigi."
-
-#~ msgid "Known Traits:"
-#~ msgstr "Konataj trajtoj:"
-
-#~ msgid "Construct/Demolish buildings in order to shape your prison."
-#~ msgstr "Konstruu/Malkonstruu konstruaĵojn por formigi vian malliberejon."
-
-#~ msgid "Land Expansion"
-#~ msgstr "Landekspansio"
-
-#~ msgid "Clusters of trees will appear on your land."
-#~ msgstr "Amasoj da arboj aperos sur via lando."
-
-#~ msgid "Death Row capacity: *X"
-#~ msgstr "Mortvicana kapacito: *X"
+msgid ""
+"An advanced staff member that gives access to the deployment, CCTV, and "
+"riot guards research items."
+msgstr ""
+"Altnivela dungitarano kiu donas akceson al deplojado, gvatado, kaj "
+"kontraŭtumultgardistoj."
 
-#~ msgid "Sack"
-#~ msgstr "Maldungi"
+msgid "Position Type"
+msgstr "Pozicitipo"
 
-#~ msgid "Swap Stereo"
-#~ msgstr "Permuti sterefonion"
+msgid "Goes brilliantly with a table."
+msgstr "Bone taŭgas kun tablo."
 
-#~ msgid "Searching Steam Workshop"
-#~ msgstr "Serĉas en Steam Workshop"
+msgid "Remove the monotony of prison life with a game of pool."
+msgstr "Forigi la monotonecon de malliberejvivo per ludo de poŝbilardo."
 
-#~ msgid "Max Jobs *X"
-#~ msgstr "Maksimumaj postenoj *X"
+msgid "*X total guards"
+msgstr "*X Gardistoj totale"
 
-#~ msgid "Translation"
-#~ msgstr "Traduko"
+msgid ""
+"The Warden and the Chief make their way to the condemned inmate's cell.  "
+"In addition, a priest or spiritual leader of the prisoners choice arrives "
+"on site and visits the prisoner in his cell to say final prayers."
+msgstr ""
+"The Warden and the Chief make thier way to the condemned inmate's cell.  "
+"In addition, a priest or spiritual leader of the prisoners choice arrives "
+"on site and visits the prisoner in his cell to say final prayers."
 
-#~ msgid "Introduction"
-#~ msgstr "Enkonduko"
+msgid ""
+"Plan out your prison without the fear of workers actually doing anything."
+msgstr ""
+"Elplani vian malliberejon sen la timo de laborantoj fakte laborantaj."
 
-#~ msgid "Exit"
-#~ msgstr "Eliri"
-
-#~ msgid "Foundations in progress"
-#~ msgstr "Fundamento progrese"
+msgid "*X Doing Jobs"
+msgstr "*X Laborantaj"
 
-#~ msgid ""
-#~ "A highly trained marksman who will automatically occupy an empty Guard "
-#~ "Tower if one is available. Will fire a number of warning shots at "
-#~ "prisoners causing trouble within the prison walls before taking a target "
-#~ "down. Escaping prisoners are given no such warnings."
-#~ msgstr ""
-#~ "Tre sperta pafisto kiu aŭtomate okupos malplenan gardistturo se eblas. "
-#~ "Pafos nombron da avertpafoj al malliberuloj tumultantaj ene de la muroj "
-#~ "de la malliberejo antaŭ ol ili mortigos malliberulon. Eskapantaj "
-#~ "malliberuloj ne avertiĝas."
+msgid "Sort"
+msgstr "Sorti"
 
-#~ msgid ""
-#~ "Order an immediate search of all Cells. This will take some time and will "
-#~ "annoy the hell out of your inmates."
-#~ msgstr ""
-#~ "Mendi tujan ekzamenon de ĉiuj ĉeloj. Ĉi tio daŭros dum longe kaj ĝenegos "
-#~ "viajn malliberulojn."
+msgid "Will build your prison for you, based on the plans you provide them."
+msgstr ""
+"Konstruos vian malliberojn por vi, bazite de la planoj kiujn vi al ili "
+"donos."
 
-#~ msgid "Remove a utility object from your prison."
-#~ msgstr "Forigu utilecobjekton el via malliberejo."
-
-#~ msgid "+ *X prisoners have been unnecessarily searched recently"
-#~ msgstr "+ *X malliberuloj nenecese lastatempe traserĉiĝis"
-
-#~ msgid "Save"
-#~ msgstr "Konservi"
-
-#~ msgid "Checkbox"
-#~ msgstr "Markobutono"
-
-#~ msgid "Switch Off"
-#~ msgstr "Elŝalti"
-
-#~ msgid "One Week"
-#~ msgstr "Unu semajnon"
-
-#~ msgid "Cancel"
-#~ msgstr "Nuligi"
-
-#~ msgid "This is me"
-#~ msgstr "Ĉi tiu estas mi"
-
-#~ msgid ""
-#~ "Designed to be built in a Security Room, and operated by a Guard. Can be "
-#~ "used to remotely open doors around your prison.\n"
-#~ "\n"
-#~ "Use the Connect tool to connect this system to your Door Servos. The Door "
-#~ "Servos should be built over the doors you wish to control remotely.\n"
-#~ "\n"
-#~ "Note: You can connect this to as many Servos as you wish, however the "
-#~ "Guard operating the system can open a maximum of two doors per second."
-#~ msgstr ""
-#~ "Dezajnita por esti en sekurecĉambro, kaj regita de gardisto. Povas uziĝi "
-#~ "por de malproksimo malfermi pordojn dise en via malliberejo.\n"
-#~ "\n"
-#~ "Uzu la konektilon por konekti ĉi tiun sistemon al viaj pordservoj. La "
-#~ "pordservoj konstruiĝu super la porodoj kiujn vi volas demalproksime "
-#~ "regi.\n"
-#~ "\n"
-#~ "Notu: Vi povas konekti ĉi tiun al kiel vole plej multe da servoj, tamen "
-#~ "la gardisto reganta la sistemon povas malfermi maksimumon da du pordoj po "
-#~ "sekundo."
+msgid "This is a new mod. Click to open it's link in a web browser."
+msgstr ""
+"Ĉi tio estas nova ludredaktaĵo. Alklaku por malfermi ĝian ligilon en "
+"retumilo."
 
-#~ msgid "Only staff will be permitted to enter this sector."
-#~ msgstr "Nur dungitaranoj permesiĝos en ĉi tiu sektoro."
+msgid "Failure Conditions"
+msgstr "Fiaskkondiĉoj"
 
-#~ msgid "Program"
-#~ msgstr "Programo"
+msgid "- Alt + Left Click to make High Priority"
+msgstr "Alt + Maldesktre alklaki por altprioritatigi"
 
-#~ msgid "+ *X per item."
-#~ msgstr "+ *X po aĵo."
+msgid "Sustain"
+msgstr "Subteno"
 
-#~ msgid "Finance"
-#~ msgstr "Financo"
+msgid "Adjacent to Room: *X"
+msgstr "Adjacent to Room:"
 
-#~ msgid "Tax Relief"
-#~ msgstr "Impostreliefo"
+msgid "Dog Patrols"
+msgstr "Hundpatroloj"
 
-#~ msgid "APPROVED"
-#~ msgstr "APROBITA"
+msgid "Cashflow *C"
+msgstr "Nete *C"
 
-#~ msgid "Offshore Tax Haven"
-#~ msgstr "Eksterlanda impostrifuĝejo"
+msgid "Clear Connections"
+msgstr "Klarigi konektojn"
 
-#~ msgid "(Spawn)"
-#~ msgstr "(Aperigo)"
+msgid "Capture Interval"
+msgstr "Kaptintervalo"
 
-#~ msgid "Research"
-#~ msgstr "Esploro"
+msgid "Cost: $*C /sq"
+msgstr "Kosto: $*C /kvadrato"
 
-#~ msgid ""
-#~ "Let your prisoners see the sun for a few hours a day under the watchful "
-#~ "eye of your sniper towers."
-#~ msgstr ""
-#~ "Lasu al viaj malliberuloj vidi la sunon dum malmulte da horoj ĉiutago "
-#~ "gardeme spekate de viaj fusilistturoj."
+msgid "Failed To Download Prison"
+msgstr "Fiaskis elŝuti malliberejon"
 
-#~ msgid "Dismiss"
-#~ msgstr "Ignori"
+msgid "+ *X prisoners are shackled in their cells or in solitary"
+msgstr "+ *X malliberuloj kateniĝas en siaj ĉeloj aŭ izolĉelo"
 
-#~ msgid "Panel"
-#~ msgstr "Panelo"
+msgid "Riot Police"
+msgstr "Turmultgardisto"
 
-#~ msgid "Three Months"
-#~ msgstr "Tri monatojn"
+msgid "Shows information gathered by your confidential informants."
+msgstr "Montras ĉiun informon atingitan de viaj konfidencaj informantoj."
 
-#~ msgid "URL"
-#~ msgstr "Retadreso"
+msgid "Red Wing"
+msgstr "Ruĝa flanko"
 
-#~ msgid "Find out about shit."
-#~ msgstr "Eltrovi pri aĵaĉoj."
+msgid "Legal Prep"
+msgstr "Leĝpreparado"
 
-#~ msgid ""
-#~ "Unlocks the Chief of Security, who can be hired from the staff toolbar.  "
-#~ "The chief gives you access to the Deployment screen, and will also give "
-#~ "you a realtime report of the danger level of your prison, often "
-#~ "predicting future trouble.\n"
-#~ "\n"
-#~ "Like all Administrators, he requires an office to work."
-#~ msgstr ""
-#~ "Malŝlosas la sekurecestron, kiu povas dungiĝi pere de la dungitarilo.  La "
-#~ "sekurecestro donas al vi akceson al la deplojdialogo, kaj ankaŭ "
-#~ "realtempan raporton de la danĝernivelo de via malliberejo, ofte "
-#~ "antaŭdirantan estontecajn problemojn.\n"
-#~ "\n"
-#~ "Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+msgid "Restart Chapter"
+msgstr "Rekomenci ĉapitron"
 
-#~ msgid "Remote Access"
-#~ msgstr "Demalproksima akceso"
+msgid "Allowing your prisoners some free time to relax."
+msgstr "Permesas al viaj malliberuloj iom da libertempo por malstreĉi."
 
-#~ msgid "Sentenced to *Y years for multiple crimes including *A, *B, and *C."
-#~ msgstr "Juĝiĝis *Y jarojn pro pluraj krimoj inkluzive *A, *B, kaj *C."
-
-#~ msgid "Armed Police"
-#~ msgstr "Armita polico"
-
-#~ msgid "Education"
-#~ msgstr "Edukado"
-
-#~ msgid "Eligible for parole now"
-#~ msgstr "Elektebla por provizora liberigo"
-
-#~ msgid "Prisoner #*X"
-#~ msgstr "Malliberulo #*X"
-
-#~ msgid ""
-#~ "Your prison will be sent boxes of discarded and used books from around "
-#~ "the country. Prisoners will need to sort those books onto the shelves."
-#~ msgstr ""
-#~ "Al via malliberejo sendos skatolojn da elĵetitaj kaj uzitaj libroj dise "
-#~ "el la lando. Malliberuloj devos sorti tiujn librojn en la bretojn."
+msgid "Recovering from *X addiction"
+msgstr "Reakiras de *Xtoksomanio"
 
-#~ msgid "DropDownMenu"
-#~ msgstr "Menuo"
+msgid "Money In: $*M /day"
+msgstr "Enspezoj: $*M ĉiutage"
 
-#~ msgid "= (DETERRENT) *X punishments have been handed down recently"
-#~ msgstr "= (MALINSTIGO) *X punoj lastatempe doniĝas"
+msgid "Open Save Folder"
+msgstr "Malfermi konservdosierujon"
 
-#~ msgid "Num Frames: *T"
-#~ msgstr "Nombro da bildoj: *T"
+msgid "Unlocked *X/*Y"
+msgstr "Malŝlositaj *X/*Y"
 
-#~ msgid "Enable Weather"
-#~ msgstr "Ŝalti veteron"
+msgid "+ *X Armed Guards"
+msgstr "+ *X Armitaj gardistoj"
 
-#~ msgid "Sort By:"
-#~ msgstr "Sorti laŭ:"
+msgid "Resolution"
+msgstr "Distingivo"
 
-#~ msgid "You need to research '*X' to unlock this report"
-#~ msgstr "Vi devas esplori je '*X' por malŝlosi ĉi tiun raporton"
+msgid "All prisoners will be allowed in this sector."
+msgstr "Ĉiuj malliberuloj permesiĝos en ĉi tiu sektoro."
 
-#~ msgid "Build"
-#~ msgstr "Konstrui"
-
-#~ msgid "Inactive"
-#~ msgstr "Elŝaltita"
+msgid "Prison Sharing (Steam)"
+msgstr "Malliberejkunhavigo (Steam)"
 
-#~ msgid ""
-#~ "Unlocks the Doctor, along with the Infirmary and the Morgue.  Injured "
-#~ "prisoners and staff will be taken to the Infirmary and Doctors will patch "
-#~ "them up."
-#~ msgstr ""
-#~ "Malŝlosas la kuraciston, kuracejon kaj la mortulejon.  Vunditaj "
-#~ "malliberuloj kaj dungitaranoj preniĝos al la kurecejo kaj kuracistoj "
-#~ "kuracos ilin."
+msgid "Sprite Bank Editor"
+msgstr "Ikonstribarredaktilo"
 
-#~ msgid "*Xm x *Ym. Total area *A sq metres. *C"
-#~ msgstr "*Xm x *Ym. Totala areo *A kvadratmetroj. *C"
+msgid "Min Sec Only"
+msgstr "Nur min. sekureco"
 
-#~ msgid "Sound Name"
-#~ msgstr "Sonnomo"
+msgid "Zoom Camera"
+msgstr "Zomi kameraon"
 
-#~ msgid "-24 Hours"
-#~ msgstr "-24 horoj"
+msgid "Clock Type"
+msgstr "Horiltipo"
 
-#~ msgid "Dump"
-#~ msgstr "Forĵeti"
+msgid "+ *X GANG MEMBERS ARE FURIOUS (leader being punished)"
+msgstr "+ *X BANDANOJ KOLEREGAS (bandestro puniĝas)"
 
-#~ msgid ""
-#~ "You've already published a prison with this name. Please pick a different "
-#~ "name."
-#~ msgstr "Vi jam publikigis malliberejon tiunoman. Bonvole elektu alian."
+msgid "*X Game Minutes"
+msgstr "*X Ludminutoj"
 
-#~ msgid ""
-#~ "The overall danger level of your prison, according to your security chief."
-#~ msgstr "La entuta danĝernivelo de via malliberejo laŭ via sekurecestro."
+msgid "Rooms"
+msgstr "Ĉambroj"
 
-#~ msgid "High DPI"
-#~ msgstr "Alta DPI"
+msgid "Dialog Editor"
+msgstr "Dialogredaktilo"
 
-#~ msgid "A place to hold the narcotics until your prisoners steal them."
-#~ msgstr ""
-#~ "Loko por teni viajn narkotaĵojn antaŭ ol viaj malliberuloj ŝtelas ilin."
+msgid "Campaign"
+msgstr "Kampanjo"
 
-#~ msgid "Age:"
-#~ msgstr "Aĝo:"
+msgid "DSP Editor"
+msgstr "DSP-redaktilo"
 
-#~ msgid "Unlimited Funds"
-#~ msgstr "Nelimigitaj financoj"
+msgid "Script Debugger (F3)"
+msgstr "Skripterarserĉilo (F3)"
 
-#~ msgid "Parent Capacity: *X"
-#~ msgstr "Patra kapacito: *X"
+msgid "Med Sec Only"
+msgstr "Nur meza sekureco"
 
-#~ msgid ""
-#~ "Distributes a large volume of water around your prison, under high "
-#~ "pressure. Probably big enough for someone to crawl to freedom through "
-#~ "five hundred yards of shit smelling foulness.\n"
-#~ "\n"
-#~ "Nb not generally used to connect to sinks, shower heads etc - the "
-#~ "pressure is too high. Use a small pipe for that."
-#~ msgstr ""
-#~ "Distribuas grandan volumon da akvo dise en via malliberejo, per alta "
-#~ "premo. Verŝajne sufiĉe granda por ke iu povu rampi al libereco tra "
-#~ "kvincent jardojn da fekodora stulteco.\n"
-#~ "\n"
-#~ "N.B: Ĝenerale ne uziĝas por konekti al malavujoj, duŝkapoj ktp. - la "
-#~ "premo tro altas. Uzu malgrandan pipon por tio."
+msgid "Attacked Prisoner"
+msgstr "Atakis malliberulon"
 
-#~ msgid "IconBox"
-#~ msgstr "Ikonujo"
+msgid "Punish"
+msgstr "Puni"
 
-#~ msgid "Width"
-#~ msgstr "Larĝeco"
+msgid "Deliveries"
+msgstr "Transdonoj"
 
-#~ msgid "*X hours in your prison"
-#~ msgstr "*X tagojn en via malliberejo"
+msgid ""
+"Unlocks the Foreman.  Hire him from the Staff toolbar.\n"
+"\n"
+"Like all Administrators, he requires an office to work."
+msgstr ""
+"Malŝlosas la laborestron.  Dungu lin en la dungitarilo.\n"
+"\n"
+"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
 
-#~ msgid "Where your dogs live."
-#~ msgstr "Kie viaj hundoj loĝas."
+msgid "Loop Type"
+msgstr "Iteracitipo"
 
-#~ msgid "Scenario"
-#~ msgstr "Scenaro"
+msgid ""
+"Unlocks CCtv cameras and security monitors.  Use these to keep watch on "
+"unmanned parts of your prison.\n"
+"\n"
+"Also unlocks the Phone Tap system, which allows you to listen in on "
+"prisoner phone calls and gain vital intelligence."
+msgstr ""
+"Malŝlosas gvatkameraojn kaj sekurecekranojn.  Uzu ĉi tiujn por gvati "
+"sengardistajn areojn de via malliberejo.\n"
+"\n"
+"Ankaŭ malŝlosas la telefongvatsistemon, kiu permesas al vi aŭskulti "
+"malliberejtelefonalvokojn kaj atingi ecajn informojn."
 
-#~ msgid "(Required: *X)"
-#~ msgstr "(Postulataj: *X)"
+msgid "Extras"
+msgstr "Ekstroj"
 
-#~ msgid "*X Resting"
-#~ msgstr "*X Ripozantaj"
+msgid "and is increasing"
+msgstr "kaj plialtiĝanta"
 
-#~ msgid "Area for cooks to prepare food for your prisoners."
-#~ msgstr "Areo por kuiristoj kuiri manĝojn por viaj malliberuloj."
+msgid "Time to unlock : *X hours"
+msgstr "Malŝlostempo : *X horojn"
 
-#~ msgid ""
-#~ "Anyone will be permitted to enter this zone, and all doors will be "
-#~ "unlocked."
-#~ msgstr ""
-#~ "Ĉiuj permesiĝos en ĉi tiu sektoro, kaj ĉiuj pordoj estos malfermitaj."
+msgid "Where you send your dead prisoners and staff to."
+msgstr "Kien vi sendas viajn mortajn malliberulojn kaj dungitaranojn."
 
-#~ msgid ""
-#~ "Pure Sandbox Mode! You can spend as much money as you like right from the "
-#~ "start, without having to worry or wait for more later."
-#~ msgstr ""
-#~ "Pura Provejo! Vi povas elspezi kiom vole plej multe ekde la komenco, sen "
-#~ "devi maltrankviliĝi aŭ atendi pli ĝis poste."
+msgid "Max Hired Already"
+msgstr "Maksimumo jam dungiĝis"
 
-#~ msgid "Zone 1"
-#~ msgstr "Zono 1"
+msgid "Publish this prison"
+msgstr "Publikigi ĉi tiun malliberejon"
 
-#~ msgid "Restart Introduction"
-#~ msgstr "Rekomenci enkondukon"
+msgid "Extra Grant"
+msgstr "Ekstra subvencio"
 
-#~ msgid "Medical Bay"
-#~ msgstr "Malsanulejeto"
+msgid "Lockdown (24hrs)"
+msgstr "Enĉelŝlosi (24 horojn)"
 
-#~ msgid "Guard Patrols"
-#~ msgstr "Gardistpatroloj"
+msgid "Switch On"
+msgstr "Ŝalti"
 
-#~ msgid "Zone 2"
-#~ msgstr "Zono 2"
+msgid "Stop and Search"
+msgstr "Ĉesi kaj serĉi"
 
-#~ msgid "Zone 3"
-#~ msgstr "Zono 3"
+msgid "(Properties)"
+msgstr "(Detaloj)"
 
-#~ msgid "Zone 4"
-#~ msgstr "Zono 4"
+msgid "INFORMANT"
+msgstr "CONFIDENTIAL INFORMANTS"
 
-#~ msgid "One Year"
-#~ msgstr "Unu jaron"
+msgid "Close"
+msgstr "Fermi"
 
-#~ msgid ""
-#~ "This translation is created and maintained by the community - Thank You!"
-#~ msgstr "Ĉi tiu traduko estas kreita kaj traktita de la komunumo - Dankon!"
+msgid "Jobs"
+msgstr "Postenoj"
 
-#~ msgid "Zone 5"
-#~ msgstr "Zono 5"
+msgid "*X Prisoners are unable to be assigned a cell"
+msgstr "Al *X nalliberuloj ne eblas asigniĝi ĉelon"
 
-#~ msgid "Zone 6"
-#~ msgstr "Zono 6"
+msgid "H"
+msgstr "A"
 
-#~ msgid "*X penalties :"
-#~ msgstr "*X punoj :"
+msgid "Paste"
+msgstr "Alglui"
 
-#~ msgid "Zone 7"
-#~ msgstr "Zono 7"
+msgid "Connect"
+msgstr "Konekti"
 
-#~ msgid "Zone 8"
-#~ msgstr "Zono 8"
+msgid ""
+"Unlocks the Foreman.  He allows you to do further research on things like "
+"Prison Labour, or additional staff members like the Gardener.\n"
+"\n"
+"Like all Administrators, he requires an office to work."
+msgstr ""
+"Malŝlosas la laborestron.  Li permesas al vi plu esplori aferojn kiel "
+"malliberejlaboron, aŭ aliajn dungitaranojn kiel la ĝardeniston.\n"
+"\n"
+"Kiel ĉiuj administrantoj, li bezonas oficejon por labori."
 
-#~ msgid "Zone 9"
-#~ msgstr "Zono 9"
+msgid "Save Settings"
+msgstr "Konservi agordojn"
 
-#~ msgid "Where your waste is collected from."
-#~ msgstr "El kie via rubaĵo kolektiĝas."
+msgid "Graphics and Sounds"
+msgstr "Grafiko kaj sono"
 
-#~ msgid "Prison Policy"
-#~ msgstr "Malliberejpolitiko"
+msgid "Execution Liability"
+msgstr "Pligrandigi ekzekutpasivon"
 
-#~ msgid "- Wired (connects to other wired objects)"
-#~ msgstr "- Dratita (konektas al aliaj dratitaĵoj)"
+msgid ""
+"Pacify your prisoners with mind-numbing mediocrity. Requires a place for "
+"prisoners to sit in front of the TV."
+msgstr "Pacigi viajn malliberulojn per mencparaliza mezboneco."
 
-#~ msgid "Names in the Game"
-#~ msgstr "Nomoj en la ludo"
+msgid "Unavailable: *X"
+msgstr "Nehavebla: *X"
 
-#~ msgid "Update This Mod"
-#~ msgstr "Ĝisdatigi ĉi tiun ludredaktaĵon"
+msgid "Close On Trigger"
+msgstr "Malfermi laŭ ellasilo"
 
-#~ msgid "Most Popular Prisons (Steam)"
-#~ msgstr "Plej ŝatataj malliberejoj (Steam)"
+msgid "Too Dangerous"
+msgstr "Tro danĝere"
 
-#~ msgid "No Materials"
-#~ msgstr "Neniuj materialoj"
+msgid ""
+"Opens the Prison Grading screen, which shows you an overall rating of how "
+"successful you have been."
+msgstr ""
+"Malfermas la Malliberejgradigdialogon, kiu montras entutan gradigon pri "
+"kiom vi sukcesis."
 
-#~ msgid ""
-#~ "Show the sources of Contraband, and all recently recovered contraband in "
-#~ "your prison. Also shows your Confidential Informants and their "
-#~ "information."
-#~ msgstr ""
-#~ "Vidi la fontojn de kontrabando, kaj ĉiun lastatempe retrovitan "
-#~ "kontrabandon en via malliberejo. Ankaŭ montras viajn Konfidencajn "
-#~ "Informantantojn kaj iliajn informojn."
+msgid "W"
+msgstr "L"
 
-#~ msgid "Dismantle"
-#~ msgstr "Malmunti"
+msgid "Load"
+msgstr "Ŝarĝi"
 
-#~ msgid "Found Weapons"
-#~ msgstr "Trovis armilojn"
+msgid "Activity room for prisoners with babies."
+msgstr "Aktivecĉambro por malliberuloj kun beboj."
 
-#~ msgid "Area designated to hold any materials your prison staff need."
-#~ msgstr ""
-#~ "Areo detinita por teni ĉiujn materialojn kiujn via malliberejdungitaro "
-#~ "bezonas."
+msgid "Grounds Keeping"
+msgstr "Ekstera bontenado"
 
-#~ msgid "Up"
-#~ msgstr "Supren"
+msgid "+ *X prisoners have serious complaints"
+msgstr "+ *X malliberuloj havas gravajn plendojn"
 
-#~ msgid "Cell quality: *X (*Y)"
-#~ msgstr "Cell quality : *X (*Y)"
+msgid "Exceeds Daily Budget"
+msgstr "Superas ĉiutagbuĝeton"
 
-#~ msgid "+ *X Dog handlers"
-#~ msgstr "+ *X Hundstiristoj"
+msgid "Maximum safe capacity: *X"
+msgstr "Maksimala sekura kapacito: *X"
 
-#~ msgid "Warden"
-#~ msgstr "Malliberejestro"
+msgid ""
+"Only minimum security prisoners will be permitted to enter this sector."
+msgstr "Nur mimumsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
 
-#~ msgid ""
-#~ "Unlocks the Janitor.  He will clean all the indoor areas of your prison "
-#~ "and can also help with the prison laundry service."
-#~ msgstr ""
-#~ "Malŝlosas la laviston.  Li purigos ĉiujn enternajn areojn de via "
-#~ "malliberejo kaj ankaŭ povas helpi pri la malliberejlavservo."
+msgid "Provides a source of water to your prison."
+msgstr "Provizas fonton da akvo por via malliberejo."
 
-#~ msgid "Addicted to *X"
-#~ msgstr "Toksomania je *X"
+msgid "*X Patrolling"
+msgstr "*X Patrolantaj"
 
-#~ msgid "Your staff need to keep the things they write ordered nicely."
-#~ msgstr "Via dungitaro bezonas restigi al siaj surpaperigaĵoj esti ordaj."
+msgid "Open Mods Folder"
+msgstr "Malfermi ludredaktaĵdosierujon"
 
-#~ msgid "Sound Channels"
-#~ msgstr "Sonkanaloj"
+msgid "This feature is unavailable on your hardware."
+msgstr "Ĉi tiu funkcio nehaveblas en via aparataro."
 
-#~ msgid "Enable Gangs"
-#~ msgstr "Ŝalti bandojn"
+msgid "Distributes electricity around your prison."
+msgstr "Distribuas elektron en via malliberejo."
 
-#~ msgid ""
-#~ "You will start with this much money in your bank account. Sell your "
-#~ "established prisons from the Valuation screen to start with more funds."
-#~ msgstr ""
-#~ "Vi komenciĝos kun ĉi tiom da mono en via bankkonto. Vendu viajn "
-#~ "establiitajn malliberejojn per la taksadekrano por komenciĝi kun pli da "
-#~ "financoj."
+msgid "Contacts"
+msgstr "Kontaktoj"
 
-#~ msgid ""
-#~ "Do you wish to keep these graphics options? These changes will revert in"
-#~ msgstr ""
-#~ "Ĉu vi volas pluhavi ĉi tiujn grafikagordojn? Ĉi tiuj ŝanĝoj malfariĝos "
-#~ "post"
+msgid "and is decreasing"
+msgstr "kaj malplialtiĝanta"
 
-#~ msgid "SuperMax capacity: *X"
-#~ msgstr "Supermaksimumula kapacito: *X"
+msgid "Fog of War"
+msgstr "Nebulo de Milito"
 
-#~ msgid "Designate areas of your prison with a specific function."
-#~ msgstr "Destini areojn de via malliberejo per specifa funkcio."
+msgid "Category:"
+msgstr "Kategorio:"
 
-#~ msgid "All Time"
-#~ msgstr "Ĉiam"
+msgid "Laundry Distribution"
+msgstr "Lavaĵdistribuo"
 
-#~ msgid "- Press F to follow"
-#~ msgstr "Presu F por sekvi"
+msgid "Lock open"
+msgstr "Pordreĝimo: Ŝlosite malfermita"
 
-#~ msgid "Emergencies"
-#~ msgstr "Krizoj"
+msgid "Solitary (24hrs)"
+msgstr "Enizolitecigi (24 horojn)"
 
-#~ msgid "Current Frame Time: *Tms"
-#~ msgstr "Nuna bildrapido: *Tms"
+msgid "Fit Map Height"
+msgstr "Taŭgigi mapaltecon"
 
-#~ msgid "Quick Build"
-#~ msgstr "Rapidkonstruo"
+msgid "Copy and paste your existing structures."
+msgstr "Kopii kaj alglui viajn ekzistajn konstruojn."
 
-#~ msgid ""
-#~ "Increases the amount of electricity generated when placed next to a power "
-#~ "station."
-#~ msgstr ""
-#~ "Pligrandigas la kvanton da elektro generata kiam metita apud "
-#~ "elektrostacio."
+msgid "Failed *X times"
+msgstr "Fiaskis *X-foje"
 
-#~ msgid "Walk Speed : *S"
-#~ msgstr "Marŝrapideco : *S"
+msgid ""
+"Are you sure you wish to save with this file name? Existing data will be "
+"overwritten."
+msgstr ""
+"Ĉu vi certas ke vi volas konservi per ĉi tiu dosiernomo? Ekzistanta "
+"datumo superskribiĝos."
 
-#~ msgid "Ensure the dead have a respectful place to rest before moving."
-#~ msgstr ""
-#~ "Certigi ke mortuloj havas respektan lokon por resti antaŭ transloĝo."
+msgid "Your published prisons"
+msgstr "Viaj publikigitaj malliberejoj"
 
-#~ msgid "Show Rapsheet"
-#~ msgstr "Montri krimliston"
+msgid "Guards"
+msgstr "Gardistoj"
 
-#~ msgid ""
-#~ "Causes events to occur during the game to keep you on your toes. Adds "
-#~ "extra challenge and an element of unpredictability."
-#~ msgstr ""
-#~ "Kaŭzas okazaĵojn pli ofte okazi dum la ludo por restigi vin maldorma. "
-#~ "Aldonas ekstran defion kaj neantaŭdireblecon."
+msgid ""
+"Opens the Bureaucracy screen, where you can assign your administrators to "
+"unlock new items, staff types, and facilities."
+msgstr ""
+"Malfermas la Burokratidialogon, kie oni povas asigni siajn "
+"administrantojn por malŝlosi novajn aĵojn, dungittipojn, kaj instalaĵojn."
 
-#~ msgid "Revert"
-#~ msgstr "Reiri"
+msgid "Normal"
+msgstr "Normale"
 
-#~ msgid "Armed Patrols"
-#~ msgstr "Armitaj patroloj"
+msgid "Assign staff to areas of your prison."
+msgstr "Destini dungitaranojn al areoj de via malliberejo."
 
-#~ msgid "Load Campaign"
-#~ msgstr "Ŝarĝi kampanjon"
+msgid "Current Prison"
+msgstr "Nuna malliberejo"
 
-#~ msgid "-30 Days"
-#~ msgstr "-30 tagoj"
+msgid "Money Out: $*M /day"
+msgstr "Elspezoj: $*M ĉiutage"
 
-#~ msgid "Sentenced to *X years in jail"
-#~ msgstr "Juĝiĝis *X jarojn en malliberejo"
+msgid "Awaiting Materials"
+msgstr "Materialoj atendataj"
 
-#~ msgid ""
-#~ "Automatically heals all nearby injured people, whether they are guards or "
-#~ "prisoners."
-#~ msgstr ""
-#~ "Aŭtomate kuracos ĉiujn proksimajn homojn, senpense ĉu ili estas gardistoj "
-#~ "aŭ malliberuloj."
+msgid ""
+"Assign prisoners to work around your prison. Also manual control over the "
+"canteen and laundry assignments."
+msgstr ""
+"Destini malliberulojn labori dise en via malliberejo. Ankaŭ permana "
+"kontrolo de la manĝej- kaj lavejdestinoj."
 
-#~ msgid "Offices for your Officers."
-#~ msgstr "Oficejoj por viaj oficistoj."
+msgid "Options"
+msgstr "Agordoj"
 
-#~ msgid ""
-#~ "With your permission, we would like to collect the following hardware "
-#~ "data from your computer.\n"
-#~ "\n"
-#~ "This information is completely anonymous and will help us to ensure "
-#~ "Prison Architect is supported on the widest possible range of computer "
-#~ "hardware.\n"
-#~ "\n"
-#~ "Thank you!"
-#~ msgstr ""
-#~ "Laŭ via permeso, plaĉus al ni kolekti la sekvajn aparatardatumojn el via "
-#~ "komputilo.\n"
-#~ "\n"
-#~ "Ĉi tiuj informoj tute anonimas kaj helpos nin certigi ke Prison Architect "
-#~ "subteniĝas en kiel eble plej multe da komputilaparataro.\n"
-#~ "\n"
-#~ "Dankon!"
+msgid "Unlock new possibilities for your prison."
+msgstr "Malfermi novajn eblecojn por via malliberejo."
 
-#~ msgid "(Cutscenes)"
-#~ msgstr "(Tranĉscenoj)"
+msgid ""
+"You cannot have a negative cashflow (ie have more expenses than income) "
+"until you have hired an Accountant to manage your finances."
+msgstr ""
+"Oni ne povas havi negativan netenspezon (t.e. havi pli da elspezoj ol "
+"enspezoj) antaŭ ol oni dongis Kontiston administriontan je viaj financoj."
 
-#~ msgid "Served"
-#~ msgstr "Pune restis"
+msgid ""
+"Used to connect items like toilets, showers, sinks etc to your large pipe "
+"network. The pressure is much lower, so there is a limited length that a "
+"small pipe can run for before the pressure becomes too low."
+msgstr ""
+"Uziĝas por konekti aĵojn kiel necesujoj, duŝiloj, manlavujoj ktp al via "
+"granda pipreto. La premo multe pli malgrandas, do estas limigita longeco "
+"laŭ kiu malgranda pipo povas kuri antaŭ ol la premo tro malgrandiĝos."
 
-#~ msgid ""
-#~ "These mods were used when the current prison was saved. We highly "
-#~ "recommend downloading and activating them before playing this prison."
-#~ msgstr ""
-#~ "Ĉi tiuj ludredaktaĵoj uziĝis kiam la nuna malliberejo konserviĝis. Ni tre "
-#~ "konsilas elŝuti kaj ŝalti ilin antaŭ ol ludi ĉi tiun malliberejon."
+msgid "Give your prisoners the life of luxury with hot food."
+msgstr "Doni al viaj malliberuloj la vivon de lukso per varma manĝaĵo."
 
-#~ msgid "InputField"
-#~ msgstr "Enigkampo"
+msgid "Small"
+msgstr "Malgranda"
 
-#~ msgid "Currently running *C cameras"
-#~ msgstr "Nune kuras *C kameraoj"
+msgid "InputSlider"
+msgstr "Enigŝovilo"
 
-#~ msgid "Served *Y years"
-#~ msgstr "Pune restis *Y jarojn"
+msgid ""
+"Some magic is already happening with Steam. Please wait for that to "
+"finish first, then try again."
+msgstr ""
+"Iu magio jam okazas rilate al Steam. Bonvole unue atendu tion finiĝi, kaj "
+"tiam repenu."
 
-#~ msgid "An isolated form of imprisonment for the worst of the worst."
-#~ msgstr "Izolada mallibereco por la plej malbonaj el la plej malbonaj."
+msgid "To deliver 2000V of justice."
+msgstr "Por doni 2000V da justeco."
 
-#~ msgid "Lockdown (Permanent)"
-#~ msgstr "Enĉelŝlosi (Permanente)"
+msgid "Condition"
+msgstr "Stato"
 
-#~ msgid "(Developer) Clear Achievements"
-#~ msgstr "(Ellaboranta) Klarigi akirojn"
+msgid ""
+"Random derelict buildings will be left behind on your land, which you can "
+"use as you wish."
+msgstr ""
+"Hazardaj forlasitaj konstruaĵoj forlasiĝos sur via lando, kiun vi povas "
+"laŭvole uzi."
 
-#~ msgid "(Sample Bank)"
-#~ msgstr "(Sonpecujo)"
+msgid "Men"
+msgstr "Malinaj"
 
-#~ msgid "You need a *X to prepare this report."
-#~ msgstr "Vi bezonas je *X por prepari ĉi tiun raporton."
+msgid "Intoxication"
+msgstr "Ebrio"
 
-#~ msgid "Sentenced to *Y years for *A."
-#~ msgstr "Juĝiĝis *Y jarojn pro *A."
+msgid "Performance Test Running"
+msgstr "Redimenttesto kuranta"
 
-#~ msgid "Where your goods, materials, and prisoners are dropped off."
-#~ msgstr "Kie viaj havaĵoj, materialoj, kaj malliberuloj deĵetiĝas."
+msgid "Todo"
+msgstr "Endaĵoj"
 
-#~ msgid "Qualified Prisoners: *X"
-#~ msgstr "Kvalifikitaj malliberuloj: *X"
+msgid "Back"
+msgstr "Reen"
 
-#~ msgid "Used to keep your prisoners squeaky clean, and lice free."
-#~ msgstr "Uzata por teni viajn malliberulojn puregaj, kaj senpedikaj."
+msgid "Apply"
+msgstr "Apliki"
 
-#~ msgid "- Requires Water Connection"
-#~ msgstr "- Bezonas akvokonekton"
+msgid "No Route"
+msgstr "Neniu vojo"
 
-#~ msgid "Indoor only"
-#~ msgstr "Nur enterne"
+msgid "Slow"
+msgstr "Malrapide"
 
-#~ msgid "Planning"
-#~ msgstr "Planado"
+msgid "NO ACCESS"
+msgstr "NENIU ENIRO"
 
-#~ msgid ""
-#~ "An advanced staff member that allows you to gain access to Janitors and "
-#~ "Gardeners."
-#~ msgstr ""
-#~ "Altnivela dungitarano kiu permesas al vi atingi akceson al Lavistoj kaj "
-#~ "Ĝardenistoj."
+msgid "Publishing..."
+msgstr "Publikigante ..."
 
-#~ msgid "SelectionListItem"
-#~ msgstr "Elektlistano"
+msgid "Your mod failed to publish."
+msgstr "Via ludredaktaĵo fiaskis publikiĝi."
 
-#~ msgid ""
-#~ "Not too soft, not too hard, just right. Well, actually, really hard and "
-#~ "too small."
-#~ msgstr ""
-#~ "Ne tro mola, ne tro malmola, ĝuste taŭga. Nu, fakte, tre malmola kaj tro "
-#~ "malgranda."
+msgid "Find more translations (Steam Workshop)"
+msgstr "Trovi pli da tradukoj (Steam Workshop)"
 
-#~ msgid "Fit Map Width"
-#~ msgstr "Taŭgigi maplarĝecon"
+msgid "Shared capacity: *X"
+msgstr "Dividita kapacito: *X"
 
-#~ msgid "Deactivate all mods"
-#~ msgstr "Elŝalti ĉiujn ludredaktaĵojn"
+msgid "Sound Editor"
+msgstr "Sonredaktilo"
 
-#~ msgid "Where your prisoners are first taken when they arrive."
-#~ msgstr "Kie viaj malliberuloj unue preniĝos kiam ili alvenas."
+msgid "Mod difference"
+msgstr "Ludredaktaĵdiferenco"
 
-#~ msgid "Cancel Quickbuild"
-#~ msgstr "Nuligi rapidkonstruon"
+msgid ""
+"A heavyset door to stop even the strongest of prisoners from escaping."
+msgstr ""
+"Fortega pordo por teni eĉ la plej fortajn el malliberuloj de eskapi."
 
-#~ msgid "Master Volume"
-#~ msgstr "Ĉefsonforteco"
+msgid "Tazers"
+msgstr "Tasero"
 
-#~ msgid ""
-#~ "Are you sure you wish to restart the current chapter? Unsaved progress "
-#~ "will be lost."
-#~ msgstr ""
-#~ "Ĉu vi certas ke vi volas rekomenci la nunan ĉapitron? Nekonservita "
-#~ "progreso perdiĝos."
+msgid "Stop Time Lapse"
+msgstr "Ĉesigi fulmfilmeton"
 
-#~ msgid "Your new prison has failed to publish. Please try again."
-#~ msgstr "Via nova malliberejo fiaskis publikiĝi. Bonvole repenu."
+#, fuzzy
+msgid "Clone"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Klonado\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Kloni\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Kloni"
 
-#~ msgid "Smoothing"
-#~ msgstr "Glatigo"
+msgid ""
+"Keeps the inside of your prison nice and tidy. Can also help with the "
+"prison laundry."
+msgstr ""
+"Tenas la enternon de via malliberejo pura kaj orda. Ankaŭ povas helpi pri "
+"malliberejlavado."
 
-#~ msgid ""
-#~ "Find contraband on your prisoners that pass through these. Will require a "
-#~ "guard to be nearby to take the contraband."
-#~ msgstr ""
-#~ "Trovi kontrabandon sur viaj malliberuloj kiuj trairas ĉi tiujn. Bezonon "
-#~ "proksimas gardiston kiu povas preni la kontrabandon."
+msgid "Failed"
+msgstr "Fiaskis"
 
-#~ msgid "Reload Language"
-#~ msgstr "Reŝarĝi lingvon"
+msgid "*X Incapacitated"
+msgstr "*X Senkapabligitaj"
 
-#~ msgid "Mods"
-#~ msgstr "Ludredaktaĵoj"
+msgid "- *X prisoners have been calmed recently"
+msgstr "- *X malliberuloj lastatempe trankviliĝis"
 
-#~ msgid "Tidiness is important when it comes to contraband."
-#~ msgstr "Ordeco gravas rilate al kontrabando."
+msgid "Guilty"
+msgstr "Kulpa"
 
-#~ msgid "Loop Delay"
-#~ msgstr "Iteraciprokrasto"
+msgid "Used to keep your prisoners in check and out of trouble."
+msgstr "Uzata por viajn malliberulojn disciplini kaj eksterturmultigi."
 
-#~ msgid "Min Frame Time: *Tms"
-#~ msgstr "Minimuma bildrapido: *Tms"
+msgid "Legal Defense"
+msgstr "Leĝdefendado"
 
-#~ msgid ""
-#~ "The head of a shower. For showering. Showering with hot water makes your "
-#~ "prisoners happier."
-#~ msgstr ""
-#~ "La kapo de duŝilo. Por duŝi. Duŝi per varma akvo pli feliĉigos viajn "
-#~ "malliberulojn."
+msgid "Success Chance"
+msgstr "Sukcesŝanco"
 
-#~ msgid "=[Misconduct]="
-#~ msgstr "=[Miskonduto]="
+msgid ""
+"Protect your prisoners from the dirty floor while they offer their "
+"prayers."
+msgstr ""
+"Protekti viajn malliberulojn de la malpura planko kiam ili ofertas siajn "
+"preĝojn."
 
-#~ msgid "Schedule Execution"
-#~ msgstr "Aranĝi ekzekuton"
+msgid "Sample Bank Editor"
+msgstr "Sonpecujredaktilo"
 
-#~ msgid "Audio"
-#~ msgstr "Sono"
+msgid "+ *X people have been killed recently"
+msgstr "+ *X homoj lastatempe mortigiĝis"
 
-#~ msgid "- Refund Amount: *X"
-#~ msgstr "Repagkvanto: *X"
+msgid "Normal Security"
+msgstr "Normala Sekureco"
 
-#~ msgid "Play Scenario"
-#~ msgstr "Ludi scenaron"
+msgid ""
+"Send all (willing) prisoners back to their cells. This will make your "
+"prisoners very angry if you leave them locked up for too long."
+msgstr ""
+"Sendi ĉiujn (akceptantajn) malliberulojn al siaj ĉeloj. Ĉi tio tre "
+"kolerigos viajn malliberulojn se vi lasos ilin enŝlositajn dum tro longe."
 
-#~ msgid "Dish up food to your prisoners."
-#~ msgstr "Servaĉi manĝaĵon al viaj malliberuloj."
+msgid "Dangers"
+msgstr "Danĝeroj"
 
-#~ msgid "Play Now"
-#~ msgstr "Nun ludi"
+msgid "Room Quality"
+msgstr "Ĉambrokvalito"
 
-#~ msgid "Day"
-#~ msgstr "Tago"
+msgid "Publish This Mod"
+msgstr "Publikigi ĉi tiun ludredaktaĵon"
 
-#~ msgid "Toggle the main menu (New/Load/Save/Exit etc)"
-#~ msgstr "Baskuligi la ĉefmenuon (Nova/Ŝarĝi/Konservi/Eleiri ktp.)"
+msgid ""
+"Unlocks the Lawyer, who can be hired from the Staff toolbar. Unlocks a "
+"number of research options to give you greater control over your prison.\n"
+"\n"
+"Like all Administrators, he requires an office to work."
+msgstr ""
+"Malŝlosas la advokaton, kiu povas dungiĝi en la dungitarilo. Malĝlosas "
+"iujn esploreleketojn donantaj al vi pli bonan regon de via malliberejo.\n"
+"\n"
+"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
 
-#~ msgid "glFinish"
-#~ msgstr "glFino"
+msgid "A room where new recruits are placed until a cell is found for them."
+msgstr ""
+"Ĉambro kie novaj malliberuloj metiĝas antaŭ ol ĉelo por ili troviĝis."
 
-#~ msgid "Unavailable"
-#~ msgstr "Nehavebla"
+#, fuzzy
+msgid "Grading"
+msgstr ""
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Gradigo\n"
+"#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
+"Rangigo"
 
-#~ msgid "Clear Patrols"
-#~ msgstr "Klarigi patrolojn"
+msgid "Micromanagement"
+msgstr "Mikromastrumado"
 
-#~ msgid "Sentenced to *Y years for multiple crimes including *A, and *B."
-#~ msgstr "Juĝiĝis *Y jarojn pro pluraj krimoj inkluzive *A, kaj *B."
+msgid "Automatically sprays the area with water in the event of a fire."
+msgstr "Aŭtomate spruĉas la areon per akvo kaze de fajro."
 
-#~ msgid ""
-#~ "Random lakes will block sections of your land. WARNING: Experimental."
-#~ msgstr ""
-#~ "Hazardaj lagoj blokos sekcionojn de via lando. AVERTOL: Eksperimenta."
+msgid "Permanent Punishments"
+msgstr "Permanentaj punoj"
 
-#~ msgid "- Alt + Right Click to remove High Priority"
-#~ msgstr "Alt + Dekstre aklaki por forigi altprioritaton"
+msgid ""
+"An advanced staff member that helps you bend some of the rules for "
+"greater control over your prison."
+msgstr ""
+"Altnivela dungitarano kiu helpas vin fleksi iujn el la reguloj por pli "
+"bona kontrolo de via malliberejo."
 
-#~ msgid "Costs *C"
-#~ msgstr "Elspezoj *C"
+msgid "SKIP"
+msgstr "PRETERPASI"
 
-#~ msgid "Found Luxuries"
-#~ msgstr "Trovis luksaĵojn"
+msgid "LOCKED (*B required)"
+msgstr "FERMITA (*B bezoniĝas)"
 
-#~ msgid "Downloading"
-#~ msgstr "Elŝutante"
+msgid ""
+"The grand overseer of your prison. Required before you can research and "
+"hire advanced staff members."
+msgstr ""
+"La granda estro de via malliberejo. Bezonatas antaŭ ol vi povas esplori "
+"kaj dungi altnivelajn dungitaranojn."
 
-#~ msgid "A simple door."
-#~ msgstr "Simpla pordo."
+msgid "Profiler"
+msgstr "Testilo"
 
-#~ msgid "SELECTED"
-#~ msgstr "ELEKTITA"
+msgid ""
+"Lights up either red or green, depending on the signal it is receiving."
+msgstr "Aŭ ruĝe aŭ verde lumiĝas depende de la signalo kiun ĝi ricevas."
 
-#~ msgid "(*X Responding to incidents)"
-#~ msgstr "(*X Respondantaj al incidentoj)"
+msgid "Experience"
+msgstr "Sperto"
 
-#~ msgid ""
-#~ "Only 'protected custody' prisoners will be permitted to enter this sector."
-#~ msgstr "Nur 'protektitaj' malliberuloj permesiĝos en ĉi tiu sektoro."
+msgid "Pathways"
+msgstr "Vojetoj"
 
-#~ msgid "Disabled"
-#~ msgstr "Elŝaltita"
+msgid "Cost: *X"
+msgstr "Kosto: *X"
 
-#~ msgid "Found:"
-#~ msgstr "Trovis:"
+msgid "Spawn? The fuck does this do?"
+msgstr "Aperigi? Kion la fek ĉi tio faras?"
 
-#~ msgid "Keep lots of your prisoners where they should be."
-#~ msgstr "Teni multe da viaj malliberulojn kie ili devus esti."
+msgid "*X prisoners are rioting"
+msgstr "*X malliberuloj turmultas"
 
-#~ msgid "Too Many Staff"
-#~ msgstr "Tro da dungitaranoj"
+msgid "Main Menu"
+msgstr "Ĉefa menuo"
 
-#~ msgid "Territory"
-#~ msgstr "Teitorio"
+msgid ""
+"When selected, lights will automatically be placed throughout your newly "
+"created buildings once they are finished."
+msgstr ""
+"Kiam elektita, lampoj aŭtomate dismetiĝos en viajn nove kreitajn "
+"konstruaĵojn kiam ili estas finitaj."
 
-#~ msgid "Solitary (6hrs)"
-#~ msgstr "Enizolitecigi (6 horojn)"
+msgid "Automatic Light Placement"
+msgstr "Aŭtomata lampmetado"
 
-#~ msgid "Cutscenes"
-#~ msgstr "Tranĉscenoj"
+msgid "Minimum Security"
+msgstr "Minimuma Sekureco"
 
-#~ msgid "Mods Updated"
-#~ msgstr "Ludredaktaĵoj ĝisdatigitaj"
+msgid "- URGENT"
+msgstr "URĜE"
 
-#~ msgid ""
-#~ "Shows all contraband confiscated in the last 24 hours. The icons show "
-#~ "where the contraband was confiscated."
-#~ msgstr "Montras ĉiun kontrabandon konfiskitan dum la pasintaj 24 horoj."
+msgid "Version"
+msgstr "Versio"
 
-#~ msgid "Help (wiki)"
-#~ msgstr "Helpo (vikipedio)"
+msgid "Remove an object from your prison."
+msgstr "Forigi objekton el via malliberejo."
 
-#~ msgid "A basic human right, if you believe all those crackpots."
-#~ msgstr "Baza homara rajto, se vi kredas ĉiujn tiujn stultulojn."
+msgid "(*X are idle)"
+msgstr "(*X Mallaborantaj)"
 
-#~ msgid "Is this a translation to another language?"
-#~ msgstr "Ĉu ĉi tio estas traduko al alia lingvo?"
+msgid "Logistics"
+msgstr "Loĝistiko"
 
-#~ msgid "Delete"
-#~ msgstr "Forigi"
+msgid "Overlays"
+msgstr "Surmetoj"
 
-#~ msgid "12 Hour"
-#~ msgstr "12 Hora"
+msgid ""
+"Only medium security prisoners will be permitted to enter this sector."
+msgstr "Nur mezsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
 
-#~ msgid "- Electrical"
-#~ msgstr "- Elektra"
+msgid "- Mod Content"
+msgstr "- Modifenhavo"
 
-#~ msgid ""
-#~ "A locked door that can be opened by any member of staff, not just Guards."
-#~ msgstr ""
-#~ "Fermita pordo kiun nur povas malfermi de iu ajn dungitarano, ne nur "
-#~ "gardistoj."
+msgid ""
+"What happens when a bureaucratic committee gets together and designs a "
+"solution to inmate's religious needs? A 'Multi Faith Prayer Room', that's "
+"what. We refer to it as the Chapel."
+msgstr ""
+"Kio okazas kiam burokratia komitato kunvenas kaj elpensas solvon al la "
+"religiaj bezonoj de malliberuloj? 'Plurkreda Preĝĉambro', tio estas kio. "
+"Ni nomas ĝin la Kapelo."
 
-#~ msgid "An area for your administrative staff to work."
-#~ msgstr "Laborareo por viaj administraranoj."
+msgid "Twitter"
+msgstr "Tvitero"
 
-#~ msgid "Food Distribution"
-#~ msgstr "Manĝdistribuo"
+msgid "Failed To Publish Prison"
+msgstr "Fiaskis publikigi malliberejon"
 
-#~ msgid ""
-#~ "Authorises your armed guards to use lethal force. Snipers will no longer "
-#~ "fire warning shots before taking a target down."
-#~ msgstr ""
-#~ "Permesos al viaj armitaj gardistoj uzi mortigan povon. Fusilistoj ne plu "
-#~ "avertpafos antaŭ ol ili mortigos."
+msgid "Protection: *X%"
+msgstr "Protektado: *X%"
 
-#~ msgid "Decay"
-#~ msgstr "Kaduko"
+msgid "Experimental"
+msgstr "Eksperimenta"
 
-#~ msgid "Riot Guards"
-#~ msgstr "Turmultgardistoj"
+msgid "Dogs"
+msgstr "Hundoj"
 
-#~ msgid "Open On Trigger"
-#~ msgstr "Fermi laŭ ellasilo"
+msgid "A shelf that holds books."
+msgstr "Breto kiu tenas librojn."
 
-#~ msgid "Materials Assigned"
-#~ msgstr "Materialoj asignitaj"
+msgid "Indoor"
+msgstr "Enterne"
 
-#~ msgid "RIOT UNDERWAY"
-#~ msgstr "TURMULTO SURVOJ"
+msgid "Mix Frequency"
+msgstr "Miksi frekvenson"
 
-#~ msgid "Movement Penalty: *X%"
-#~ msgstr "Movadpuno: *X%"
+msgid "How long you've been running your prison."
+msgstr "Dum kiom longe vi regis vian malliberejon."
 
-#~ msgid "- Ctrl + Left Click to make High Priority"
-#~ msgstr "Ctrl + Maldekstre alklaki por altprioritatigi"
+msgid ""
+"Where you send your prisoners to die of boredom while making you car "
+"license plates."
+msgstr ""
+"Kien vi sendas viajn malliberulojn por morti pro enueco farante "
+"aŭtolicensplatojn por vi."
 
-#~ msgid "Remove Labour"
-#~ msgstr "Forigi laboron"
+msgid "Disconnect"
+msgstr "Malkonekti"
 
-#~ msgid "Recruit Informant"
-#~ msgstr "Dungi informanton"
+msgid "Custom"
+msgstr "Laŭmende"
 
-#~ msgid "DAY *D"
-#~ msgstr "TAGO *D"
+msgid "Insufficient Funds"
+msgstr "Malsufiĉa mono"
 
-#~ msgid "Active Mods"
-#~ msgstr "Ŝaltitaj ludredaktaĵoj"
+msgid ""
+"A variable-size room for housing multiple prisoners. The bigger the "
+"dormitory, the more prisoners it can house."
+msgstr ""
+"Variablograndeca ĉambro por loĝigi plurajn malliberulojn. Ju pli granda "
+"la loĝejo des pli da malliberuloj eblas al ĝi loĝigi."
 
-#~ msgid ""
-#~ "Designed to be built in a Security Room and operated by a Guard. Allows "
-#~ "you to monitor all outgoing phone calls made by inmates, giving you vital "
-#~ "insights into planned illegal activity.\n"
-#~ "\n"
-#~ "Use the Connect tool to connect this system to your Phone Booths."
-#~ msgstr ""
-#~ "Dezajnita por konstruiĝi en sekurecĉambro kaj regata de gardisto. "
-#~ "Permesas al vi gvati ĉiujn elirantajn telefonalvokojn faratajn de "
-#~ "malliberuloj, donante al vi esencan sagacecon pri planita kontraŭleĝa "
-#~ "aktiveco.\n"
-#~ "\n"
-#~ "Uzu la konektilon por konekti ĉi tiun sistemon al viaj telefonujoj."
+msgid "Known Traits:"
+msgstr "Konataj trajtoj:"
 
-#~ msgid ""
-#~ "(CURRENTLY SERVES NO PURPOSE)\n"
-#~ "Unlocks the Riot Guard.  These guys are armoured and better able to deal "
-#~ "with violent situations."
-#~ msgstr ""
-#~ "(NUNE HAVAS NENIUN UZON)\n"
-#~ "Malŝlosas la turmultgaridston.  Ĉi tiuj estas armitaj kaj pli bone povas "
-#~ "trakti violentajn situaciojn."
+msgid "Construct/Demolish buildings in order to shape your prison."
+msgstr "Konstruu/Malkonstruu konstruaĵojn por formigi vian malliberejon."
 
-#~ msgid "Button"
-#~ msgstr "Butono"
+msgid "Land Expansion"
+msgstr "Landekspansio"
 
-#~ msgid "LOCKED (You require *B)"
-#~ msgstr "FERMITA (Vi bezonas je *B)"
+msgid "Clusters of trees will appear on your land."
+msgstr "Amasoj da arboj aperos sur via lando."
 
-#~ msgid "The danger level is *X"
-#~ msgstr "La danĝernivelo estas *X"
+msgid "Death Row capacity: *X"
+msgstr "Mortvicana kapacito: *X"
 
-#~ msgid "Choose your warden"
-#~ msgstr "Elektu vian malliberejestron"
+msgid "Sack"
+msgstr "Maldungi"
 
-#~ msgid "(Plea: *P)"
-#~ msgstr "(Pledo: *P)"
+msgid "Swap Stereo"
+msgstr "Permuti sterefonion"
 
-#~ msgid "Add"
-#~ msgstr "Aldoni"
+msgid "Searching Steam Workshop"
+msgstr "Serĉas en Steam Workshop"
 
-#~ msgid "Canvas"
-#~ msgstr "Areaĵo"
+msgid "Max Jobs *X"
+msgstr "Maksimumaj postenoj *X"
 
-#~ msgid ""
-#~ "Some of your active mods have been updated. Click OK to apply the new "
-#~ "changes. Your game will be autosaved."
-#~ msgstr ""
-#~ "Iuj el viaj ŝaltitaj ludredaktaĵoj ĝisdatiĝis. Alklaku bone por apliki la "
-#~ "novajn ŝanĝojn. Via ludo aŭtomate konserviĝos."
+msgid "Translation"
+msgstr "Traduko"
 
-#~ msgid "Found Tools"
-#~ msgstr "Trovis ilojn"
+msgid "Introduction"
+msgstr "Enkonduko"
 
-#~ msgid ""
-#~ "Unlocks the clone tool on the main toolbar.  Use this tool to rapidly "
-#~ "duplicate areas of your prison, such as Cells.  To use, select a zone to "
-#~ "be copied with a right mouse drag, then left click to stamp down a copy."
-#~ msgstr ""
-#~ "Malŝlosas la klonilon en la ĉefilo.  Uzu ĉi tiun ilon por rapide duobligi "
-#~ "areojn de via malliberejo kiel ĉelojn.  Por uzi, elektu zonon kopiotan "
-#~ "per dekstra ŝovo, kaj tiam maldekstra alklako por meti kopion."
+msgid "Exit"
+msgstr "Eliri"
 
-#~ msgid "BG img"
-#~ msgstr "Fonbildo"
+msgid "Foundations in progress"
+msgstr "Fundamento progrese"
 
-#~ msgid "TAB: Cycle Objects"
-#~ msgstr "Press TAB to cycle objects"
+msgid ""
+"A highly trained marksman who will automatically occupy an empty Guard "
+"Tower if one is available. Will fire a number of warning shots at "
+"prisoners causing trouble within the prison walls before taking a target "
+"down. Escaping prisoners are given no such warnings."
+msgstr ""
+"Tre sperta pafisto kiu aŭtomate okupos malplenan gardistturo se eblas. "
+"Pafos nombron da avertpafoj al malliberuloj tumultantaj ene de la muroj "
+"de la malliberejo antaŭ ol ili mortigos malliberulon. Eskapantaj "
+"malliberuloj ne avertiĝas."
 
-#~ msgid "Published by *P"
-#~ msgstr "Publikigita de *P"
+msgid ""
+"Order an immediate search of all Cells. This will take some time and will "
+"annoy the hell out of your inmates."
+msgstr ""
+"Mendi tujan ekzamenon de ĉiuj ĉeloj. Ĉi tio daŭros dum longe kaj ĝenegos "
+"viajn malliberulojn."
 
-#~ msgid "Soldiers"
-#~ msgstr "Soldatoj"
+msgid "Remove a utility object from your prison."
+msgstr "Forigu utilecobjekton el via malliberejo."
 
-#~ msgid ""
-#~ "An advanced staff member that gives access to your financial reports."
-#~ msgstr "Altnivela dungitarano kiu donas akceson al financaj raportoj."
+msgid "+ *X prisoners have been unnecessarily searched recently"
+msgstr "+ *X malliberuloj nenecese lastatempe traserĉiĝis"
 
-#~ msgid ""
-#~ "By submitting this item, you agree to the [url=http://steamcommunity.com/"
-#~ "sharedfiles/workshoplegalagreement]workshop terms of service[/url]."
-#~ msgstr ""
-#~ "Sendante ĉi tion, vi interkonsentas al la [url=http://steamcommunity.com/"
-#~ "sharedfiles/workshoplegalagreement]uzkondiĉoj de Steam Workshop[/url]."
+msgid "Save"
+msgstr "Konservi"
 
-#~ msgid ""
-#~ "How much cash you have in the bank.\n"
-#~ "\n"
-#~ "Click to raise more funds through the Grants list."
-#~ msgstr ""
-#~ "Kiom da mono vi havas en la banko.\n"
-#~ "\n"
-#~ "Alklaku por kolekti pli da mono per la Stipendiaro."
+msgid "Checkbox"
+msgstr "Markobutono"
 
-#~ msgid "-7 Days"
-#~ msgstr "-7 tagoj"
+msgid "Switch Off"
+msgstr "Elŝalti"
 
-#~ msgid "Maximum capacity: *X"
-#~ msgstr "Maksimumula kapacito: *X"
+msgid "One Week"
+msgstr "Unu semajnon"
 
-#~ msgid "Fit Map"
-#~ msgstr "Taŭgigi mapon"
+msgid "Cancel"
+msgstr "Nuligi"
 
-#~ msgid "Walls"
-#~ msgstr "Muroj"
+msgid "This is me"
+msgstr "Ĉi tiu estas mi"
 
-#~ msgid "Currently Incarcerated"
-#~ msgstr "Nune malliberigitaj"
+msgid ""
+"Designed to be built in a Security Room, and operated by a Guard. Can be "
+"used to remotely open doors around your prison.\n"
+"\n"
+"Use the Connect tool to connect this system to your Door Servos. The Door "
+"Servos should be built over the doors you wish to control remotely.\n"
+"\n"
+"Note: You can connect this to as many Servos as you wish, however the "
+"Guard operating the system can open a maximum of two doors per second."
+msgstr ""
+"Dezajnita por esti en sekurecĉambro, kaj regita de gardisto. Povas uziĝi "
+"por de malproksimo malfermi pordojn dise en via malliberejo.\n"
+"\n"
+"Uzu la konektilon por konekti ĉi tiun sistemon al viaj pordservoj. La "
+"pordservoj konstruiĝu super la porodoj kiujn vi volas demalproksime "
+"regi.\n"
+"\n"
+"Notu: Vi povas konekti ĉi tiun al kiel vole plej multe da servoj, tamen "
+"la gardisto reganta la sistemon povas malfermi maksimumon da du pordoj po "
+"sekundo."
 
-#~ msgid "Events"
-#~ msgstr "Okazaĵoj"
+msgid "Only staff will be permitted to enter this sector."
+msgstr "Nur dungitaranoj permesiĝos en ĉi tiu sektoro."
 
-#~ msgid "How many guards you have available for work in your prison."
-#~ msgstr "Kiom da gardistoj haveblas al vi por laboro en via malliberejo."
+msgid "Program"
+msgstr "Programo"
 
-#~ msgid "Auto Lights"
-#~ msgstr "Aŭtomate lampoj"
+msgid "+ *X per item."
+msgstr "+ *X po aĵo."
 
-#~ msgid "Keep your prisoners where they should be."
-#~ msgstr "Teni viajn malliberulojn kie ili devus esti."
+msgid "Finance"
+msgstr "Financo"
 
-#~ msgid "Sort By Date"
-#~ msgstr "Sorti laŭ dato"
+msgid "Tax Relief"
+msgstr "Impostreliefo"
 
-#~ msgid ""
-#~ "Some prisoners will arrive with gang allegiences, and will attack rival "
-#~ "gang members on site. Extra challenge."
-#~ msgstr ""
-#~ "Iuj malliberuloj alvenos kun bandapartenecoj, kaj atakos rivalbandojn "
-#~ "surejajn. Ekstra defio."
+msgid "APPROVED"
+msgstr "APROBITA"
 
-#~ msgid "Add DSP"
-#~ msgstr "Aldoni je DSP"
+msgid "Offshore Tax Haven"
+msgstr "Eksterlanda impostrifuĝejo"
 
-#~ msgid "Guard Towers"
-#~ msgstr "Gardistturoj"
+msgid "(Spawn)"
+msgstr "(Aperigo)"
 
-#~ msgid "Recent Misconduct"
-#~ msgstr "Lastatempa miskonduto"
+msgid "Research"
+msgstr "Esploro"
 
-#~ msgid "-Blocked-"
-#~ msgstr "Laboro (Blokita)"
+msgid ""
+"Let your prisoners see the sun for a few hours a day under the watchful "
+"eye of your sniper towers."
+msgstr ""
+"Lasu al viaj malliberuloj vidi la sunon dum malmulte da horoj ĉiutago "
+"gardeme spekate de viaj fusilistturoj."
+
+msgid "Dismiss"
+msgstr "Ignori"
+
+msgid "Panel"
+msgstr "Panelo"
+
+msgid "Three Months"
+msgstr "Tri monatojn"
+
+msgid "URL"
+msgstr "Retadreso"
+
+msgid "Find out about shit."
+msgstr "Eltrovi pri aĵaĉoj."
+
+msgid ""
+"Unlocks the Chief of Security, who can be hired from the staff toolbar.  "
+"The chief gives you access to the Deployment screen, and will also give "
+"you a realtime report of the danger level of your prison, often "
+"predicting future trouble.\n"
+"\n"
+"Like all Administrators, he requires an office to work."
+msgstr ""
+"Malŝlosas la sekurecestron, kiu povas dungiĝi pere de la dungitarilo.  La "
+"sekurecestro donas al vi akceson al la deplojdialogo, kaj ankaŭ "
+"realtempan raporton de la danĝernivelo de via malliberejo, ofte "
+"antaŭdirantan estontecajn problemojn.\n"
+"\n"
+"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+
+msgid "Remote Access"
+msgstr "Demalproksima akceso"
+
+msgid "Sentenced to *Y years for multiple crimes including *A, *B, and *C."
+msgstr "Juĝiĝis *Y jarojn pro pluraj krimoj inkluzive *A, *B, kaj *C."
+
+msgid "Armed Police"
+msgstr "Armita polico"
+
+msgid "Education"
+msgstr "Edukado"
+
+msgid "Eligible for parole now"
+msgstr "Elektebla por provizora liberigo"
+
+msgid "Prisoner #*X"
+msgstr "Malliberulo #*X"
+
+msgid ""
+"Your prison will be sent boxes of discarded and used books from around "
+"the country. Prisoners will need to sort those books onto the shelves."
+msgstr ""
+"Al via malliberejo sendos skatolojn da elĵetitaj kaj uzitaj libroj dise "
+"el la lando. Malliberuloj devos sorti tiujn librojn en la bretojn."
+
+msgid "DropDownMenu"
+msgstr "Menuo"
+
+msgid "= (DETERRENT) *X punishments have been handed down recently"
+msgstr "= (MALINSTIGO) *X punoj lastatempe doniĝas"
+
+msgid "Num Frames: *T"
+msgstr "Nombro da bildoj: *T"
+
+msgid "Enable Weather"
+msgstr "Ŝalti veteron"
+
+msgid "Sort By:"
+msgstr "Sorti laŭ:"
+
+msgid "You need to research '*X' to unlock this report"
+msgstr "Vi devas esplori je '*X' por malŝlosi ĉi tiun raporton"
+
+msgid "Build"
+msgstr "Konstrui"
+
+msgid "Inactive"
+msgstr "Elŝaltita"
+
+msgid ""
+"Unlocks the Doctor, along with the Infirmary and the Morgue.  Injured "
+"prisoners and staff will be taken to the Infirmary and Doctors will patch "
+"them up."
+msgstr ""
+"Malŝlosas la kuraciston, kuracejon kaj la mortulejon.  Vunditaj "
+"malliberuloj kaj dungitaranoj preniĝos al la kurecejo kaj kuracistoj "
+"kuracos ilin."
+
+msgid "*Xm x *Ym. Total area *A sq metres. *C"
+msgstr "*Xm x *Ym. Totala areo *A kvadratmetroj. *C"
+
+msgid "Sound Name"
+msgstr "Sonnomo"
+
+msgid "-24 Hours"
+msgstr "-24 horoj"
+
+msgid "Dump"
+msgstr "Forĵeti"
+
+msgid ""
+"You've already published a prison with this name. Please pick a different "
+"name."
+msgstr "Vi jam publikigis malliberejon tiunoman. Bonvole elektu alian."
+
+msgid ""
+"The overall danger level of your prison, according to your security chief."
+msgstr "La entuta danĝernivelo de via malliberejo laŭ via sekurecestro."
+
+msgid "High DPI"
+msgstr "Alta DPI"
+
+msgid "A place to hold the narcotics until your prisoners steal them."
+msgstr ""
+"Loko por teni viajn narkotaĵojn antaŭ ol viaj malliberuloj ŝtelas ilin."
+
+msgid "Age:"
+msgstr "Aĝo:"
+
+msgid "Unlimited Funds"
+msgstr "Nelimigitaj financoj"
+
+msgid "Parent Capacity: *X"
+msgstr "Patra kapacito: *X"
+
+msgid ""
+"Distributes a large volume of water around your prison, under high "
+"pressure. Probably big enough for someone to crawl to freedom through "
+"five hundred yards of shit smelling foulness.\n"
+"\n"
+"Nb not generally used to connect to sinks, shower heads etc - the "
+"pressure is too high. Use a small pipe for that."
+msgstr ""
+"Distribuas grandan volumon da akvo dise en via malliberejo, per alta "
+"premo. Verŝajne sufiĉe granda por ke iu povu rampi al libereco tra "
+"kvincent jardojn da fekodora stulteco.\n"
+"\n"
+"N.B: Ĝenerale ne uziĝas por konekti al malavujoj, duŝkapoj ktp. - la "
+"premo tro altas. Uzu malgrandan pipon por tio."
+
+msgid "IconBox"
+msgstr "Ikonujo"
+
+msgid "Width"
+msgstr "Larĝeco"
+
+msgid "*X hours in your prison"
+msgstr "*X tagojn en via malliberejo"
+
+msgid "Where your dogs live."
+msgstr "Kie viaj hundoj loĝas."
+
+msgid "Scenario"
+msgstr "Scenaro"
+
+msgid "(Required: *X)"
+msgstr "(Postulataj: *X)"
+
+msgid "*X Resting"
+msgstr "*X Ripozantaj"
+
+msgid "Area for cooks to prepare food for your prisoners."
+msgstr "Areo por kuiristoj kuiri manĝojn por viaj malliberuloj."
+
+msgid ""
+"Anyone will be permitted to enter this zone, and all doors will be "
+"unlocked."
+msgstr ""
+"Ĉiuj permesiĝos en ĉi tiu sektoro, kaj ĉiuj pordoj estos malfermitaj."
+
+msgid ""
+"Pure Sandbox Mode! You can spend as much money as you like right from the "
+"start, without having to worry or wait for more later."
+msgstr ""
+"Pura Provejo! Vi povas elspezi kiom vole plej multe ekde la komenco, sen "
+"devi maltrankviliĝi aŭ atendi pli ĝis poste."
+
+msgid "Zone 1"
+msgstr "Zono 1"
+
+msgid "Restart Introduction"
+msgstr "Rekomenci enkondukon"
+
+msgid "Medical Bay"
+msgstr "Malsanulejeto"
+
+msgid "Guard Patrols"
+msgstr "Gardistpatroloj"
+
+msgid "Zone 2"
+msgstr "Zono 2"
+
+msgid "Zone 3"
+msgstr "Zono 3"
+
+msgid "Zone 4"
+msgstr "Zono 4"
+
+msgid "One Year"
+msgstr "Unu jaron"
+
+msgid ""
+"This translation is created and maintained by the community - Thank You!"
+msgstr "Ĉi tiu traduko estas kreita kaj traktita de la komunumo - Dankon!"
+
+msgid "Zone 5"
+msgstr "Zono 5"
+
+msgid "Zone 6"
+msgstr "Zono 6"
+
+msgid "*X penalties :"
+msgstr "*X punoj :"
+
+msgid "Zone 7"
+msgstr "Zono 7"
+
+msgid "Zone 8"
+msgstr "Zono 8"
+
+msgid "Zone 9"
+msgstr "Zono 9"
+
+msgid "Where your waste is collected from."
+msgstr "El kie via rubaĵo kolektiĝas."
+
+msgid "Prison Policy"
+msgstr "Malliberejpolitiko"
+
+msgid "- Wired (connects to other wired objects)"
+msgstr "- Dratita (konektas al aliaj dratitaĵoj)"
+
+msgid "Names in the Game"
+msgstr "Nomoj en la ludo"
+
+msgid "Update This Mod"
+msgstr "Ĝisdatigi ĉi tiun ludredaktaĵon"
+
+msgid "Most Popular Prisons (Steam)"
+msgstr "Plej ŝatataj malliberejoj (Steam)"
+
+msgid "No Materials"
+msgstr "Neniuj materialoj"
+
+msgid ""
+"Show the sources of Contraband, and all recently recovered contraband in "
+"your prison. Also shows your Confidential Informants and their "
+"information."
+msgstr ""
+"Vidi la fontojn de kontrabando, kaj ĉiun lastatempe retrovitan "
+"kontrabandon en via malliberejo. Ankaŭ montras viajn Konfidencajn "
+"Informantantojn kaj iliajn informojn."
+
+msgid "Dismantle"
+msgstr "Malmunti"
+
+msgid "Found Weapons"
+msgstr "Trovis armilojn"
+
+msgid "Area designated to hold any materials your prison staff need."
+msgstr ""
+"Areo detinita por teni ĉiujn materialojn kiujn via malliberejdungitaro "
+"bezonas."
+
+msgid "Up"
+msgstr "Supren"
+
+msgid "Cell quality: *X (*Y)"
+msgstr "Cell quality : *X (*Y)"
+
+msgid "+ *X Dog handlers"
+msgstr "+ *X Hundstiristoj"
+
+msgid "Warden"
+msgstr "Malliberejestro"
+
+msgid ""
+"Unlocks the Janitor.  He will clean all the indoor areas of your prison "
+"and can also help with the prison laundry service."
+msgstr ""
+"Malŝlosas la laviston.  Li purigos ĉiujn enternajn areojn de via "
+"malliberejo kaj ankaŭ povas helpi pri la malliberejlavservo."
+
+msgid "Addicted to *X"
+msgstr "Toksomania je *X"
+
+msgid "Your staff need to keep the things they write ordered nicely."
+msgstr "Via dungitaro bezonas restigi al siaj surpaperigaĵoj esti ordaj."
+
+msgid "Sound Channels"
+msgstr "Sonkanaloj"
+
+msgid "Enable Gangs"
+msgstr "Ŝalti bandojn"
+
+msgid ""
+"You will start with this much money in your bank account. Sell your "
+"established prisons from the Valuation screen to start with more funds."
+msgstr ""
+"Vi komenciĝos kun ĉi tiom da mono en via bankkonto. Vendu viajn "
+"establiitajn malliberejojn per la taksadekrano por komenciĝi kun pli da "
+"financoj."
+
+msgid ""
+"Do you wish to keep these graphics options? These changes will revert in"
+msgstr ""
+"Ĉu vi volas pluhavi ĉi tiujn grafikagordojn? Ĉi tiuj ŝanĝoj malfariĝos "
+"post"
+
+msgid "SuperMax capacity: *X"
+msgstr "Supermaksimumula kapacito: *X"
+
+msgid "Designate areas of your prison with a specific function."
+msgstr "Destini areojn de via malliberejo per specifa funkcio."
+
+msgid "All Time"
+msgstr "Ĉiam"
+
+msgid "- Press F to follow"
+msgstr "Presu F por sekvi"
+
+msgid "Emergencies"
+msgstr "Krizoj"
+
+msgid "Current Frame Time: *Tms"
+msgstr "Nuna bildrapido: *Tms"
+
+msgid "Quick Build"
+msgstr "Rapidkonstruo"
+
+msgid ""
+"Increases the amount of electricity generated when placed next to a power "
+"station."
+msgstr ""
+"Pligrandigas la kvanton da elektro generata kiam metita apud "
+"elektrostacio."
+
+msgid "Walk Speed : *S"
+msgstr "Marŝrapideco : *S"
+
+msgid "Ensure the dead have a respectful place to rest before moving."
+msgstr ""
+"Certigi ke mortuloj havas respektan lokon por resti antaŭ transloĝo."
+
+msgid "Show Rapsheet"
+msgstr "Montri krimliston"
+
+msgid ""
+"Causes events to occur during the game to keep you on your toes. Adds "
+"extra challenge and an element of unpredictability."
+msgstr ""
+"Kaŭzas okazaĵojn pli ofte okazi dum la ludo por restigi vin maldorma. "
+"Aldonas ekstran defion kaj neantaŭdireblecon."
+
+msgid "Revert"
+msgstr "Reiri"
+
+msgid "Armed Patrols"
+msgstr "Armitaj patroloj"
+
+msgid "Load Campaign"
+msgstr "Ŝarĝi kampanjon"
+
+msgid "-30 Days"
+msgstr "-30 tagoj"
+
+msgid "Sentenced to *X years in jail"
+msgstr "Juĝiĝis *X jarojn en malliberejo"
+
+msgid ""
+"Automatically heals all nearby injured people, whether they are guards or "
+"prisoners."
+msgstr ""
+"Aŭtomate kuracos ĉiujn proksimajn homojn, senpense ĉu ili estas gardistoj "
+"aŭ malliberuloj."
+
+msgid "Offices for your Officers."
+msgstr "Oficejoj por viaj oficistoj."
+
+msgid ""
+"With your permission, we would like to collect the following hardware "
+"data from your computer.\n"
+"\n"
+"This information is completely anonymous and will help us to ensure "
+"Prison Architect is supported on the widest possible range of computer "
+"hardware.\n"
+"\n"
+"Thank you!"
+msgstr ""
+"Laŭ via permeso, plaĉus al ni kolekti la sekvajn aparatardatumojn el via "
+"komputilo.\n"
+"\n"
+"Ĉi tiuj informoj tute anonimas kaj helpos nin certigi ke Prison Architect "
+"subteniĝas en kiel eble plej multe da komputilaparataro.\n"
+"\n"
+"Dankon!"
+
+msgid "(Cutscenes)"
+msgstr "(Tranĉscenoj)"
+
+msgid "Served"
+msgstr "Pune restis"
+
+msgid ""
+"These mods were used when the current prison was saved. We highly "
+"recommend downloading and activating them before playing this prison."
+msgstr ""
+"Ĉi tiuj ludredaktaĵoj uziĝis kiam la nuna malliberejo konserviĝis. Ni tre "
+"konsilas elŝuti kaj ŝalti ilin antaŭ ol ludi ĉi tiun malliberejon."
+
+msgid "InputField"
+msgstr "Enigkampo"
+
+msgid "Currently running *C cameras"
+msgstr "Nune kuras *C kameraoj"
+
+msgid "Served *Y years"
+msgstr "Pune restis *Y jarojn"
+
+msgid "An isolated form of imprisonment for the worst of the worst."
+msgstr "Izolada mallibereco por la plej malbonaj el la plej malbonaj."
+
+msgid "Lockdown (Permanent)"
+msgstr "Enĉelŝlosi (Permanente)"
+
+msgid "(Developer) Clear Achievements"
+msgstr "(Ellaboranta) Klarigi akirojn"
+
+msgid "(Sample Bank)"
+msgstr "(Sonpecujo)"
+
+msgid "You need a *X to prepare this report."
+msgstr "Vi bezonas je *X por prepari ĉi tiun raporton."
+
+msgid "Sentenced to *Y years for *A."
+msgstr "Juĝiĝis *Y jarojn pro *A."
+
+msgid "Where your goods, materials, and prisoners are dropped off."
+msgstr "Kie viaj havaĵoj, materialoj, kaj malliberuloj deĵetiĝas."
+
+msgid "Qualified Prisoners: *X"
+msgstr "Kvalifikitaj malliberuloj: *X"
+
+msgid "Used to keep your prisoners squeaky clean, and lice free."
+msgstr "Uzata por teni viajn malliberulojn puregaj, kaj senpedikaj."
+
+msgid "- Requires Water Connection"
+msgstr "- Bezonas akvokonekton"
+
+msgid "Indoor only"
+msgstr "Nur enterne"
+
+msgid "Planning"
+msgstr "Planado"
+
+msgid ""
+"An advanced staff member that allows you to gain access to Janitors and "
+"Gardeners."
+msgstr ""
+"Altnivela dungitarano kiu permesas al vi atingi akceson al Lavistoj kaj "
+"Ĝardenistoj."
+
+msgid "SelectionListItem"
+msgstr "Elektlistano"
+
+msgid ""
+"Not too soft, not too hard, just right. Well, actually, really hard and "
+"too small."
+msgstr ""
+"Ne tro mola, ne tro malmola, ĝuste taŭga. Nu, fakte, tre malmola kaj tro "
+"malgranda."
+
+msgid "Fit Map Width"
+msgstr "Taŭgigi maplarĝecon"
+
+msgid "Deactivate all mods"
+msgstr "Elŝalti ĉiujn ludredaktaĵojn"
+
+msgid "Where your prisoners are first taken when they arrive."
+msgstr "Kie viaj malliberuloj unue preniĝos kiam ili alvenas."
+
+msgid "Cancel Quickbuild"
+msgstr "Nuligi rapidkonstruon"
+
+msgid "Master Volume"
+msgstr "Ĉefsonforteco"
+
+msgid ""
+"Are you sure you wish to restart the current chapter? Unsaved progress "
+"will be lost."
+msgstr ""
+"Ĉu vi certas ke vi volas rekomenci la nunan ĉapitron? Nekonservita "
+"progreso perdiĝos."
+
+msgid "Your new prison has failed to publish. Please try again."
+msgstr "Via nova malliberejo fiaskis publikiĝi. Bonvole repenu."
+
+msgid "Smoothing"
+msgstr "Glatigo"
+
+msgid ""
+"Find contraband on your prisoners that pass through these. Will require a "
+"guard to be nearby to take the contraband."
+msgstr ""
+"Trovi kontrabandon sur viaj malliberuloj kiuj trairas ĉi tiujn. Bezonon "
+"proksimas gardiston kiu povas preni la kontrabandon."
+
+msgid "Reload Language"
+msgstr "Reŝarĝi lingvon"
+
+msgid "Mods"
+msgstr "Ludredaktaĵoj"
+
+msgid "Tidiness is important when it comes to contraband."
+msgstr "Ordeco gravas rilate al kontrabando."
+
+msgid "Loop Delay"
+msgstr "Iteraciprokrasto"
+
+msgid "Min Frame Time: *Tms"
+msgstr "Minimuma bildrapido: *Tms"
+
+msgid ""
+"The head of a shower. For showering. Showering with hot water makes your "
+"prisoners happier."
+msgstr ""
+"La kapo de duŝilo. Por duŝi. Duŝi per varma akvo pli feliĉigos viajn "
+"malliberulojn."
+
+msgid "=[Misconduct]="
+msgstr "=[Miskonduto]="
+
+msgid "Schedule Execution"
+msgstr "Aranĝi ekzekuton"
+
+msgid "Audio"
+msgstr "Sono"
+
+msgid "- Refund Amount: *X"
+msgstr "Repagkvanto: *X"
+
+msgid "Play Scenario"
+msgstr "Ludi scenaron"
+
+msgid "Dish up food to your prisoners."
+msgstr "Servaĉi manĝaĵon al viaj malliberuloj."
+
+msgid "Play Now"
+msgstr "Nun ludi"
+
+msgid "Day"
+msgstr "Tago"
+
+msgid "Toggle the main menu (New/Load/Save/Exit etc)"
+msgstr "Baskuligi la ĉefmenuon (Nova/Ŝarĝi/Konservi/Eleiri ktp.)"
+
+msgid "glFinish"
+msgstr "glFino"
+
+msgid "Unavailable"
+msgstr "Nehavebla"
+
+msgid "Clear Patrols"
+msgstr "Klarigi patrolojn"
+
+msgid "Sentenced to *Y years for multiple crimes including *A, and *B."
+msgstr "Juĝiĝis *Y jarojn pro pluraj krimoj inkluzive *A, kaj *B."
+
+msgid ""
+"Random lakes will block sections of your land. WARNING: Experimental."
+msgstr ""
+"Hazardaj lagoj blokos sekcionojn de via lando. AVERTOL: Eksperimenta."
+
+msgid "- Alt + Right Click to remove High Priority"
+msgstr "Alt + Dekstre aklaki por forigi altprioritaton"
+
+msgid "Costs *C"
+msgstr "Elspezoj *C"
+
+msgid "Found Luxuries"
+msgstr "Trovis luksaĵojn"
+
+msgid "Downloading"
+msgstr "Elŝutante"
+
+msgid "A simple door."
+msgstr "Simpla pordo."
+
+msgid "SELECTED"
+msgstr "ELEKTITA"
+
+msgid "(*X Responding to incidents)"
+msgstr "(*X Respondantaj al incidentoj)"
+
+msgid ""
+"Only 'protected custody' prisoners will be permitted to enter this sector."
+msgstr "Nur 'protektitaj' malliberuloj permesiĝos en ĉi tiu sektoro."
+
+msgid "Disabled"
+msgstr "Elŝaltita"
+
+msgid "Found:"
+msgstr "Trovis:"
+
+msgid "Keep lots of your prisoners where they should be."
+msgstr "Teni multe da viaj malliberulojn kie ili devus esti."
+
+msgid "Too Many Staff"
+msgstr "Tro da dungitaranoj"
+
+msgid "Territory"
+msgstr "Teitorio"
+
+msgid "Solitary (6hrs)"
+msgstr "Enizolitecigi (6 horojn)"
+
+msgid "Cutscenes"
+msgstr "Tranĉscenoj"
+
+msgid "Mods Updated"
+msgstr "Ludredaktaĵoj ĝisdatigitaj"
+
+msgid ""
+"Shows all contraband confiscated in the last 24 hours. The icons show "
+"where the contraband was confiscated."
+msgstr "Montras ĉiun kontrabandon konfiskitan dum la pasintaj 24 horoj."
+
+msgid "Help (wiki)"
+msgstr "Helpo (vikipedio)"
+
+msgid "A basic human right, if you believe all those crackpots."
+msgstr "Baza homara rajto, se vi kredas ĉiujn tiujn stultulojn."
+
+msgid "Is this a translation to another language?"
+msgstr "Ĉu ĉi tio estas traduko al alia lingvo?"
+
+msgid "Delete"
+msgstr "Forigi"
+
+msgid "12 Hour"
+msgstr "12 Hora"
+
+msgid "- Electrical"
+msgstr "- Elektra"
+
+msgid ""
+"A locked door that can be opened by any member of staff, not just Guards."
+msgstr ""
+"Fermita pordo kiun nur povas malfermi de iu ajn dungitarano, ne nur "
+"gardistoj."
+
+msgid "An area for your administrative staff to work."
+msgstr "Laborareo por viaj administraranoj."
+
+msgid "Food Distribution"
+msgstr "Manĝdistribuo"
+
+msgid ""
+"Authorises your armed guards to use lethal force. Snipers will no longer "
+"fire warning shots before taking a target down."
+msgstr ""
+"Permesos al viaj armitaj gardistoj uzi mortigan povon. Fusilistoj ne plu "
+"avertpafos antaŭ ol ili mortigos."
+
+msgid "Decay"
+msgstr "Kaduko"
+
+msgid "Riot Guards"
+msgstr "Turmultgardistoj"
+
+msgid "Open On Trigger"
+msgstr "Fermi laŭ ellasilo"
+
+msgid "Materials Assigned"
+msgstr "Materialoj asignitaj"
+
+msgid "RIOT UNDERWAY"
+msgstr "TURMULTO SURVOJ"
+
+msgid "Movement Penalty: *X%"
+msgstr "Movadpuno: *X%"
+
+msgid "- Ctrl + Left Click to make High Priority"
+msgstr "Ctrl + Maldekstre alklaki por altprioritatigi"
+
+msgid "Remove Labour"
+msgstr "Forigi laboron"
+
+msgid "Recruit Informant"
+msgstr "Dungi informanton"
+
+msgid "DAY *D"
+msgstr "TAGO *D"
+
+msgid "Active Mods"
+msgstr "Ŝaltitaj ludredaktaĵoj"
+
+msgid ""
+"Designed to be built in a Security Room and operated by a Guard. Allows "
+"you to monitor all outgoing phone calls made by inmates, giving you vital "
+"insights into planned illegal activity.\n"
+"\n"
+"Use the Connect tool to connect this system to your Phone Booths."
+msgstr ""
+"Dezajnita por konstruiĝi en sekurecĉambro kaj regata de gardisto. "
+"Permesas al vi gvati ĉiujn elirantajn telefonalvokojn faratajn de "
+"malliberuloj, donante al vi esencan sagacecon pri planita kontraŭleĝa "
+"aktiveco.\n"
+"\n"
+"Uzu la konektilon por konekti ĉi tiun sistemon al viaj telefonujoj."
+
+msgid ""
+"(CURRENTLY SERVES NO PURPOSE)\n"
+"Unlocks the Riot Guard.  These guys are armoured and better able to deal "
+"with violent situations."
+msgstr ""
+"(NUNE HAVAS NENIUN UZON)\n"
+"Malŝlosas la turmultgaridston.  Ĉi tiuj estas armitaj kaj pli bone povas "
+"trakti violentajn situaciojn."
+
+msgid "Button"
+msgstr "Butono"
+
+msgid "LOCKED (You require *B)"
+msgstr "FERMITA (Vi bezonas je *B)"
+
+msgid "The danger level is *X"
+msgstr "La danĝernivelo estas *X"
+
+msgid "Choose your warden"
+msgstr "Elektu vian malliberejestron"
+
+msgid "(Plea: *P)"
+msgstr "(Pledo: *P)"
+
+msgid "Add"
+msgstr "Aldoni"
+
+msgid "Canvas"
+msgstr "Areaĵo"
+
+msgid ""
+"Some of your active mods have been updated. Click OK to apply the new "
+"changes. Your game will be autosaved."
+msgstr ""
+"Iuj el viaj ŝaltitaj ludredaktaĵoj ĝisdatiĝis. Alklaku bone por apliki la "
+"novajn ŝanĝojn. Via ludo aŭtomate konserviĝos."
+
+msgid "Found Tools"
+msgstr "Trovis ilojn"
+
+msgid ""
+"Unlocks the clone tool on the main toolbar.  Use this tool to rapidly "
+"duplicate areas of your prison, such as Cells.  To use, select a zone to "
+"be copied with a right mouse drag, then left click to stamp down a copy."
+msgstr ""
+"Malŝlosas la klonilon en la ĉefilo.  Uzu ĉi tiun ilon por rapide duobligi "
+"areojn de via malliberejo kiel ĉelojn.  Por uzi, elektu zonon kopiotan "
+"per dekstra ŝovo, kaj tiam maldekstra alklako por meti kopion."
+
+msgid "BG img"
+msgstr "Fonbildo"
+
+msgid "TAB: Cycle Objects"
+msgstr "Press TAB to cycle objects"
+
+msgid "Published by *P"
+msgstr "Publikigita de *P"
+
+msgid "Soldiers"
+msgstr "Soldatoj"
+
+msgid ""
+"An advanced staff member that gives access to your financial reports."
+msgstr "Altnivela dungitarano kiu donas akceson al financaj raportoj."
+
+msgid ""
+"By submitting this item, you agree to the [url=http://steamcommunity.com/"
+"sharedfiles/workshoplegalagreement]workshop terms of service[/url]."
+msgstr ""
+"Sendante ĉi tion, vi interkonsentas al la [url=http://steamcommunity.com/"
+"sharedfiles/workshoplegalagreement]uzkondiĉoj de Steam Workshop[/url]."
+
+msgid ""
+"How much cash you have in the bank.\n"
+"\n"
+"Click to raise more funds through the Grants list."
+msgstr ""
+"Kiom da mono vi havas en la banko.\n"
+"\n"
+"Alklaku por kolekti pli da mono per la Stipendiaro."
+
+msgid "-7 Days"
+msgstr "-7 tagoj"
+
+msgid "Maximum capacity: *X"
+msgstr "Maksimumula kapacito: *X"
+
+msgid "Fit Map"
+msgstr "Taŭgigi mapon"
+
+msgid "Walls"
+msgstr "Muroj"
+
+msgid "Currently Incarcerated"
+msgstr "Nune malliberigitaj"
+
+msgid "Events"
+msgstr "Okazaĵoj"
+
+msgid "How many guards you have available for work in your prison."
+msgstr "Kiom da gardistoj haveblas al vi por laboro en via malliberejo."
+
+msgid "Auto Lights"
+msgstr "Aŭtomate lampoj"
+
+msgid "Keep your prisoners where they should be."
+msgstr "Teni viajn malliberulojn kie ili devus esti."
+
+msgid "Sort By Date"
+msgstr "Sorti laŭ dato"
+
+msgid ""
+"Some prisoners will arrive with gang allegiences, and will attack rival "
+"gang members on site. Extra challenge."
+msgstr ""
+"Iuj malliberuloj alvenos kun bandapartenecoj, kaj atakos rivalbandojn "
+"surejajn. Ekstra defio."
+
+msgid "Add DSP"
+msgstr "Aldoni je DSP"
+
+msgid "Guard Towers"
+msgstr "Gardistturoj"
+
+msgid "Recent Misconduct"
+msgstr "Lastatempa miskonduto"
+
+msgid "-Blocked-"
+msgstr "Laboro (Blokita)"
