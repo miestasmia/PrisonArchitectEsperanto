@@ -28,7 +28,7 @@ msgstr ""
 #. Original key in file was "codex_workshop_published_good_msg"
 #: foo/data/language/base-language.txt:956
 msgid "Your prison has been published successfully."
-msgstr "Via malliberejo sukcese publikiĝis."
+msgstr "Via malliberejo sukcese publikighis."
 
 #. Original key in file was "equipment_spade"
 #: foo/data/language/base-language.txt:2543
@@ -120,7 +120,7 @@ msgid ""
 "Adds changing weather and varying temperatures to your prison, requiring you "
 "to think about heating."
 msgstr ""
-"Aldonas ŝanĝiĝantajn veteron kaj temperaturojn al via malliberejo, devigas "
+"Aldonas shanghighantajn veteron kaj temperaturojn al via malliberejo, devigas "
 "al vi pensi pri varmigo."
 
 #. Original key in file was "adviser_deathrow_testchair_3"
@@ -157,8 +157,8 @@ msgid ""
 "You will lose visibility of the insides of your prison buildings, unless you "
 "have Guards patrolling the area or CCTV cameras covering the area."
 msgstr ""
-"Vi perdos videblon de la enternoj de viaj malliberejkonstruaĵoj, krom se vi "
-"havas gardistojn patrolantajn je la areo aŭ gvatkameraojn kovrantajn je la "
+"Vi perdos videblon de la enternoj de viaj malliberejkonstruajhoj, krom se vi "
+"havas gardistojn patrolantajn je la areo au gvatkameraojn kovrantajn je la "
 "areo."
 
 #. Original key in file was "interfacetopbar_tension_riotingprisoners"
@@ -195,7 +195,7 @@ msgstr ""
 #. Original key in file was "interface_action_doormodelockedshut"
 #: foo/data/language/base-language.txt:349
 msgid "Lock shut"
-msgstr "Pordreĝimo: Ŝlosite fermita"
+msgstr "Pordreghimo: shlosite fermita"
 
 #. Original key in file was "adviser_deathrow_testchair_6"
 #: foo/data/language/base-language.txt:3081
@@ -271,10 +271,10 @@ msgid ""
 "\n"
 "Note: Each armed guard requires his own locker in the Armoury."
 msgstr ""
-"Armita per ĉaspafilo, malliberuloj duoble pensos antaŭ ol ili atakos ĉi tiun "
+"Armita per chaspafilo, malliberuloj duoble pensos antau ol ili atakos chi tiun "
 "ulon.\n"
 "\n"
-"Notu: Ĉiu armita gardisto bezonas sian propran ŝrankon en la armejo."
+"Notu: chiu armita gardisto bezonas sian propran shrankon en la armejo."
 
 #. Original key in file was "causeofdeath_fight"
 #: foo/data/language/base-language.txt:3327
@@ -318,7 +318,7 @@ msgid ""
 "A multiple-occupancy cell for holding multiple prisoners. Can hold up to 8 "
 "prisoners."
 msgstr ""
-"Plurloĝiga ĉelo por loĝigi plurajn malliberulojn. Povas loĝigi ĝis 8 "
+"Plurloghiga chelo por loghigi plurajn malliberulojn. Povas loghigi ghis 8 "
 "malliberulojn."
 
 #. Original key in file was "object_shopfront"
@@ -334,7 +334,7 @@ msgstr "Nur dungitaro"
 #. Original key in file was "codex_preorder"
 #: foo/data/language/base-language.txt:835
 msgid "Pre-order Now"
-msgstr "Antaŭmendi nun"
+msgstr "Antaumendi nun"
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "buildtoolbar_popup_help_contraband_3"
@@ -524,7 +524,7 @@ msgstr "Murdo"
 msgid ""
 "Shows all contraband confiscated in the last 7 days. The icons show where "
 "the contraband was confiscated."
-msgstr "Montras ĉiun kontrabandon konfiskitan dum la pasintaj 7 tagoj."
+msgstr "Montras chiun kontrabandon konfiskitan dum la pasintaj 7 tagoj."
 
 #. Original key in file was "reports_edit"
 #: foo/data/language/base-language.txt:2830
@@ -644,7 +644,7 @@ msgstr ""
 #. Original key in file was "codex_timelapse_customresh"
 #: foo/data/language/base-language.txt:975
 msgid "Custom Res Height"
-msgstr "Laŭmenda distingivalteco"
+msgstr "Laumenda distingivalteco"
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "interfacetopbar_tension_currentlevelhigh"
@@ -673,7 +673,7 @@ msgstr ""
 #. Original key in file was "codex_workshop_update"
 #: foo/data/language/base-language.txt:942
 msgid "Update"
-msgstr "Ĝisdatigi"
+msgstr "ghisdatigi"
 
 #. Original key in file was "roomerror_nonursery"
 #: foo/data/language/base-language.txt:2725
@@ -722,7 +722,7 @@ msgstr "Ujo"
 #. Original key in file was "interfacedeployment_targettingfood"
 #: foo/data/language/base-language.txt:181
 msgid "Food Logistics"
-msgstr "Manĝloĝistiko"
+msgstr "Manghloghistiko"
 
 #. Original key in file was "object_licenseplate"
 #: foo/data/language/base-language.txt:2287
@@ -742,7 +742,7 @@ msgstr ""
 #. Original key in file was "soundeditor_stop"
 #: foo/data/language/base-language.txt:115
 msgid "Stop"
-msgstr "Ĉesigi"
+msgstr "chesigi"
 
 #. Original key in file was "interfacecontrol_grading"
 #: foo/data/language/base-language.txt:330
@@ -752,7 +752,7 @@ msgstr "Malliberejgradigo"
 #. Original key in file was "codex_mod_published_good_msg"
 #: foo/data/language/base-language.txt:1031
 msgid "Your mod has been published successfully."
-msgstr "Via ludredaktaĵo sukcese publikiĝis."
+msgstr "Via ludredaktajho sukcese publikighis."
 
 #. Original key in file was "profiler_reset"
 #: foo/data/language/base-language.txt:87
@@ -857,7 +857,7 @@ msgstr ""
 #. Original key in file was "codex_timelapse_customresw"
 #: foo/data/language/base-language.txt:974
 msgid "Custom Res Width"
-msgstr "Laŭmenda distingivlarĝeco"
+msgstr "Laumenda distingivlargheco"
 
 #. Original key in file was "event_moresleepdemand_2"
 #: foo/data/language/base-language.txt:3198
@@ -897,7 +897,7 @@ msgid ""
 "Prisoners might want to talk to their family, and these handy phonebooths "
 "let them."
 msgstr ""
-"Malliberuloj eble volas paroli kun sia familio, kaj ĉi tiuj utilaj "
+"Malliberuloj eble volas paroli kun sia familio, kaj chi tiuj utilaj "
 "telefonujoj ebligas tion."
 
 #. Original key in file was "interfacetopbar_tooltip_cctv"
@@ -966,7 +966,7 @@ msgstr ""
 #. Original key in file was "codex_language_download"
 #: foo/data/language/base-language.txt:1041
 msgid "Download"
-msgstr "Elŝulti"
+msgstr "Elshulti"
 
 #. Original key in file was "codex_option_funds"
 #: foo/data/language/base-language.txt:929
@@ -986,7 +986,7 @@ msgstr ""
 #. Original key in file was "interfacecontrol_mainmenu"
 #: foo/data/language/base-language.txt:324
 msgid "Main Menu (Esc)"
-msgstr "Ĉefmenuo (Esc)"
+msgstr "chefmenuo (Esc)"
 
 #. Original key in file was "experiencefactor_escapeattempts"
 #: foo/data/language/base-language.txt:1737
@@ -1104,7 +1104,7 @@ msgstr "Ne"
 #. Original key in file was "codex_workshop_download_failed"
 #: foo/data/language/base-language.txt:945
 msgid "Download Failed"
-msgstr "Elŝuto fiaskis"
+msgstr "Elshuto fiaskis"
 
 #. Original key in file was "dialogcomponent_selectionlist"
 #: foo/data/language/base-language.txt:66
@@ -1168,7 +1168,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_fridge"
 #: foo/data/language/base-language.txt:498
 msgid "Keep your food supplies from rotting."
-msgstr "Malebiligi al viaj manĝaĵprovizoj putri."
+msgstr "Malebiligi al viaj manghajhprovizoj putri."
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "room_commonroom"
@@ -1256,7 +1256,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_emergencies"
 #: foo/data/language/base-language.txt:448
 msgid "Call in the emergency services if things take a turn for the worse."
-msgstr "Alvoki la krizservilojn se aferoj malboniĝus."
+msgstr "Alvoki la krizservilojn se aferoj malbonighus."
 
 #. Original key in file was "interfaceclone_copy"
 #: foo/data/language/base-language.txt:235
@@ -1288,9 +1288,9 @@ msgid ""
 "\n"
 "Use the Connect tool to connect this timer to your Door Servos."
 msgstr ""
-"Povas uziĝi por aŭtomate malfermi pordojn je ekzaktaj horoj.\n"
+"Povas uzighi por automate malfermi pordojn je ekzaktaj horoj.\n"
 "\n"
-"Uzu la konektilon por konekti ĉi tiun horilon al via pordservoj."
+"Uzu la konektilon por konekti chi tiun horilon al via pordservoj."
 
 #. Original key in file was "dialog_height"
 #: foo/data/language/base-language.txt:12
@@ -1462,7 +1462,7 @@ msgstr ""
 #. Original key in file was "research_removemincellsize"
 #: foo/data/language/base-language.txt:1291
 msgid "Small Cells"
-msgstr "Malgrandaj ĉeloj"
+msgstr "Malgrandaj cheloj"
 
 #. Original key in file was "buildtoolbar_popup_help_utilities_3"
 #: foo/data/language/base-language.txt:638
@@ -1476,7 +1476,7 @@ msgstr ""
 #. Original key in file was "interfacetopbar_prisonercells_unlocked"
 #: foo/data/language/base-language.txt:289
 msgid "Unlocked capacity: *X"
-msgstr "Malŝlosita kapacito: *X"
+msgstr "Malshlosita kapacito: *X"
 
 #. Original key in file was "crime_videogamepiracy"
 #: foo/data/language/base-language.txt:3314
@@ -1491,7 +1491,7 @@ msgstr ""
 #. Original key in file was "codex_mod_inactivetitle"
 #: foo/data/language/base-language.txt:1011
 msgid "Available Mods"
-msgstr "Haveblaj ludredaktaĵoj"
+msgstr "Haveblaj ludredaktajhoj"
 
 #. Original key in file was "object_shopgoods"
 #: foo/data/language/base-language.txt:2416
@@ -1575,7 +1575,7 @@ msgstr ""
 #. Original key in file was "codex_load"
 #: foo/data/language/base-language.txt:812
 msgid "Load Prison"
-msgstr "Ŝarĝi malliberejon"
+msgstr "sharghi malliberejon"
 
 #. Original key in file was "buildtoolbar_popup_help_utilities_8"
 #: foo/data/language/base-language.txt:643
@@ -1619,9 +1619,9 @@ msgid ""
 "Doors can be opened remotely using a Door Control System (operated by a "
 "Guard), or opened by a Door Timer at specific times of day."
 msgstr ""
-"Malŝlosas altnivelan ekipaĵon por demalproksima rego kaj aŭtomatigo de "
-"pordoj. Pordoj povas demalproksime malfermiĝi pere de pordkontrolsistemo "
-"(operaciita de gardisto), aŭ malfermiĝi de pordhorilo je specifaj horoj."
+"Malshlosas altnivelan ekipajhon por demalproksima rego kaj automatigo de "
+"pordoj. Pordoj povas demalproksime malfermighi pere de pordkontrolsistemo "
+"(operaciita de gardisto), au malfermighi de pordhorilo je specifaj horoj."
 
 #. Original key in file was "hardware_compat_decline"
 #: foo/data/language/base-language.txt:392
@@ -1775,7 +1775,7 @@ msgstr ""
 #. Original key in file was "soundparametereditor_updatetitle"
 #: foo/data/language/base-language.txt:120
 msgid "Update Type"
-msgstr "Ĝisdatigtipo"
+msgstr "ghisdatigtipo"
 
 #. Original key in file was "dialogeditor_component"
 #: foo/data/language/base-language.txt:51
@@ -1804,7 +1804,7 @@ msgstr ""
 #. Original key in file was "codex_language_failed_download"
 #: foo/data/language/base-language.txt:1042
 msgid "Failed To Download Translation"
-msgstr "Fiaskis elŝulti tradukon"
+msgstr "Fiaskis elshulti tradukon"
 
 #. Original key in file was "buildtoolbar_popup_help_targettingfood_1"
 #: foo/data/language/base-language.txt:592
@@ -1867,7 +1867,7 @@ msgstr ""
 msgid "Lockdown"
 msgstr ""
 "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
-"Enĉelŝlosi\n"
+"Enchelshlosi\n"
 "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
 "Fermegi"
 
@@ -1944,12 +1944,12 @@ msgstr ""
 #. Original key in file was "codex_mod_published_good"
 #: foo/data/language/base-language.txt:1030
 msgid "Mod Published"
-msgstr "Ludredaktaĵo publikiĝis"
+msgstr "Ludredaktajho publikighis"
 
 #. Original key in file was "codex_checkforupdates"
 #: foo/data/language/base-language.txt:834
 msgid "Check for updates"
-msgstr "Kontroli ĝisdatigojn"
+msgstr "Kontroli ghisdatigojn"
 
 #. Original key in file was "interfacetopbar_tooltip_recenttransactions"
 #: foo/data/language/base-language.txt:263
@@ -1978,7 +1978,7 @@ msgstr ""
 #. Original key in file was "codex_option_buildings"
 #: foo/data/language/base-language.txt:914
 msgid "Generate Buildings"
-msgstr "Generi konstruaĵojn"
+msgstr "Generi konstruajhojn"
 
 #. Original key in file was "causeofdeath_fire"
 #: foo/data/language/base-language.txt:3334
@@ -2005,12 +2005,12 @@ msgstr ""
 #. Original key in file was "interface_confirmlandbuy"
 #: foo/data/language/base-language.txt:333
 msgid "Are you sure you wish to buy this plot of land for $*X?"
-msgstr "Ĉu vi certas ke vi volas aĉeti ĉi tiun teritorion por $*X?"
+msgstr "chu vi certas ke vi volas acheti chi tiun teritorion por $*X?"
 
 #. Original key in file was "codex_language_default"
 #: foo/data/language/base-language.txt:1040
 msgid "Default Language"
-msgstr "Defaŭlta lingvo"
+msgstr "Defaulta lingvo"
 
 #. Original key in file was "codex_options_multisampled"
 #: foo/data/language/base-language.txt:858
@@ -2027,7 +2027,7 @@ msgstr "Permesi multe da viaj malliberuloj kunhavigi la sperton de cerbputro."
 #. Original key in file was "soundparametereditor_chaintitle"
 #: foo/data/language/base-language.txt:122
 msgid "Chain"
-msgstr "Ĉeno"
+msgstr "cheno"
 
 #. Original key in file was "interfacedeployment_zoneblue"
 #: foo/data/language/base-language.txt:195
@@ -2073,10 +2073,10 @@ msgstr ""
 "Nur altnivelaj arkitektoj.\n"
 "\n"
 "Simpla cirkvitujo kiu faras logikan operacion bazitan de siaj enigoj, kaj "
-"laŭe metas sian eligon.\n"
+"laue metas sian eligon.\n"
 "\n"
-"Haveblaj operacioj: Kaj (And) / Aŭ (Or) / Ne (Not) / Nekaj (Nand) / Neaŭ "
-"(Nor) / Ikso-aŭ (Xor)\n"
+"Haveblaj operacioj: Kaj (And) / Au (Or) / Ne (Not) / Nekaj (Nand) / Neau "
+"(Nor) / Ikso-au (Xor)\n"
 "\n"
 "Dekstre alklaku por cikle trairi la logikajn operaciojn."
 
@@ -2097,7 +2097,7 @@ msgstr ""
 #. Original key in file was "biography_prisoner_priors"
 #: foo/data/language/base-language.txt:1134
 msgid "Priors:"
-msgstr "Antaŭaj punoj:"
+msgstr "Antauaj punoj:"
 
 #. Original key in file was "prisoner_concentration_2"
 #: foo/data/language/base-language.txt:2776
@@ -2130,7 +2130,7 @@ msgstr ""
 #: foo/data/language/base-language.txt:786
 #: foo/data/language/base-language.txt:253
 msgid "Danger"
-msgstr "Danĝero"
+msgstr "Danghero"
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "prisoner_concentration_3"
@@ -2169,7 +2169,7 @@ msgid ""
 "\n"
 "Click to access a detailed financial breakdown of income and expenses."
 msgstr ""
-"La kvanto da mono kiun vi ĉiutage ricevos bazitan de via nunaj elspezoj kaj "
+"La kvanto da mono kiun vi chiutage ricevos bazitan de via nunaj elspezoj kaj "
 "enspezoj.\n"
 "\n"
 "Alklaku por aliri detaljan financan superrigardon de enspezoj kaj elspezoj."
@@ -2271,7 +2271,7 @@ msgstr ""
 #. Original key in file was "interface_action_doormodenormal"
 #: foo/data/language/base-language.txt:348
 msgid "Door Mode: Normal"
-msgstr "Pordreĝimo: Normala"
+msgstr "Pordreghimo: Normala"
 
 #. Original key in file was "profiler_totaltime"
 #: foo/data/language/base-language.txt:85
@@ -2301,7 +2301,7 @@ msgstr ""
 #. Original key in file was "biography_prisoner_age"
 #: foo/data/language/base-language.txt:1127
 msgid "Age : *X"
-msgstr "Aĝo : *X"
+msgstr "Agho : *X"
 
 #. Original key in file was "codex_tooltip_intake"
 #: foo/data/language/base-language.txt:907
@@ -2312,9 +2312,9 @@ msgid ""
 "If disabled, you can chose when you are ready to receive prisoners by going "
 "to the reports and clicking on the prisoner tab."
 msgstr ""
-"Se ŝaltita, vi ricevos harzadan nombron da malliberuloj ĉiutage ... eterne.\n"
+"Se shaltita, vi ricevos harzadan nombron da malliberuloj chiutage ... eterne.\n"
 "\n"
-"Se elŝaltita, vi povas decidi kiam vi pretas ricevi malliberulojn per iri "
+"Se elshaltita, vi povas decidi kiam vi pretas ricevi malliberulojn per iri "
 "raporton kaj alklaki la malliberulklapeton."
 
 #. Original key in file was "dialogcomponent_titlecaption"
@@ -2486,8 +2486,8 @@ msgstr "Materialoj haveblaj"
 msgid ""
 "Are you sure you wish to load this map? All unsaved progress will be lost."
 msgstr ""
-"Ĉu vi certas ke vi volas ŝarĝi ĉi tiun mapon? Ĉiu nekonservita progreso "
-"perdiĝos."
+"chu vi certas ke vi volas sharghi chi tiun mapon? chiu nekonservita progreso "
+"perdighos."
 
 #. Original key in file was "rapsheet_category_protected"
 #: foo/data/language/base-language.txt:1160
@@ -2564,12 +2564,12 @@ msgid ""
 "trigger the later ones."
 msgstr ""
 "Metu servon super la pordo kiun vi volas demalproksime regi. Certigu ke la "
-"motorilaro estas ĝuste super la pordo.\n"
+"motorilaro estas ghuste super la pordo.\n"
 "\n"
-"Kiam instalita, la pordo malfermiĝos kiam la servo mem ellasiĝos - kutime de "
-"pordregsistemo, aŭ pordhorilo.\n"
+"Kiam instalita, la pordo malfermighos kiam la servo mem ellasighos - kutime de "
+"pordregsistemo, au pordhorilo.\n"
 "\n"
-"Servoj povas kunen ĉeniĝi tiel kiam la unua malfermiĝos ĝi ellasos la aliajn."
+"Servoj povas kunen chenighi tiel kiam la unua malfermighos ghi ellasos la aliajn."
 
 #. Original key in file was "adviser_deathrow_connectchair_1"
 #: foo/data/language/base-language.txt:3068
@@ -2693,8 +2693,8 @@ msgid ""
 "We were unable to determine where this mod came from. Please find and "
 "install this mod yourself."
 msgstr ""
-"Ni ne povis determini de kie ĉi tiu ludredaktaĵo venas. Bonvole trovi kaj "
-"mem instali ĉi tiun ludredaktaĵon."
+"Ni ne povis determini de kie chi tiu ludredaktajho venas. Bonvole trovi kaj "
+"mem instali chi tiun ludredaktajhon."
 
 #. Original key in file was "buildtoolbar_popup_help_informants_6"
 #: foo/data/language/base-language.txt:634
@@ -2736,7 +2736,7 @@ msgstr ""
 #. Original key in file was "codex_language_failed_download_msg"
 #: foo/data/language/base-language.txt:1043
 msgid "Your selected translation has failed to download."
-msgstr "Via elektita traduko fiaskis elŝuti."
+msgstr "Via elektita traduko fiaskis elshuti."
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "interfacemode_done"
@@ -2903,7 +2903,7 @@ msgstr ""
 #. Original key in file was "modnotification_title"
 #: foo/data/language/base-language.txt:1105
 msgid "Mod Differences Found"
-msgstr "Ludredaktaĵdiferencoj trovitaj"
+msgstr "Ludredaktajhdiferencoj trovitaj"
 
 #. Original key in file was "room_nursery"
 #: foo/data/language/base-language.txt:2498
@@ -2913,7 +2913,7 @@ msgstr ""
 #. Original key in file was "codex_authortitle"
 #: foo/data/language/base-language.txt:1017
 msgid "Author"
-msgstr "Aŭtoro"
+msgstr "Autoro"
 
 #. Original key in file was "object_riotguard"
 #: foo/data/language/base-language.txt:2293
@@ -2943,12 +2943,12 @@ msgstr ""
 #. Original key in file was "codex_enabled"
 #: foo/data/language/base-language.txt:903
 msgid "Enabled"
-msgstr "Ŝaltita"
+msgstr "shaltita"
 
 #. Original key in file was "interfacetopbar_tension_wellfedprisoners"
 #: foo/data/language/base-language.txt:314
 msgid "- *X prisoners are well fed"
-msgstr "- *X malliberuloj bone nutriĝas"
+msgstr "- *X malliberuloj bone nutrighas"
 
 #. Original key in file was "room_execution"
 #: foo/data/language/base-language.txt:2475
@@ -3020,17 +3020,17 @@ msgstr ""
 "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
 "Aklkaku kaj trenu por krei patrolitinerojn.\n"
 "\n"
-"Por asigni gardiston al patrolitinero, realklaku ekzistan patrolĉelon.\n"
+"Por asigni gardiston al patrolitinero, realklaku ekzistan patrolchelon.\n"
 "Dekstre alklaku kaj trenu por klarigi gardistpatrolojn.\n"
 "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
 "Aklkaku kaj trenu por krei patrolitinerojn.\n"
 "\n"
-"Por asigni gardiston al patrolitinero, realklaku ekzistan patrolĉelon.\n"
+"Por asigni gardiston al patrolitinero, realklaku ekzistan patrolchelon.\n"
 "Dekstre alklaku kaj trenu por klarigi gardistpatrolojn.\n"
 "#-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#\n"
 "Alklaku kaj trenu por krei patrolitinerojn.\n"
 "\n"
-"Por asigni gardiston al patrolitinero, realklaku ekzistan patrolĉelon.\n"
+"Por asigni gardiston al patrolitinero, realklaku ekzistan patrolchelon.\n"
 "Dekstre alklaku kaj trenu por klarigi gardistpatrolojn."
 
 #. Original key in file was "regime_nothing"
@@ -3129,7 +3129,7 @@ msgstr "Sonaperredaktilo"
 #. Original key in file was "interface_action_searchcellblock"
 #: foo/data/language/base-language.txt:345
 msgid "Search Cell Block"
-msgstr "Ekzameni ĉelaron"
+msgstr "Ekzameni chelaron"
 
 #. Original key in file was "contraband_log_owner"
 #: foo/data/language/base-language.txt:1774
@@ -3288,7 +3288,7 @@ msgstr ""
 #: foo/data/language/base-language.txt:519
 msgid "Seats for the faithful. Made from the hardest, most unpadded of woods."
 msgstr ""
-"Seĝoj por la kredemaj. Kreitaj el la plej malmola, plej nevitata de ligno."
+"Seghoj por la kredemaj. Kreitaj el la plej malmola, plej nevitata de ligno."
 
 #. Original key in file was "sector_insecure"
 #: foo/data/language/base-language.txt:381
@@ -3330,7 +3330,7 @@ msgstr ""
 #. Original key in file was "codex_options_dspenabled"
 #: foo/data/language/base-language.txt:865
 msgid "Enable DSP"
-msgstr "Ŝalti DSP"
+msgstr "shalti DSP"
 
 #. Original key in file was "warden_calming_desc"
 #: foo/data/language/base-language.txt:3256
@@ -3356,7 +3356,7 @@ msgstr ""
 #. Original key in file was "codex_tooltip_flagbio"
 #: foo/data/language/base-language.txt:938
 msgid "Report this bio as objectionable or offensive."
-msgstr "Raporti ĉi tiun biografion kiel malaprobindan aŭ ofensivan."
+msgstr "Raporti chi tiun biografion kiel malaprobindan au ofensivan."
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "research_patrols"
@@ -3400,7 +3400,7 @@ msgstr ""
 #. Original key in file was "rapsheet_grading_punishment"
 #: foo/data/language/base-language.txt:1184
 msgid "Punishment"
-msgstr "Puniĝado"
+msgstr "Punighado"
 
 #. Original key in file was "object_door"
 #: foo/data/language/base-language.txt:2254
@@ -3472,7 +3472,7 @@ msgstr ""
 #. Original key in file was "codex_termsconditions"
 #: foo/data/language/base-language.txt:836
 msgid "Terms and Conditions"
-msgstr "Uzokondiĉoj"
+msgstr "Uzokondichoj"
 
 #. Original key in file was "dialog_open"
 #: foo/data/language/base-language.txt:23
@@ -3502,8 +3502,8 @@ msgid ""
 "Once enabled, this setting cannot be deactivated. Are you sure you wish to "
 "enable *X?"
 msgstr ""
-"Kiam ŝaltita, ĉi tiu agordo ne povas elŝaltiĝi. Ĉu vi certas ke vi volas "
-"ŝalti je *X?"
+"Kiam shaltita, chi tiu agordo ne povas elshaltighi. chu vi certas ke vi volas "
+"shalti je *X?"
 
 #. Original key in file was "codex_trending_oneday"
 #: foo/data/language/base-language.txt:1056
@@ -3547,12 +3547,12 @@ msgid ""
 "than eight cameras, the monitor will cycle through them gradually, giving "
 "only partial coverage."
 msgstr ""
-"Dezajnita por konstruiĝi en sekurecĉambro, kaj regita de gardisto. Gvatas la "
+"Dezajnita por konstruighi en sekurecchambro, kaj regita de gardisto. Gvatas la "
 "gvatkameraojn dise en via malliberejo de malproksimo.\n"
 "\n"
 "Uzu la konektilon por konekti xi tiun ekranon al viaj gvatkameraoj.\n"
 "\n"
-"Notu: Maksimumo de ok kameraoj povas samtempe vidiĝi. Se oni konektos pli ol "
+"Notu: Maksimumo de ok kameraoj povas samtempe vidighi. Se oni konektos pli ol "
 "ok kameraojn, la ekrano grade cikle traktos ilin, donante nur partan "
 "gvatecon."
 
@@ -3633,7 +3633,7 @@ msgstr ""
 #. Original key in file was "codex_mod_wiki"
 #: foo/data/language/base-language.txt:1013
 msgid "Find more mods (Wiki)"
-msgstr "Trovi pli da ludredaktaĵoj (Vikipedio)"
+msgstr "Trovi pli da ludredaktajhoj (Vikipedio)"
 
 #. Original key in file was "buildtoolbar_popup_help_foreman_3"
 #: foo/data/language/base-language.txt:695
@@ -3668,7 +3668,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_light"
 #: foo/data/language/base-language.txt:496
 msgid "Ensure you can see your prisoners at all times of the day."
-msgstr "Certigi ke vi povas vidi viajn malliberulojn ĉiujn horojn de la tago."
+msgstr "Certigi ke vi povas vidi viajn malliberulojn chiujn horojn de la tago."
 
 #. Original key in file was "adviser_deathrow_postmurder6"
 #: foo/data/language/base-language.txt:3049
@@ -3690,7 +3690,7 @@ msgstr ""
 #. Original key in file was "codex_developer_load"
 #: foo/data/language/base-language.txt:817
 msgid "(Developer) Load Map"
-msgstr "(Ellabaranta) Ŝarĝi mapon"
+msgstr "(Ellabaranta) sharghi mapon"
 
 #. Original key in file was "adviser_deathrow_postmurder7"
 #: foo/data/language/base-language.txt:3050
@@ -3728,7 +3728,7 @@ msgstr "Horaro"
 #. Original key in file was "buildtoolbar_popup_obj_weightsbench"
 #: foo/data/language/base-language.txt:511
 msgid "Allow your prisoners to exercise, which keeps them happy."
-msgstr "Permemi al viaj malliberuloj ekzerciĝi, kiu plaĉas al ili."
+msgstr "Permemi al viaj malliberuloj ekzercighi, kiu plachas al ili."
 
 #. Original key in file was "objective_deathrow_outerlights"
 #: foo/data/language/base-language.txt:3038
@@ -3778,7 +3778,7 @@ msgstr ""
 #. Original key in file was "punish_lockdown_6"
 #: foo/data/language/base-language.txt:1194
 msgid "Lockdown (6hrs)"
-msgstr "Enĉelŝlosi (6 horojn)"
+msgstr "Enchelshlosi (6 horojn)"
 
 #. Original key in file was "objective_tvremovaldemand"
 #: foo/data/language/base-language.txt:3219
@@ -3835,7 +3835,7 @@ msgstr ""
 #. Original key in file was "interface_action_searchcell"
 #: foo/data/language/base-language.txt:344
 msgid "Search Cell"
-msgstr "Ekzameni ĉelon"
+msgstr "Ekzameni chelon"
 
 #. Original key in file was "shakedown_underway"
 #: foo/data/language/base-language.txt:372
@@ -3902,7 +3902,7 @@ msgstr ""
 #. Original key in file was "researchtooltip_groundskeeping"
 #: foo/data/language/base-language.txt:1309
 msgid "Unlocks the Gardener.  He will keep your outdoor areas tidy."
-msgstr "Malŝlosas la ĝardeniston.  Li restigos vian eksteran areon pura."
+msgstr "Malshlosas la ghardeniston.  Li restigos vian eksteran areon pura."
 
 #. Original key in file was "buildtoolbar_popup_uts_Wire"
 #: foo/data/language/base-language.txt:554
@@ -4048,7 +4048,7 @@ msgstr "Videble"
 #. Original key in file was "codex_workshop_published_bad_msg"
 #: foo/data/language/base-language.txt:958
 msgid "Your prison failed to publish."
-msgstr "Via malliberejo fiaskis publikiĝi."
+msgstr "Via malliberejo fiaskis publikighi."
 
 #. Original key in file was "buildtoolbar_popup_help_doghandler_6"
 #: foo/data/language/base-language.txt:683
@@ -4153,12 +4153,12 @@ msgstr ""
 #. Original key in file was "soundeditor_nexteventtitle"
 #: foo/data/language/base-language.txt:112
 msgid "Next Event"
-msgstr "Venonta okazaĵo"
+msgstr "Venonta okazajho"
 
 #. Original key in file was "interfacedeployment_targettinglaundry"
 #: foo/data/language/base-language.txt:182
 msgid "Laundry Logistics"
-msgstr "Lavejloĝistiko"
+msgstr "Lavejloghistiko"
 
 #. Original key in file was "objective_virus_child"
 #: foo/data/language/base-language.txt:3228
@@ -4176,13 +4176,13 @@ msgid ""
 "Allows you to define patrols around crucial areas of your prison (eg the "
 "perimeter), and assign guards to walk those patrols."
 msgstr ""
-"Permesas al vi difini patrolojn ĉirkaŭ kernaj areoj de via malliberejo (ekz. "
-"la perimetro), kaj asigni gardistojn tramarŝi tiujn patrolojn."
+"Permesas al vi difini patrolojn chirkau kernaj areoj de via malliberejo (ekz. "
+"la perimetro), kaj asigni gardistojn tramarshi tiujn patrolojn."
 
 #. Original key in file was "codex_premadeprisons"
 #: foo/data/language/base-language.txt:1052
 msgid "Premade Prisons"
-msgstr "Antaŭkreitaj malliberejoj"
+msgstr "Antaukreitaj malliberejoj"
 
 #. Original key in file was "objective_grant_longterminvestment"
 #: foo/data/language/base-language.txt:2191
@@ -4197,7 +4197,7 @@ msgstr ""
 #. Original key in file was "codex_options_enablevbo"
 #: foo/data/language/base-language.txt:888
 msgid "Enable Vertex Buffer Objects"
-msgstr "Ŝalti vertican bufran objekton"
+msgstr "shalti vertican bufran objekton"
 
 #. Original key in file was "salecondition_accountant"
 #: foo/data/language/base-language.txt:1544
@@ -4212,10 +4212,10 @@ msgid ""
 "\n"
 "Dogs are also very fast which allows them to chase prisoners with ease."
 msgstr ""
-"Malŝlosas la hundiston kaj gardisthundon.  Ili elstaras je snufante trovi la "
+"Malshlosas la hundiston kaj gardisthundon.  Ili elstaras je snufante trovi la "
 "odorantan kontrabandon en via malliberejo, kaj detekti eskaptunelojn.\n"
 "\n"
-"Hundoj ankaŭ tre rapidas kiu permesas al ili tre facile ĉassekvi "
+"Hundoj ankau tre rapidas kiu permesas al ili tre facile chassekvi "
 "malliberulojn."
 
 #. Original key in file was "action_getmeal"
@@ -4239,8 +4239,8 @@ msgid ""
 "An extra challenge! You will be sacked and it will be game over if you let "
 "things get too bad. (Riots, Bankruptcy, too many Deaths or Escapes, etc.)"
 msgstr ""
-"Ekstra defio! Vi maldungiĝos kaj la ludo finiĝos se vi lasas al aferoj tro "
-"malboniĝi. (Turmulotoj, bankroto, tro da mortoj aŭ eskapoj, ktp.)"
+"Ekstra defio! Vi maldungighos kaj la ludo finighos se vi lasas al aferoj tro "
+"malbonighi. (Turmulotoj, bankroto, tro da mortoj au eskapoj, ktp.)"
 
 #. Original key in file was "codex_options_graphics"
 #: foo/data/language/base-language.txt:851
@@ -4277,7 +4277,7 @@ msgstr ""
 #. Original key in file was "punish_lockdown_12"
 #: foo/data/language/base-language.txt:1195
 msgid "Lockdown (12hrs)"
-msgstr "Enĉelŝlosi (12 horojn)"
+msgstr "Enchelshlosi (12 horojn)"
 
 #. Original key in file was "victory_adviserwarning_executions1"
 #: foo/data/language/base-language.txt:1686
@@ -4289,7 +4289,7 @@ msgstr ""
 #. Original key in file was "codex_options_renderrooms"
 #: foo/data/language/base-language.txt:877
 msgid "Room Checkerbox"
-msgstr "Ĉambroŝakkrado"
+msgstr "chambroshakkrado"
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "dialogcomponent_caption"
@@ -4435,7 +4435,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_room"
 #: foo/data/language/base-language.txt:429
 msgid "Room"
-msgstr "Ĉambro"
+msgstr "chambro"
 
 #. Original key in file was "crime_rape"
 #: foo/data/language/base-language.txt:3319
@@ -4509,7 +4509,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_objects"
 #: foo/data/language/base-language.txt:441
 msgid "Place useful items around your prison."
-msgstr "Dismeti utilaĵojn en via malliberejo."
+msgstr "Dismeti utilajhojn en via malliberejo."
 
 #. Original key in file was "deploymentscheduler_scheduletime"
 #: foo/data/language/base-language.txt:2874
@@ -4557,7 +4557,7 @@ msgstr "Konservi malliberejon"
 #. Original key in file was "buildtoolbar_deployment_MaxSecZone"
 #: foo/data/language/base-language.txt:580
 msgid "Only maximum security prisoners will be permitted to enter this sector."
-msgstr "Nur maksimumsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
+msgstr "Nur maksimumsekurecmalliberuloj permesighos en chi tiu sektoro."
 
 #. Original key in file was "soundeditor_instancetitle"
 #: foo/data/language/base-language.txt:99
@@ -4636,7 +4636,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_altar"
 #: foo/data/language/base-language.txt:518
 msgid "Relays your prayers directly to your higher power of choice."
-msgstr "Relajas viajn preĝojn rekte al la alta potenco de via elekto."
+msgstr "Relajas viajn preghojn rekte al la alta potenco de via elekto."
 
 #. Original key in file was "report_grants_locked"
 #: foo/data/language/base-language.txt:1438
@@ -4762,7 +4762,7 @@ msgstr ""
 #. Original key in file was "codex_language_englishdefault"
 #: foo/data/language/base-language.txt:1039
 msgid "English (Default)"
-msgstr "La angla (defaŭlta)"
+msgstr "La angla (defaulta)"
 
 #. Original key in file was "nameplate_stationed"
 #: foo/data/language/base-language.txt:1997
@@ -4777,7 +4777,7 @@ msgstr "Asignu gardistojn al la sektoroj de via malliberejo."
 #. Original key in file was "buildtoolbar_popup_obj_table"
 #: foo/data/language/base-language.txt:484
 msgid "Goes excellently with a chair."
-msgstr "Bone taŭgas kun seĝo."
+msgstr "Bone taugas kun segho."
 
 #. Original key in file was "buildtoolbar_tooltip_reports"
 #: foo/data/language/base-language.txt:411
@@ -4801,7 +4801,7 @@ msgstr ""
 #. Original key in file was "research_legal"
 #: foo/data/language/base-language.txt:1262
 msgid "Legal"
-msgstr "Leĝo"
+msgstr "Legho"
 
 #. Original key in file was "codex_option_enablecheats"
 #: foo/data/language/base-language.txt:926
@@ -4814,7 +4814,7 @@ msgid ""
 "Shows all contraband confiscated in the history of your prison. The icons "
 "show where the contraband was confiscated."
 msgstr ""
-"Montras ĉiun kontrabandon konfiskitan dum la historio de via malliberejo."
+"Montras chiun kontrabandon konfiskitan dum la historio de via malliberejo."
 
 #. Original key in file was "equipment_rifle"
 #: foo/data/language/base-language.txt:2537
@@ -4868,10 +4868,10 @@ msgid ""
 "\n"
 "Like all Administrators, he requires an office to work."
 msgstr ""
-"Malŝlosas la malliberejestron, kaj la tutan burokratisistemon. Dungu lin per "
+"Malshlosas la malliberejestron, kaj la tutan burokratisistemon. Dungu lin per "
 "la dungitarilo.\n"
 "\n"
-"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+"Kiel chiuj administrantoj, li bezonas oficejon por funkcii."
 
 #. Original key in file was "codex_tooltip_useravatar"
 #: foo/data/language/base-language.txt:937
@@ -4879,8 +4879,8 @@ msgid ""
 "Mark this prisoner as your own entry. If you should somehow end up in prison "
 "yourself, this is the prisoner that will represent you."
 msgstr ""
-"Marki ĉi tiun malliberulon kiel la vian. Se vi mem iel estontus "
-"malliberigita, ĉi tiu estas la malliberulo kiu reprezentos vin."
+"Marki chi tiun malliberulon kiel la vian. Se vi mem iel estontus "
+"malliberigita, chi tiu estas la malliberulo kiu reprezentos vin."
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "roomgrading_dormitory_cleanliness"
@@ -4902,7 +4902,7 @@ msgstr "Enhavo : *X"
 #. Original key in file was "interfacedeployment_unlockedzone"
 #: foo/data/language/base-language.txt:192
 msgid "Unlocked"
-msgstr "Malŝlosita"
+msgstr "Malshlosita"
 
 #. Original key in file was "researchtooltip_MentalHealth"
 #: foo/data/language/base-language.txt:1312
@@ -4912,10 +4912,10 @@ msgid ""
 "\n"
 "Like all Administrators, he requires an office to work."
 msgstr ""
-"Malŝlosas la psikologiiston donantan al vi valorajn informojn pri la "
-"enternaj psikologiaj statoj ĉiamaj.\n"
+"Malshlosas la psikologiiston donantan al vi valorajn informojn pri la "
+"enternaj psikologiaj statoj chiamaj.\n"
 "\n"
-"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+"Kiel chiuj administrantoj, li bezonas oficejon por funkcii."
 
 #. Original key in file was "misconduct_reporttype_destruction"
 #: foo/data/language/base-language.txt:1224
@@ -5072,7 +5072,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_wages"
 #: foo/data/language/base-language.txt:419
 msgid "Wages : $*W per day"
-msgstr "Salajro : $*W ĉiutage"
+msgstr "Salajro : $*W chiutage"
 
 #. Original key in file was "finance_cost_grantrefund"
 #: foo/data/language/base-language.txt:3124
@@ -5202,7 +5202,7 @@ msgstr ""
 #. Original key in file was "modnotification_active"
 #: foo/data/language/base-language.txt:1108
 msgid "Active"
-msgstr "Ŝaltita"
+msgstr "shaltita"
 
 #. Original key in file was "reform_placespersession"
 #: foo/data/language/base-language.txt:2587
@@ -5270,7 +5270,7 @@ msgstr "Polaroidbildoj"
 #. Original key in file was "buildtoolbar_popup_room_familycell"
 #: foo/data/language/base-language.txt:459
 msgid "Where your prisoners live, if they have babies."
-msgstr "Kie viaj malliberuloj loĝas, se ili havas bebojn."
+msgstr "Kie viaj malliberuloj loghas, se ili havas bebojn."
 
 #. Original key in file was "object_waterboiler"
 #: foo/data/language/base-language.txt:2420
@@ -5290,7 +5290,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_weaponsfree"
 #: foo/data/language/base-language.txt:409
 msgid "Freefire"
-msgstr "Laŭvoligi armilojn"
+msgstr "Lauvoligi armilojn"
 
 #. Original key in file was "material_building"
 #: foo/data/language/base-language.txt:2424
@@ -5310,7 +5310,7 @@ msgstr ""
 #. Original key in file was "codex_play_escape"
 #: foo/data/language/base-language.txt:823
 msgid "Play Escape Mode"
-msgstr "Ludi eskapreĝimon"
+msgstr "Ludi eskapreghimon"
 
 #. Original key in file was "job_removehighpriority"
 #: foo/data/language/base-language.txt:763
@@ -5368,12 +5368,12 @@ msgid ""
 msgstr ""
 "Nur altnivelaj arkitektoj.\n"
 "\n"
-"Prenas sian eniran signalon, kaj plusendas ĝin supren sur elektra kablo "
-"instalita en la samo ĉelo. Tiu elektra kablo portos la signalon al iuj aliaj "
+"Prenas sian eniran signalon, kaj plusendas ghin supren sur elektra kablo "
+"instalita en la samo chelo. Tiu elektra kablo portos la signalon al iuj aliaj "
 "logikaj cirkvitoj instalitaj sur la sama elektra kablo.\n"
 "\n"
-"Povas uziĝi por 'dissendi' komunan signalon disen en vian malliberejon, ekz. "
-"utila por sendi komunan horloĝsignalon."
+"Povas uzighi por 'dissendi' komunan signalon disen en vian malliberejon, ekz. "
+"utila por sendi komunan horloghsignalon."
 
 #. Original key in file was "valuation_objects"
 #: foo/data/language/base-language.txt:1510
@@ -5388,7 +5388,7 @@ msgstr ""
 #. Original key in file was "modnotification_popup_active"
 #: foo/data/language/base-language.txt:1113
 msgid "This mod is currently active. Click to deactivate."
-msgstr "Ĉi tiu ludredaktaĵo nune ŝaltitas. Alklaku por elŝalti."
+msgstr "chi tiu ludredaktajho nune shaltitas. Alklaku por elshalti."
 
 #. Original key in file was "reputationtooltip_legendary"
 #: foo/data/language/base-language.txt:1974
@@ -5419,8 +5419,8 @@ msgstr ""
 msgid ""
 "Copy and paste existing parts of your prison, or place predefined rooms."
 msgstr ""
-"Kopii kaj alglui ekzistajn partojn de via malliberejo, aŭ meti "
-"antaŭdefinitajn ĉambrojn."
+"Kopii kaj alglui ekzistajn partojn de via malliberejo, au meti "
+"antaudefinitajn chambrojn."
 
 #. Original key in file was "dialogcomponent_scrollbar"
 #: foo/data/language/base-language.txt:68
@@ -5458,7 +5458,7 @@ msgstr ""
 #. Original key in file was "biography_prisoner_convicted"
 #: foo/data/language/base-language.txt:1129
 msgid "Convicted of *C (pleaded *P)"
-msgstr "Juĝiĝis de *C (pledis kiel *P)"
+msgstr "Jughighis de *C (pledis kiel *P)"
 
 #. Original key in file was "interfacemode_utilities"
 #: foo/data/language/base-language.txt:142
@@ -5483,7 +5483,7 @@ msgstr ""
 #. Original key in file was "codex_options_autosave"
 #: foo/data/language/base-language.txt:876
 msgid "Autosave Timer"
-msgstr "Aŭtomata konservhorilo"
+msgstr "Automata konservhorilo"
 
 #. Original key in file was "buildtoolbar_popup_grading"
 #: foo/data/language/base-language.txt:453
@@ -5491,8 +5491,8 @@ msgid ""
 "See your overall prison grading on four key metrics - Punishment, Reform, "
 "Security, and Health. Also shows the re-offending rate for your prison."
 msgstr ""
-"Vidu la entutan malliberejgradigon laŭ kvar ŝlosilaj metrikoj - Punoj, "
-"Reformo, Sekureco, kaj Saneco. Ankaŭ montras la refojan malobservraton de "
+"Vidu la entutan malliberejgradigon lau kvar shlosilaj metrikoj - Punoj, "
+"Reformo, Sekureco, kaj Saneco. Ankau montras la refojan malobservraton de "
 "via malliberejo."
 
 #. Original key in file was "adviser_deathrow_roomrequirements1"
@@ -5627,7 +5627,7 @@ msgstr ""
 msgid ""
 "This is a new steam mod. Click to subscribe to and download the mod now."
 msgstr ""
-"Ĉi tio estas nova steamludredaktaĵo. Aklaku por aboni kaj elŝuti ĝin nun."
+"chi tio estas nova steamludredaktajho. Aklaku por aboni kaj elshuti ghin nun."
 
 #. Original key in file was "buildtoolbar_popup_staff_gardener"
 #: foo/data/language/base-language.txt:528
@@ -5646,9 +5646,9 @@ msgid ""
 "remotely). Use this to prevent mass escape events when a prisoner has Jail "
 "Keys."
 msgstr ""
-"Forta metalpordo kiu ne povas malfermiĝi per ŝlosilo (nur povas "
-"demalproksime malfermiĝi). Uzu ĉi tiun por preventi amaseskapokazaĵojn kiam "
-"malliberulo havas malliberejŝlosilojn."
+"Forta metalpordo kiu ne povas malfermighi per shlosilo (nur povas "
+"demalproksime malfermighi). Uzu chi tiun por preventi amaseskapokazajhojn kiam "
+"malliberulo havas malliberejshlosilojn."
 
 #. Original key in file was "clock_speed_0"
 #: foo/data/language/base-language.txt:3137
@@ -5800,7 +5800,7 @@ msgid ""
 "All employees are required to wash their hands. Will work faster if "
 "connected to hot water."
 msgstr ""
-"Ĉiuj dungitaranoj devas lavi siajn manojn. Pli rapide laboros se konektita "
+"chiuj dungitaranoj devas lavi siajn manojn. Pli rapide laboros se konektita "
 "al varma akvo."
 
 #. Original key in file was "interfacemode_foundations"
@@ -5854,7 +5854,7 @@ msgstr ""
 #. Original key in file was "codex_trending_failedtogetlist_msg"
 #: foo/data/language/base-language.txt:1063
 msgid "Failed to get the list of trending prisons."
-msgstr "Fiaskis atingi la liston de ŝategataj malliberejoj."
+msgstr "Fiaskis atingi la liston de shategataj malliberejoj."
 
 #. Original key in file was "objective_firstgrant"
 #: foo/data/language/base-language.txt:2040
@@ -5876,12 +5876,12 @@ msgid ""
 "Shows all the locations around your prison that contraband could be stolen "
 "from."
 msgstr ""
-"Montras ĉiujn lokojn dise en via malliberejo kie kontrabando elŝteleblas."
+"Montras chiujn lokojn dise en via malliberejo kie kontrabando elshteleblas."
 
 #. Original key in file was "codex_mod_published_bad"
 #: foo/data/language/base-language.txt:1032
 msgid "Failed To Publish Mod"
-msgstr "Fiaskis publikigi ludredaktaĵon"
+msgstr "Fiaskis publikigi ludredaktajhon"
 
 #. Original key in file was "nameplate_patrolling"
 #: foo/data/language/base-language.txt:1998
@@ -5915,7 +5915,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_tree"
 #: foo/data/language/base-language.txt:495
 msgid "Taking steps against global warming is all of our responsibility."
-msgstr "Elpaŝi kontraŭ tutmonda varmiĝo entute estas via respondeco."
+msgstr "Elpashi kontrau tutmonda varmigho entute estas via respondeco."
 
 #. Original key in file was "material_buildingconcrete"
 #: foo/data/language/base-language.txt:2425
@@ -5948,11 +5948,11 @@ msgid ""
 "upset when their parole is denied."
 msgstr ""
 "Viaj malliberuloj rajtas provizoran liberigon post pune servi 50% kaj 75% de "
-"siaj punoj. Iliaj sortoj fikiĝos en ĉi tiu ĉambro, kun la Malliberejestro "
+"siaj punoj. Iliaj sortoj fikighos en chi tiu chambro, kun la Malliberejestro "
 "kaj Sekurecestro.\n"
 "\n"
-"N.B. Ekstra sekureco konsiliĝas. Malliberuloj tre koleregiĝemas kiam iliaj "
-"prozorliberigoj rifuziĝas."
+"N.B. Ekstra sekureco konsilighas. Malliberuloj tre koleregighemas kiam iliaj "
+"prozorliberigoj rifuzighas."
 
 #. Original key in file was "execution_stage_Witnesses"
 #: foo/data/language/base-language.txt:2688
@@ -5985,7 +5985,7 @@ msgstr ""
 #. Original key in file was "gameover_caption"
 #: foo/data/language/base-language.txt:375
 msgid "Press ESC to Continue"
-msgstr "Presu ESC por daŭrigi"
+msgstr "Presu ESC por daurigi"
 
 #. Original key in file was "codex_packrects_widthcaption"
 #: foo/data/language/base-language.txt:1075
@@ -6013,7 +6013,7 @@ msgstr ""
 #. Original key in file was "codex_save_confirm"
 #: foo/data/language/base-language.txt:1049
 msgid "Are you sure you wish to overwrite *X with the current prison?"
-msgstr "Ĉu vi certas ke vi volas superskribi *X per via nova malliberejo?"
+msgstr "chu vi certas ke vi volas superskribi *X per via nova malliberejo?"
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "nameplate_unconscious"
@@ -6064,12 +6064,12 @@ msgstr ""
 #. Original key in file was "codex_nitgs_filterall"
 #: foo/data/language/base-language.txt:893
 msgid "All"
-msgstr "Ĉiuj"
+msgstr "chiuj"
 
 #. Original key in file was "buildtoolbar_popup_staff_cook"
 #: foo/data/language/base-language.txt:527
 msgid "Feeds your prisoners with the meals they prepare."
-msgstr "Nutras viajn malliberulojn per la manĝoj kiujn ili pretigas."
+msgstr "Nutras viajn malliberulojn per la manghoj kiujn ili pretigas."
 
 #. Original key in file was "interfacedeployment_supermaxzone"
 #: foo/data/language/base-language.txt:190
@@ -6079,7 +6079,7 @@ msgstr "Nur super maks. sekureco"
 #. Original key in file was "buildtoolbar_popup_uts_showallwires"
 #: foo/data/language/base-language.txt:555
 msgid "Show every connected wire in your prison."
-msgstr "Montru ĉiun konektitan draton en via malliberejo."
+msgstr "Montru chiun konektitan draton en via malliberejo."
 
 #. Original key in file was "reform_program_stop"
 #: foo/data/language/base-language.txt:2591
@@ -6174,9 +6174,9 @@ msgid ""
 "\n"
 "You must Connect a CCTV Monitor to this camera for it to work."
 msgstr ""
-"Pririgardu vian malliberejon sen la bezono de gardistoj ĉie samtempe.\n"
+"Pririgardu vian malliberejon sen la bezono de gardistoj chie samtempe.\n"
 "\n"
-"Vi devos konekti gvatekranon al ĉi tiu kamerao por ke ĝi funkciu."
+"Vi devos konekti gvatekranon al chi tiu kamerao por ke ghi funkciu."
 
 #. Original key in file was "season_current"
 #: foo/data/language/base-language.txt:2934
@@ -6356,7 +6356,7 @@ msgstr "Atakis dungitaranon"
 #. Original key in file was "interfacetopbar_tension_suppressedprisoners"
 #: foo/data/language/base-language.txt:315
 msgid "= *X prisoners are suppressed (compliant)"
-msgstr "= *X malliberuloj subpremiĝas (konsentemas)"
+msgstr "= *X malliberuloj subpremighas (konsentemas)"
 
 #. Original key in file was "reform_interested"
 #: foo/data/language/base-language.txt:2580
@@ -6415,12 +6415,12 @@ msgstr ""
 #. Original key in file was "research_bodyarmour"
 #: foo/data/language/base-language.txt:1280
 msgid "Body Armour"
-msgstr "Korparmaĵo"
+msgstr "Korparmajho"
 
 #. Original key in file was "modnotification_popup_inactive"
 #: foo/data/language/base-language.txt:1114
 msgid "This mod is currently inactive. Click to activate."
-msgstr "Ĉi tiu ludredaktaĵo nune elŝaltitas. Alklaku por ŝalti."
+msgstr "chi tiu ludredaktajho nune elshaltitas. Alklaku por shalti."
 
 #. Original key in file was "objective_deathrow_designatecell"
 #: foo/data/language/base-language.txt:3012
@@ -6435,7 +6435,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_deployment_DeathRowZone"
 #: foo/data/language/base-language.txt:583
 msgid "Only 'death row' prisoners will be permitted to enter this sector."
-msgstr "Nur 'mortvicanaj' malliberuloj permesiĝos en ĉi tiu sektoro."
+msgstr "Nur 'mortvicanaj' malliberuloj permesighos en chi tiu sektoro."
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "codex_sortdate"
@@ -6565,7 +6565,7 @@ msgstr ""
 msgid ""
 "Only 'superMax' security prisoners will be permitted to enter this sector."
 msgstr ""
-"Nur 'supermaksimumsekurecaj' malliberuloj permesiĝos en ĉi tiu sektoro."
+"Nur 'supermaksimumsekurecaj' malliberuloj permesighos en chi tiu sektoro."
 
 #. Original key in file was "object_officedesk"
 #: foo/data/language/base-language.txt:2329
@@ -6585,7 +6585,7 @@ msgstr "Publikigita de vi"
 #. Original key in file was "interfacecontrol_todo"
 #: foo/data/language/base-language.txt:326
 msgid "Todo List"
-msgstr "Endaĵaro"
+msgstr "Endajharo"
 
 #. Original key in file was "researchtooltip_bodyarmour"
 #: foo/data/language/base-language.txt:1320
@@ -6741,7 +6741,7 @@ msgstr ""
 #. Original key in file was "dialog_loading"
 #: foo/data/language/base-language.txt:31
 msgid "Loading..."
-msgstr "Ŝarĝas ..."
+msgstr "sharghas ..."
 
 #. Original key in file was "needs_help_environment"
 #: foo/data/language/base-language.txt:1924
@@ -6824,7 +6824,7 @@ msgstr "Multspecimena"
 #. Original key in file was "interfacecontrol_todo_tooltip"
 #: foo/data/language/base-language.txt:327
 msgid "Toggle the todo list"
-msgstr "Baskuligi la endaĵaron"
+msgstr "Baskuligi la endajharon"
 
 #. Original key in file was "informant_onroute"
 #: foo/data/language/base-language.txt:2799
@@ -6834,7 +6834,7 @@ msgstr ""
 #. Original key in file was "interfacetopbar_tension_happyprisoners"
 #: foo/data/language/base-language.txt:310
 msgid "- *X prisoners say they are well treated"
-msgstr "- *X malliberuloj diras ke ili bone traktiĝas"
+msgstr "- *X malliberuloj diras ke ili bone traktighas"
 
 #. Original key in file was "crime_counterfeightingcurrency"
 #: foo/data/language/base-language.txt:3281
@@ -6932,7 +6932,7 @@ msgstr ""
 #. Original key in file was "codex_options_resolutionauto"
 #: foo/data/language/base-language.txt:853
 msgid "Auto"
-msgstr "Aŭtomate"
+msgstr "Automate"
 
 #. Original key in file was "buildtoolbar_popup_help_armedguard_2"
 #: foo/data/language/base-language.txt:662
@@ -6945,7 +6945,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_bangup"
 #: foo/data/language/base-language.txt:406
 msgid "Bangup"
-msgstr "Enĉeligi"
+msgstr "Encheligi"
 
 #. Original key in file was "needs_key_satisfied"
 #: foo/data/language/base-language.txt:1747
@@ -7056,7 +7056,7 @@ msgstr "Malfono"
 #. Original key in file was "buildtoolbar_popup_room_cell"
 #: foo/data/language/base-language.txt:455
 msgid "Where your prisoners live."
-msgstr "Kie viaj malliberuloj loĝas."
+msgstr "Kie viaj malliberuloj loghas."
 
 #. Original key in file was "objective_lessworkdemand"
 #: foo/data/language/base-language.txt:3231
@@ -7085,7 +7085,7 @@ msgid ""
 "guards research items."
 msgstr ""
 "Altnivela dungitarano kiu donas akceson al deplojado, gvatado, kaj "
-"kontraŭtumultgardistoj."
+"kontrautumultgardistoj."
 
 #. Original key in file was "soundeditor_positiontitle"
 #: foo/data/language/base-language.txt:98
@@ -7116,7 +7116,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_chair"
 #: foo/data/language/base-language.txt:485
 msgid "Goes brilliantly with a table."
-msgstr "Bone taŭgas kun tablo."
+msgstr "Bone taugas kun tablo."
 
 #. Original key in file was "adviser_deathrow_designation2"
 #: foo/data/language/base-language.txt:3009
@@ -7142,7 +7142,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_pooltable"
 #: foo/data/language/base-language.txt:516
 msgid "Remove the monotony of prison life with a game of pool."
-msgstr "Forigi la monotonecon de malliberejvivo per ludo de poŝbilardo."
+msgstr "Forigi la monotonecon de malliberejvivo per ludo de poshbilardo."
 
 #. Original key in file was "interfacetopbar_tooltip_totalguards"
 #: foo/data/language/base-language.txt:267
@@ -7297,13 +7297,13 @@ msgstr ""
 #: foo/data/language/base-language.txt:1115
 msgid "This is a new mod. Click to open it's link in a web browser."
 msgstr ""
-"Ĉi tio estas nova ludredaktaĵo. Alklaku por malfermi ĝian ligilon en "
+"chi tio estas nova ludredaktajho. Alklaku por malfermi ghian ligilon en "
 "retumilo."
 
 #. Original key in file was "codex_option_failure"
 #: foo/data/language/base-language.txt:916
 msgid "Failure Conditions"
-msgstr "Fiaskkondiĉoj"
+msgstr "Fiaskkondichoj"
 
 #. Original key in file was "job_makehighpriority_mac"
 #: foo/data/language/base-language.txt:764
@@ -7467,12 +7467,12 @@ msgstr ""
 #. Original key in file was "codex_workshop_download_bad"
 #: foo/data/language/base-language.txt:963
 msgid "Failed To Download Prison"
-msgstr "Fiaskis elŝuti malliberejon"
+msgstr "Fiaskis elshuti malliberejon"
 
 #. Original key in file was "interfacetopbar_tension_lockedupprisoners"
 #: foo/data/language/base-language.txt:312
 msgid "+ *X prisoners are shackled in their cells or in solitary"
-msgstr "+ *X malliberuloj kateniĝas en siaj ĉeloj aŭ izolĉelo"
+msgstr "+ *X malliberuloj katenighas en siaj cheloj au izolchelo"
 
 #. Original key in file was "interfacecallout_riotpolice"
 #: foo/data/language/base-language.txt:230
@@ -7490,7 +7490,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_contraband_informants"
 #: foo/data/language/base-language.txt:570
 msgid "Shows information gathered by your confidential informants."
-msgstr "Montras ĉiun informon atingitan de viaj konfidencaj informantoj."
+msgstr "Montras chiun informon atingitan de viaj konfidencaj informantoj."
 
 #. Original key in file was "soundeditor_attacktitle"
 #: foo/data/language/base-language.txt:107
@@ -7545,7 +7545,7 @@ msgstr ""
 #. Original key in file was "interfacedeployment_zonered"
 #: foo/data/language/base-language.txt:193
 msgid "Red Wing"
-msgstr "Ruĝa flanko"
+msgstr "Rugha flanko"
 
 #. Original key in file was "objective_payment_receivedpart"
 #: foo/data/language/base-language.txt:2069
@@ -7565,7 +7565,7 @@ msgstr ""
 #. Original key in file was "research_legalprep"
 #: foo/data/language/base-language.txt:1293
 msgid "Legal Prep"
-msgstr "Leĝpreparado"
+msgstr "Leghpreparado"
 
 #. Original key in file was "reputationtooltip_stoical"
 #: foo/data/language/base-language.txt:1978
@@ -7577,12 +7577,12 @@ msgstr ""
 #. Original key in file was "codex_restartchapter"
 #: foo/data/language/base-language.txt:827
 msgid "Restart Chapter"
-msgstr "Rekomenci ĉapitron"
+msgstr "Rekomenci chapitron"
 
 #. Original key in file was "buildtoolbar_popup_room_commonroom"
 #: foo/data/language/base-language.txt:474
 msgid "Allowing your prisoners some free time to relax."
-msgstr "Permesas al viaj malliberuloj iom da libertempo por malstreĉi."
+msgstr "Permesas al viaj malliberuloj iom da libertempo por malstrechi."
 
 #. Original key in file was "misconduct_report_recoving"
 #: foo/data/language/base-language.txt:1239
@@ -7592,7 +7592,7 @@ msgstr "Reakiras de *Xtoksomanio"
 #. Original key in file was "interfacetopbar_budget_moneyin"
 #: foo/data/language/base-language.txt:282
 msgid "Money In: $*M /day"
-msgstr "Enspezoj: $*M ĉiutage"
+msgstr "Enspezoj: $*M chiutage"
 
 #. Original key in file was "equipment_spatula"
 #: foo/data/language/base-language.txt:2523
@@ -7631,7 +7631,7 @@ msgstr ""
 #. Original key in file was "codex_unlocked"
 #: foo/data/language/base-language.txt:839
 msgid "Unlocked *X/*Y"
-msgstr "Malŝlositaj *X/*Y"
+msgstr "Malshlositaj *X/*Y"
 
 #. Original key in file was "interfacetopbar_tooltip_armedguards"
 #: foo/data/language/base-language.txt:276
@@ -7664,7 +7664,7 @@ msgstr "Distingivo"
 #. Original key in file was "buildtoolbar_deployment_SharedZone"
 #: foo/data/language/base-language.txt:577
 msgid "All prisoners will be allowed in this sector."
-msgstr "Ĉiuj malliberuloj permesiĝos en ĉi tiu sektoro."
+msgstr "chiuj malliberuloj permesighos en chi tiu sektoro."
 
 #. Original key in file was "event_removevisitationdemand_1"
 #: foo/data/language/base-language.txt:3187
@@ -7743,7 +7743,7 @@ msgstr "Horiltipo"
 #. Original key in file was "interfacetopbar_tension_angrygangmembers"
 #: foo/data/language/base-language.txt:320
 msgid "+ *X GANG MEMBERS ARE FURIOUS (leader being punished)"
-msgstr "+ *X BANDANOJ KOLEREGAS (bandestro puniĝas)"
+msgstr "+ *X BANDANOJ KOLEREGAS (bandestro punighas)"
 
 #. Original key in file was "codex_removeallrects"
 #: foo/data/language/base-language.txt:1074
@@ -7794,7 +7794,7 @@ msgstr ""
 #. Original key in file was "interfacemode_designation"
 #: foo/data/language/base-language.txt:141
 msgid "Rooms"
-msgstr "Ĉambroj"
+msgstr "chambroj"
 
 #. Original key in file was "dialogeditor_title"
 #: foo/data/language/base-language.txt:43
@@ -7863,7 +7863,7 @@ msgstr ""
 #. Original key in file was "scriptdebugger_title"
 #: foo/data/language/base-language.txt:1099
 msgid "Script Debugger (F3)"
-msgstr "Skripterarserĉilo (F3)"
+msgstr "Skripterarserchilo (F3)"
 
 #. Original key in file was "objective_grant_bootstraps_guard"
 #: foo/data/language/base-language.txt:2078
@@ -7984,9 +7984,9 @@ msgid ""
 "\n"
 "Like all Administrators, he requires an office to work."
 msgstr ""
-"Malŝlosas la laborestron.  Dungu lin en la dungitarilo.\n"
+"Malshlosas la laborestron.  Dungu lin en la dungitarilo.\n"
 "\n"
-"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+"Kiel chiuj administrantoj, li bezonas oficejon por funkcii."
 
 #. Original key in file was "buildtoolbar_popup_help_targettinglaundry_1"
 #: foo/data/language/base-language.txt:599
@@ -8131,10 +8131,10 @@ msgid ""
 "Also unlocks the Phone Tap system, which allows you to listen in on prisoner "
 "phone calls and gain vital intelligence."
 msgstr ""
-"Malŝlosas gvatkameraojn kaj sekurecekranojn.  Uzu ĉi tiujn por gvati "
+"Malshlosas gvatkameraojn kaj sekurecekranojn.  Uzu chi tiujn por gvati "
 "sengardistajn areojn de via malliberejo.\n"
 "\n"
-"Ankaŭ malŝlosas la telefongvatsistemon, kiu permesas al vi aŭskulti "
+"Ankau malshlosas la telefongvatsistemon, kiu permesas al vi auskulti "
 "malliberejtelefonalvokojn kaj atingi ecajn informojn."
 
 #. Original key in file was "finance_cost_grantfine"
@@ -8178,7 +8178,7 @@ msgstr ""
 #. Original key in file was "interfacetopbar_tension_increasing"
 #: foo/data/language/base-language.txt:307
 msgid "and is increasing"
-msgstr "kaj plialtiĝanta"
+msgstr "kaj plialtighanta"
 
 #. Original key in file was "objective_morefreetimedemand"
 #: foo/data/language/base-language.txt:3235
@@ -8220,7 +8220,7 @@ msgstr ""
 #. Original key in file was "research_timetounlock"
 #: foo/data/language/base-language.txt:1253
 msgid "Time to unlock : *X hours"
-msgstr "Malŝlostempo : *X horojn"
+msgstr "Malshlostempo : *X horojn"
 
 #. Original key in file was "buildtoolbar_popup_room_morgue"
 #: foo/data/language/base-language.txt:473
@@ -8235,7 +8235,7 @@ msgstr ""
 #. Original key in file was "failuremessage_maximumcountreached"
 #: foo/data/language/base-language.txt:772
 msgid "Max Hired Already"
-msgstr "Maksimumo jam dungiĝis"
+msgstr "Maksimumo jam dungighis"
 
 #. Original key in file was "object_drinkmachine"
 #: foo/data/language/base-language.txt:2369
@@ -8245,7 +8245,7 @@ msgstr ""
 #. Original key in file was "codex_workshop_publish"
 #: foo/data/language/base-language.txt:941
 msgid "Publish this prison"
-msgstr "Publikigi ĉi tiun malliberejon"
+msgstr "Publikigi chi tiun malliberejon"
 
 #. Original key in file was "equipment_clipboard"
 #: foo/data/language/base-language.txt:2527
@@ -8260,7 +8260,7 @@ msgstr "Ekstra subvencio"
 #. Original key in file was "punish_lockdown_24"
 #: foo/data/language/base-language.txt:1196
 msgid "Lockdown (24hrs)"
-msgstr "Enĉelŝlosi (24 horojn)"
+msgstr "Enchelshlosi (24 horojn)"
 
 #. Original key in file was "crime_manslaughter"
 #: foo/data/language/base-language.txt:3299
@@ -8280,7 +8280,7 @@ msgstr ""
 #. Original key in file was "interface_action_switchon"
 #: foo/data/language/base-language.txt:351
 msgid "Switch On"
-msgstr "Ŝalti"
+msgstr "shalti"
 
 #. Original key in file was "adviser_deathrow_church1"
 #: foo/data/language/base-language.txt:2968
@@ -8346,7 +8346,7 @@ msgstr ""
 #. Original key in file was "biography_search"
 #: foo/data/language/base-language.txt:1123
 msgid "Stop and Search"
-msgstr "Ĉesi kaj serĉi"
+msgstr "chesi kaj serchi"
 
 #. Original key in file was "adviser_deathrowelectricity_3"
 #: foo/data/language/base-language.txt:3056
@@ -8485,7 +8485,7 @@ msgstr "Postenoj"
 #. Original key in file was "interfacetopbar_prisoners_nocells"
 #: foo/data/language/base-language.txt:297
 msgid "*X Prisoners are unable to be assigned a cell"
-msgstr "Al *X nalliberuloj ne eblas asigniĝi ĉelon"
+msgstr "Al *X nalliberuloj ne eblas asignighi chelon"
 
 #. Original key in file was "dialog_h"
 #: foo/data/language/base-language.txt:19
@@ -8558,10 +8558,10 @@ msgid ""
 "\n"
 "Like all Administrators, he requires an office to work."
 msgstr ""
-"Malŝlosas la laborestron.  Li permesas al vi plu esplori aferojn kiel "
-"malliberejlaboron, aŭ aliajn dungitaranojn kiel la ĝardeniston.\n"
+"Malshlosas la laborestron.  Li permesas al vi plu esplori aferojn kiel "
+"malliberejlaboron, au aliajn dungitaranojn kiel la ghardeniston.\n"
 "\n"
-"Kiel ĉiuj administrantoj, li bezonas oficejon por labori."
+"Kiel chiuj administrantoj, li bezonas oficejon por labori."
 
 #. Original key in file was "codex_timelapse_savesettings"
 #: foo/data/language/base-language.txt:981
@@ -8681,7 +8681,7 @@ msgstr ""
 #. Original key in file was "interface_action_servoclose"
 #: foo/data/language/base-language.txt:358
 msgid "Close On Trigger"
-msgstr "Malfermi laŭ ellasilo"
+msgstr "Malfermi lau ellasilo"
 
 #. Original key in file was "objective_grant_basicsecurity_patrols"
 #: foo/data/language/base-language.txt:2126
@@ -8691,7 +8691,7 @@ msgstr ""
 #. Original key in file was "job_failed_toodangerous"
 #: foo/data/language/base-language.txt:757
 msgid "Too Dangerous"
-msgstr "Tro danĝere"
+msgstr "Tro danghere"
 
 #. Original key in file was "buildtoolbar_popup_help_accessonly_2"
 #: foo/data/language/base-language.txt:743
@@ -8729,7 +8729,7 @@ msgstr "L"
 #. Original key in file was "dialog_load"
 #: foo/data/language/base-language.txt:7
 msgid "Load"
-msgstr "Ŝarĝi"
+msgstr "sharghi"
 
 #. Original key in file was "need_name_warmth"
 #: foo/data/language/base-language.txt:1905
@@ -8784,7 +8784,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_room_nursery"
 #: foo/data/language/base-language.txt:480
 msgid "Activity room for prisoners with babies."
-msgstr "Aktivecĉambro por malliberuloj kun beboj."
+msgstr "Aktivecchambro por malliberuloj kun beboj."
 
 #. Original key in file was "dialog_y"
 #: foo/data/language/base-language.txt:16
@@ -8842,7 +8842,7 @@ msgstr ""
 #. Original key in file was "failuremessage_cantaffordupkeep"
 #: foo/data/language/base-language.txt:771
 msgid "Exceeds Daily Budget"
-msgstr "Superas ĉiutagbuĝeton"
+msgstr "Superas chiutagbugheton"
 
 #. Original key in file was "buildtoolbar_popup_help_gardener_3"
 #: foo/data/language/base-language.txt:676
@@ -8892,7 +8892,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_deployment_MinSecZone"
 #: foo/data/language/base-language.txt:578
 msgid "Only minimum security prisoners will be permitted to enter this sector."
-msgstr "Nur mimumsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
+msgstr "Nur mimumsekurecmalliberuloj permesighos en chi tiu sektoro."
 
 #. Original key in file was "buildtoolbar_popup_uts_waterpumpstation"
 #: foo/data/language/base-language.txt:542
@@ -8912,7 +8912,7 @@ msgstr ""
 #. Original key in file was "codex_mod_openmodsfolder"
 #: foo/data/language/base-language.txt:1014
 msgid "Open Mods Folder"
-msgstr "Malfermi ludredaktaĵdosierujon"
+msgstr "Malfermi ludredaktajhdosierujon"
 
 #. Original key in file was "report_intake_next_header"
 #: foo/data/language/base-language.txt:1465
@@ -8947,7 +8947,7 @@ msgstr ""
 #. Original key in file was "codex_timelapse_unsupported"
 #: foo/data/language/base-language.txt:980
 msgid "This feature is unavailable on your hardware."
-msgstr "Ĉi tiu funkcio nehaveblas en via aparataro."
+msgstr "chi tiu funkcio nehaveblas en via aparataro."
 
 #. Original key in file was "buildtoolbar_popup_uts_electricalcable"
 #: foo/data/language/base-language.txt:540
@@ -8972,7 +8972,7 @@ msgstr "Kontaktoj"
 #. Original key in file was "interfacetopbar_tension_decreasing"
 #: foo/data/language/base-language.txt:308
 msgid "and is decreasing"
-msgstr "kaj malplialtiĝanta"
+msgstr "kaj malplialtighanta"
 
 #. Original key in file was "reformerror_noroom"
 #: foo/data/language/base-language.txt:2573
@@ -9019,7 +9019,7 @@ msgstr ""
 #. Original key in file was "interfacelogistics_targettinglaundry"
 #: foo/data/language/base-language.txt:203
 msgid "Laundry Distribution"
-msgstr "Lavaĵdistribuo"
+msgstr "Lavajhdistribuo"
 
 #. Original key in file was "finance_cost_reformprogram"
 #: foo/data/language/base-language.txt:3118
@@ -9029,7 +9029,7 @@ msgstr ""
 #. Original key in file was "interface_action_doormodelockedopen"
 #: foo/data/language/base-language.txt:350
 msgid "Lock open"
-msgstr "Pordreĝimo: Ŝlosite malfermita"
+msgstr "Pordreghimo: shlosite malfermita"
 
 #. Original key in file was "punish_solitary_24"
 #: foo/data/language/base-language.txt:1199
@@ -9039,7 +9039,7 @@ msgstr "Enizolitecigi (24 horojn)"
 #. Original key in file was "codex_timelapse_cam_fitheight"
 #: foo/data/language/base-language.txt:985
 msgid "Fit Map Height"
-msgstr "Taŭgigi mapaltecon"
+msgstr "Taugigi mapaltecon"
 
 #. Original key in file was "objective_grant_maintenance_description"
 #: foo/data/language/base-language.txt:2105
@@ -9127,8 +9127,8 @@ msgid ""
 "Are you sure you wish to save with this file name? Existing data will be "
 "overwritten."
 msgstr ""
-"Ĉu vi certas ke vi volas konservi per ĉi tiu dosiernomo? Ekzistanta datumo "
-"superskribiĝos."
+"chu vi certas ke vi volas konservi per chi tiu dosiernomo? Ekzistanta datumo "
+"superskribighos."
 
 #. Original key in file was "equipment_pianowire"
 #: foo/data/language/base-language.txt:2529
@@ -9213,7 +9213,7 @@ msgid ""
 "unlock new items, staff types, and facilities."
 msgstr ""
 "Malfermas la Burokratidialogon, kie oni povas asigni siajn administrantojn "
-"por malŝlosi novajn aĵojn, dungittipojn, kaj instalaĵojn."
+"por malshlosi novajn ajhojn, dungittipojn, kaj instalajhojn."
 
 #. Original key in file was "objective_grant_maintenance_gardener"
 #: foo/data/language/base-language.txt:2111
@@ -9263,7 +9263,7 @@ msgstr "Nuna malliberejo"
 #. Original key in file was "interfacetopbar_budget_moneyout"
 #: foo/data/language/base-language.txt:283
 msgid "Money Out: $*M /day"
-msgstr "Elspezoj: $*M ĉiutage"
+msgstr "Elspezoj: $*M chiutage"
 
 #. Original key in file was "reputation_fighter_high"
 #: foo/data/language/base-language.txt:1964
@@ -9281,8 +9281,8 @@ msgid ""
 "Assign prisoners to work around your prison. Also manual control over the "
 "canteen and laundry assignments."
 msgstr ""
-"Destini malliberulojn labori dise en via malliberejo. Ankaŭ permana kontrolo "
-"de la manĝej- kaj lavejdestinoj."
+"Destini malliberulojn labori dise en via malliberejo. Ankau permana kontrolo "
+"de la manghej- kaj lavejdestinoj."
 
 #. Original key in file was "equipment_poison"
 #: foo/data/language/base-language.txt:2511
@@ -9343,7 +9343,7 @@ msgid ""
 "until you have hired an Accountant to manage your finances."
 msgstr ""
 "Oni ne povas havi negativan netenspezon (t.e. havi pli da elspezoj ol "
-"enspezoj) antaŭ ol oni dongis Kontiston administriontan je viaj financoj."
+"enspezoj) antau ol oni dongis Kontiston administriontan je viaj financoj."
 
 #. Original key in file was "victory_prisonersdied"
 #: foo/data/language/base-language.txt:1639
@@ -9374,14 +9374,14 @@ msgid ""
 "network. The pressure is much lower, so there is a limited length that a "
 "small pipe can run for before the pressure becomes too low."
 msgstr ""
-"Uziĝas por konekti aĵojn kiel necesujoj, duŝiloj, manlavujoj ktp al via "
-"granda pipreto. La premo multe pli malgrandas, do estas limigita longeco laŭ "
-"kiu malgranda pipo povas kuri antaŭ ol la premo tro malgrandiĝos."
+"Uzighas por konekti ajhojn kiel necesujoj, dushiloj, manlavujoj ktp al via "
+"granda pipreto. La premo multe pli malgrandas, do estas limigita longeco lau "
+"kiu malgranda pipo povas kuri antau ol la premo tro malgrandighos."
 
 #. Original key in file was "buildtoolbar_popup_obj_cooker"
 #: foo/data/language/base-language.txt:497
 msgid "Give your prisoners the life of luxury with hot food."
-msgstr "Doni al viaj malliberuloj la vivon de lukso per varma manĝaĵo."
+msgstr "Doni al viaj malliberuloj la vivon de lukso per varma manghajho."
 
 #. Original key in file was "crime_joyriding"
 #: foo/data/language/base-language.txt:3286
@@ -9396,7 +9396,7 @@ msgstr "Malgranda"
 #. Original key in file was "dialogcomponent_inputslider"
 #: foo/data/language/base-language.txt:64
 msgid "InputSlider"
-msgstr "Enigŝovilo"
+msgstr "Enigshovilo"
 
 #. Original key in file was "deploymentscheduler_schedulenow"
 #: foo/data/language/base-language.txt:2873
@@ -9428,7 +9428,7 @@ msgid ""
 "Some magic is already happening with Steam. Please wait for that to finish "
 "first, then try again."
 msgstr ""
-"Iu magio jam okazas rilate al Steam. Bonvole unue atendu tion finiĝi, kaj "
+"Iu magio jam okazas rilate al Steam. Bonvole unue atendu tion finighi, kaj "
 "tiam repenu."
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
@@ -9515,8 +9515,8 @@ msgid ""
 "Random derelict buildings will be left behind on your land, which you can "
 "use as you wish."
 msgstr ""
-"Hazardaj forlasitaj konstruaĵoj forlasiĝos sur via lando, kiun vi povas "
-"laŭvole uzi."
+"Hazardaj forlasitaj konstruajhoj forlasighos sur via lando, kiun vi povas "
+"lauvole uzi."
 
 #. Original key in file was "objective_reststaff_exhausted"
 #: foo/data/language/base-language.txt:2054
@@ -9587,7 +9587,7 @@ msgstr "Redimenttesto kuranta"
 #. Original key in file was "interfacetopbar_todo"
 #: foo/data/language/base-language.txt:240
 msgid "Todo"
-msgstr "Endaĵoj"
+msgstr "Endajhoj"
 
 #. Original key in file was "dialogeditor_back"
 #: foo/data/language/base-language.txt:44
@@ -9736,7 +9736,7 @@ msgstr ""
 #. Original key in file was "codex_mod_published_bad_msg"
 #: foo/data/language/base-language.txt:1033
 msgid "Your mod failed to publish."
-msgstr "Via ludredaktaĵo fiaskis publikiĝi."
+msgstr "Via ludredaktajho fiaskis publikighi."
 
 #. Original key in file was "equipment_mobilephone"
 #: foo/data/language/base-language.txt:2515
@@ -9791,7 +9791,7 @@ msgstr ""
 #. Original key in file was "modnotification_popup_title"
 #: foo/data/language/base-language.txt:1112
 msgid "Mod difference"
-msgstr "Ludredaktaĵdiferenco"
+msgstr "Ludredaktajhdiferenco"
 
 #. Original key in file was "buildtoolbar_quickbuild_clone"
 #: foo/data/language/base-language.txt:588
@@ -9805,7 +9805,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_solitarydoor"
 #: foo/data/language/base-language.txt:491
 msgid "A heavyset door to stop even the strongest of prisoners from escaping."
-msgstr "Fortega pordo por teni eĉ la plej fortajn el malliberuloj de eskapi."
+msgstr "Fortega pordo por teni ech la plej fortajn el malliberuloj de eskapi."
 
 #. Original key in file was "objective_virus"
 #: foo/data/language/base-language.txt:3227
@@ -9865,7 +9865,7 @@ msgstr ""
 #. Original key in file was "codex_timelapse_stop"
 #: foo/data/language/base-language.txt:971
 msgid "Stop Time Lapse"
-msgstr "Ĉesigi fulmfilmeton"
+msgstr "chesigi fulmfilmeton"
 
 #. Original key in file was "objective_grant_maintenance_research_cleaning"
 #: foo/data/language/base-language.txt:2107
@@ -9902,7 +9902,7 @@ msgid ""
 "Keeps the inside of your prison nice and tidy. Can also help with the prison "
 "laundry."
 msgstr ""
-"Tenas la enternon de via malliberejo pura kaj orda. Ankaŭ povas helpi pri "
+"Tenas la enternon de via malliberejo pura kaj orda. Ankau povas helpi pri "
 "malliberejlavado."
 
 #. Original key in file was "grant_category_completed"
@@ -9928,7 +9928,7 @@ msgstr "*X Senkapabligitaj"
 #. Original key in file was "interfacetopbar_tension_recentcalmed"
 #: foo/data/language/base-language.txt:322
 msgid "- *X prisoners have been calmed recently"
-msgstr "- *X malliberuloj lastatempe trankviliĝis"
+msgstr "- *X malliberuloj lastatempe trankvilighis"
 
 #. Original key in file was "report_intake_closed"
 #: foo/data/language/base-language.txt:1474
@@ -10068,7 +10068,7 @@ msgstr ""
 #. Original key in file was "research_legaldefense"
 #: foo/data/language/base-language.txt:1294
 msgid "Legal Defense"
-msgstr "Leĝdefendado"
+msgstr "Leghdefendado"
 
 #. Original key in file was "campaignchapter_deathrow_description"
 #: foo/data/language/base-language.txt:2958
@@ -10080,7 +10080,7 @@ msgstr ""
 #. Original key in file was "rapsheet_passchance"
 #: foo/data/language/base-language.txt:1176
 msgid "Success Chance"
-msgstr "Sukcesŝanco"
+msgstr "Sukcesshanco"
 
 #. Original key in file was "buildtoolbar_popup_obj_prayermat"
 #: foo/data/language/base-language.txt:520
@@ -10088,7 +10088,7 @@ msgid ""
 "Protect your prisoners from the dirty floor while they offer their prayers."
 msgstr ""
 "Protekti viajn malliberulojn de la malpura planko kiam ili ofertas siajn "
-"preĝojn."
+"preghojn."
 
 #. Original key in file was "samplebankeditor_title"
 #: foo/data/language/base-language.txt:126
@@ -10098,7 +10098,7 @@ msgstr "Sonpecujredaktilo"
 #. Original key in file was "interfacetopbar_tension_recentdeaths"
 #: foo/data/language/base-language.txt:318
 msgid "+ *X people have been killed recently"
-msgstr "+ *X homoj lastatempe mortigiĝis"
+msgstr "+ *X homoj lastatempe mortigighis"
 
 #. Original key in file was "rapsheet_category_normal"
 #: foo/data/language/base-language.txt:1158
@@ -10111,8 +10111,8 @@ msgid ""
 "Send all (willing) prisoners back to their cells. This will make your "
 "prisoners very angry if you leave them locked up for too long."
 msgstr ""
-"Sendi ĉiujn (akceptantajn) malliberulojn al siaj ĉeloj. Ĉi tio tre kolerigos "
-"viajn malliberulojn se vi lasos ilin enŝlositajn dum tro longe."
+"Sendi chiujn (akceptantajn) malliberulojn al siaj cheloj. chi tio tre kolerigos "
+"viajn malliberulojn se vi lasos ilin enshlositajn dum tro longe."
 
 #. Original key in file was "reputation_tough_high"
 #: foo/data/language/base-language.txt:1959
@@ -10122,12 +10122,12 @@ msgstr ""
 #. Original key in file was "interfacecontraband_source"
 #: foo/data/language/base-language.txt:221
 msgid "Dangers"
-msgstr "Danĝeroj"
+msgstr "Dangheroj"
 
 #. Original key in file was "interfacelogistics_roomquality"
 #: foo/data/language/base-language.txt:204
 msgid "Room Quality"
-msgstr "Ĉambrokvalito"
+msgstr "chambrokvalito"
 
 #. Original key in file was "crime_trafficking"
 #: foo/data/language/base-language.txt:3308
@@ -10162,7 +10162,7 @@ msgstr ""
 #. Original key in file was "codex_publishmod"
 #: foo/data/language/base-language.txt:1027
 msgid "Publish This Mod"
-msgstr "Publikigi ĉi tiun ludredaktaĵon"
+msgstr "Publikigi chi tiun ludredaktajhon"
 
 #. Original key in file was "execution_error_NoRouteFromRoad"
 #: foo/data/language/base-language.txt:2716
@@ -10190,10 +10190,10 @@ msgid ""
 "\n"
 "Like all Administrators, he requires an office to work."
 msgstr ""
-"Malŝlosas la advokaton, kiu povas dungiĝi en la dungitarilo. Malĝlosas iujn "
+"Malshlosas la advokaton, kiu povas dungighi en la dungitarilo. Malghlosas iujn "
 "esploreleketojn donantaj al vi pli bonan regon de via malliberejo.\n"
 "\n"
-"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+"Kiel chiuj administrantoj, li bezonas oficejon por funkcii."
 
 #. Original key in file was "codex_nitgs_downloadcomplete"
 #: foo/data/language/base-language.txt:900
@@ -10218,12 +10218,12 @@ msgstr ""
 #. Original key in file was "codex_settings_events"
 #: foo/data/language/base-language.txt:1067
 msgid "Enable Events"
-msgstr "Ŝalti okazaĵojn"
+msgstr "shalti okazajhojn"
 
 #. Original key in file was "buildtoolbar_popup_room_holdingcell"
 #: foo/data/language/base-language.txt:456
 msgid "A room where new recruits are placed until a cell is found for them."
-msgstr "Ĉambro kie novaj malliberuloj metiĝas antaŭ ol ĉelo por ili troviĝis."
+msgstr "chambro kie novaj malliberuloj metighas antau ol chelo por ili trovighis."
 
 #. Original key in file was "objective_feedallprisoners"
 #: foo/data/language/base-language.txt:2015
@@ -10282,7 +10282,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_sprinkler"
 #: foo/data/language/base-language.txt:509
 msgid "Automatically sprays the area with water in the event of a fire."
-msgstr "Aŭtomate spruĉas la areon per akvo kaze de fajro."
+msgstr "Automate spruchas la areon per akvo kaze de fajro."
 
 #. Original key in file was "crime_grossindecency"
 #: foo/data/language/base-language.txt:3320
@@ -10368,7 +10368,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_locked_administrator"
 #: foo/data/language/base-language.txt:428
 msgid "LOCKED (*B required)"
-msgstr "FERMITA (*B bezoniĝas)"
+msgstr "FERMITA (*B bezonighas)"
 
 #. Original key in file was "causeofdeath_executed"
 #: foo/data/language/base-language.txt:3348
@@ -10391,7 +10391,7 @@ msgid ""
 "The grand overseer of your prison. Required before you can research and hire "
 "advanced staff members."
 msgstr ""
-"La granda estro de via malliberejo. Bezonatas antaŭ ol vi povas esplori kaj "
+"La granda estro de via malliberejo. Bezonatas antau ol vi povas esplori kaj "
 "dungi altnivelajn dungitaranojn."
 
 #. Original key in file was "profiler_title"
@@ -10407,7 +10407,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_uts_statuslight"
 #: foo/data/language/base-language.txt:559
 msgid "Lights up either red or green, depending on the signal it is receiving."
-msgstr "Aŭ ruĝe aŭ verde lumiĝas depende de la signalo kiun ĝi ricevas."
+msgstr "Au rughe au verde lumighas depende de la signalo kiun ghi ricevas."
 
 #. Original key in file was "rapsheet_tab_experience"
 #: foo/data/language/base-language.txt:1164
@@ -10437,7 +10437,7 @@ msgstr "Kosto: *X"
 #. Original key in file was "buildtoolbar_popup_spawn"
 #: foo/data/language/base-language.txt:449
 msgid "Spawn? The fuck does this do?"
-msgstr "Aperigi? Kion la fek ĉi tio faras?"
+msgstr "Aperigi? Kion la fek chi tio faras?"
 
 #. Original key in file was "riot_status_prisoners"
 #: foo/data/language/base-language.txt:371
@@ -10470,7 +10470,7 @@ msgstr ""
 #. Original key in file was "codex_mainmenu"
 #: foo/data/language/base-language.txt:808
 msgid "Main Menu"
-msgstr "Ĉefa menuo"
+msgstr "chefa menuo"
 
 #. Original key in file was "reports_unlockbankloans"
 #: foo/data/language/base-language.txt:2834
@@ -10483,8 +10483,8 @@ msgid ""
 "When selected, lights will automatically be placed throughout your newly "
 "created buildings once they are finished."
 msgstr ""
-"Kiam elektita, lampoj aŭtomate dismetiĝos en viajn nove kreitajn "
-"konstruaĵojn kiam ili estas finitaj."
+"Kiam elektita, lampoj automate dismetighos en viajn nove kreitajn "
+"konstruajhojn kiam ili estas finitaj."
 
 #. Original key in file was "objective_massassassination_child"
 #: foo/data/language/base-language.txt:3230
@@ -10541,7 +10541,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_autolights"
 #: foo/data/language/base-language.txt:562
 msgid "Automatic Light Placement"
-msgstr "Aŭtomata lampmetado"
+msgstr "Automata lampmetado"
 
 #. Original key in file was "action_reformprogram"
 #: foo/data/language/base-language.txt:1828
@@ -10576,7 +10576,7 @@ msgstr "Minimuma Sekureco"
 #. Original key in file was "job_highpriority_tooltip"
 #: foo/data/language/base-language.txt:766
 msgid "- URGENT"
-msgstr "URĜE"
+msgstr "URghE"
 
 #. Original key in file was "experience_hurt"
 #: foo/data/language/base-language.txt:1877
@@ -10605,7 +10605,7 @@ msgstr "(*X Mallaborantaj)"
 #: foo/data/language/base-language.txt:145
 #: foo/data/language/base-language.txt:180
 msgid "Logistics"
-msgstr "Loĝistiko"
+msgstr "Loghistiko"
 
 #. Original key in file was "interfacemode_overlays"
 #: foo/data/language/base-language.txt:149
@@ -10615,7 +10615,7 @@ msgstr "Surmetoj"
 #. Original key in file was "buildtoolbar_deployment_MedSecZone"
 #: foo/data/language/base-language.txt:579
 msgid "Only medium security prisoners will be permitted to enter this sector."
-msgstr "Nur mezsekurecmalliberuloj permesiĝos en ĉi tiu sektoro."
+msgstr "Nur mezsekurecmalliberuloj permesighos en chi tiu sektoro."
 
 #. Original key in file was "doortimer_security_none"
 #: foo/data/language/base-language.txt:2669
@@ -10655,8 +10655,8 @@ msgid ""
 "what. We refer to it as the Chapel."
 msgstr ""
 "Kio okazas kiam burokratia komitato kunvenas kaj elpensas solvon al la "
-"religiaj bezonoj de malliberuloj? 'Plurkreda Preĝĉambro', tio estas kio. Ni "
-"nomas ĝin la Kapelo."
+"religiaj bezonoj de malliberuloj? 'Plurkreda Preghchambro', tio estas kio. Ni "
+"nomas ghin la Kapelo."
 
 #. Original key in file was "objective_grant_furnituremanufacturing_description"
 #: foo/data/language/base-language.txt:2175
@@ -10683,7 +10683,7 @@ msgstr ""
 #. Original key in file was "codex_timelapse_camera"
 #: foo/data/language/base-language.txt:972
 msgid "Camera Mode"
-msgstr "Kamerareĝimo"
+msgstr "Kamerareghimo"
 
 #. Original key in file was "finances_category_noincident"
 #: foo/data/language/base-language.txt:1615
@@ -10893,7 +10893,7 @@ msgid ""
 "plates."
 msgstr ""
 "Kien vi sendas viajn malliberulojn por morti pro enueco farante "
-"aŭtolicensplatojn por vi."
+"autolicensplatojn por vi."
 
 #. Original key in file was "connectionmenu_disconnect"
 #: foo/data/language/base-language.txt:395
@@ -10903,12 +10903,12 @@ msgstr "Malkonekti"
 #. Original key in file was "dialogcomponent_custom"
 #: foo/data/language/base-language.txt:57
 msgid "Custom"
-msgstr "Laŭmende"
+msgstr "Laumende"
 
 #. Original key in file was "failuremessage_cantafford"
 #: foo/data/language/base-language.txt:770
 msgid "Insufficient Funds"
-msgstr "Malsufiĉa mono"
+msgstr "Malsuficha mono"
 
 #. #-#-#-#-#  - (PrisonArchitect 0.0.1)  #-#-#-#-#
 #. Original key in file was "roomgrading_sharedcell_roomsize"
@@ -10945,8 +10945,8 @@ msgid ""
 "A variable-size room for housing multiple prisoners. The bigger the "
 "dormitory, the more prisoners it can house."
 msgstr ""
-"Variablograndeca ĉambro por loĝigi plurajn malliberulojn. Ju pli granda la "
-"loĝejo des pli da malliberuloj eblas al ĝi loĝigi."
+"Variablograndeca chambro por loghigi plurajn malliberulojn. Ju pli granda la "
+"loghejo des pli da malliberuloj eblas al ghi loghigi."
 
 #. Original key in file was "reformprogram_tazertrained"
 #: foo/data/language/base-language.txt:2560
@@ -10971,7 +10971,7 @@ msgstr "Konataj trajtoj:"
 #. Original key in file was "buildtoolbar_popup_foundations"
 #: foo/data/language/base-language.txt:437
 msgid "Construct/Demolish buildings in order to shape your prison."
-msgstr "Konstruu/Malkonstruu konstruaĵojn por formigi vian malliberejon."
+msgstr "Konstruu/Malkonstruu konstruajhojn por formigi vian malliberejon."
 
 #. Original key in file was "object_appealsmagistrate"
 #: foo/data/language/base-language.txt:2409
@@ -10996,7 +10996,7 @@ msgstr "Mortvicana kapacito: *X"
 #. Original key in file was "interfacetopbar_title_budget"
 #: foo/data/language/base-language.txt:248
 msgid "Daily Cashflow"
-msgstr "Ĉiutaga netenspezo"
+msgstr "chiutaga netenspezo"
 
 #. Original key in file was "action_urinate"
 #: foo/data/language/base-language.txt:1813
@@ -11078,7 +11078,7 @@ msgstr ""
 #. Original key in file was "codex_language_searching_workshop"
 #: foo/data/language/base-language.txt:1044
 msgid "Searching Steam Workshop"
-msgstr "Serĉas en Steam Workshop"
+msgstr "Serchas en Steam Workshop"
 
 #. Original key in file was "sector_jobs_max"
 #: foo/data/language/base-language.txt:377
@@ -11150,10 +11150,10 @@ msgid ""
 "causing trouble within the prison walls before taking a target down. "
 "Escaping prisoners are given no such warnings."
 msgstr ""
-"Tre sperta pafisto kiu aŭtomate okupos malplenan gardistturo se eblas. Pafos "
+"Tre sperta pafisto kiu automate okupos malplenan gardistturo se eblas. Pafos "
 "nombron da avertpafoj al malliberuloj tumultantaj ene de la muroj de la "
-"malliberejo antaŭ ol ili mortigos malliberulon. Eskapantaj malliberuloj ne "
-"avertiĝas."
+"malliberejo antau ol ili mortigos malliberulon. Eskapantaj malliberuloj ne "
+"avertighas."
 
 #. Original key in file was "score_minimumprisonersreleased"
 #: foo/data/language/base-language.txt:1694
@@ -11166,7 +11166,7 @@ msgid ""
 "Order an immediate search of all Cells. This will take some time and will "
 "annoy the hell out of your inmates."
 msgstr ""
-"Mendi tujan ekzamenon de ĉiuj ĉeloj. Ĉi tio daŭros dum longe kaj ĝenegos "
+"Mendi tujan ekzamenon de chiuj cheloj. chi tio dauros dum longe kaj ghenegos "
 "viajn malliberulojn."
 
 #. Original key in file was "event_removevisitationdemand_fine"
@@ -11190,7 +11190,7 @@ msgstr "Forigu utilecobjekton el via malliberejo."
 #. Original key in file was "interfacetopbar_tension_recentsearches"
 #: foo/data/language/base-language.txt:319
 msgid "+ *X prisoners have been unnecessarily searched recently"
-msgstr "+ *X malliberuloj nenecese lastatempe traserĉiĝis"
+msgstr "+ *X malliberuloj nenecese lastatempe traserchighis"
 
 #. Original key in file was "reformprogram_therapy_text"
 #: foo/data/language/base-language.txt:2566
@@ -11261,7 +11261,7 @@ msgstr ""
 #. Original key in file was "interface_action_switchoff"
 #: foo/data/language/base-language.txt:352
 msgid "Switch Off"
-msgstr "Elŝalti"
+msgstr "Elshalti"
 
 #. Original key in file was "reputationtooltip_strong"
 #: foo/data/language/base-language.txt:1975
@@ -11286,7 +11286,7 @@ msgstr ""
 #. Original key in file was "codex_useravatar"
 #: foo/data/language/base-language.txt:936
 msgid "This is me"
-msgstr "Ĉi tiu estas mi"
+msgstr "chi tiu estas mi"
 
 #. Original key in file was "buildtoolbar_popup_uts_DoorControlSystem"
 #: foo/data/language/base-language.txt:548
@@ -11300,20 +11300,20 @@ msgid ""
 "Note: You can connect this to as many Servos as you wish, however the Guard "
 "operating the system can open a maximum of two doors per second."
 msgstr ""
-"Dezajnita por esti en sekurecĉambro, kaj regita de gardisto. Povas uziĝi por "
+"Dezajnita por esti en sekurecchambro, kaj regita de gardisto. Povas uzighi por "
 "de malproksimo malfermi pordojn dise en via malliberejo.\n"
 "\n"
-"Uzu la konektilon por konekti ĉi tiun sistemon al viaj pordservoj. La "
-"pordservoj konstruiĝu super la porodoj kiujn vi volas demalproksime regi.\n"
+"Uzu la konektilon por konekti chi tiun sistemon al viaj pordservoj. La "
+"pordservoj konstruighu super la porodoj kiujn vi volas demalproksime regi.\n"
 "\n"
-"Notu: Vi povas konekti ĉi tiun al kiel vole plej multe da servoj, tamen la "
+"Notu: Vi povas konekti chi tiun al kiel vole plej multe da servoj, tamen la "
 "gardisto reganta la sistemon povas malfermi maksimumon da du pordoj po "
 "sekundo."
 
 #. Original key in file was "buildtoolbar_deployment_StaffOnlyZone"
 #: foo/data/language/base-language.txt:584
 msgid "Only staff will be permitted to enter this sector."
-msgstr "Nur dungitaranoj permesiĝos en ĉi tiu sektoro."
+msgstr "Nur dungitaranoj permesighos en chi tiu sektoro."
 
 #. Original key in file was "equipment_screwdriver"
 #: foo/data/language/base-language.txt:2517
@@ -11333,7 +11333,7 @@ msgstr ""
 #. Original key in file was "research_costperitem"
 #: foo/data/language/base-language.txt:1252
 msgid "+ *X per item."
-msgstr "+ *X po aĵo."
+msgstr "+ *X po ajho."
 
 #. Original key in file was "research_finance"
 #: foo/data/language/base-language.txt:1264
@@ -11363,7 +11363,7 @@ msgstr ""
 #. Original key in file was "research_lowertaxes2"
 #: foo/data/language/base-language.txt:1285
 msgid "Offshore Tax Haven"
-msgstr "Eksterlanda impostrifuĝejo"
+msgstr "Eksterlanda impostrifughejo"
 
 #. Original key in file was "reformprogram_kitcheninduction"
 #: foo/data/language/base-language.txt:2551
@@ -11401,7 +11401,7 @@ msgid ""
 "Let your prisoners see the sun for a few hours a day under the watchful eye "
 "of your sniper towers."
 msgstr ""
-"Lasu al viaj malliberuloj vidi la sunon dum malmulte da horoj ĉiutago "
+"Lasu al viaj malliberuloj vidi la sunon dum malmulte da horoj chiutago "
 "gardeme spekate de viaj fusilistturoj."
 
 #. Original key in file was "interface_action_dismiss"
@@ -11437,7 +11437,7 @@ msgstr "Retadreso"
 #. Original key in file was "buildtoolbar_popup_properties"
 #: foo/data/language/base-language.txt:451
 msgid "Find out about shit."
-msgstr "Eltrovi pri aĵaĉoj."
+msgstr "Eltrovi pri ajhachoj."
 
 #. Original key in file was "reform_program_intake_parole"
 #: foo/data/language/base-language.txt:2607
@@ -11469,12 +11469,12 @@ msgid ""
 "\n"
 "Like all Administrators, he requires an office to work."
 msgstr ""
-"Malŝlosas la sekurecestron, kiu povas dungiĝi pere de la dungitarilo.  La "
-"sekurecestro donas al vi akceson al la deplojdialogo, kaj ankaŭ realtempan "
-"raporton de la danĝernivelo de via malliberejo, ofte antaŭdirantan "
+"Malshlosas la sekurecestron, kiu povas dungighi pere de la dungitarilo.  La "
+"sekurecestro donas al vi akceson al la deplojdialogo, kaj ankau realtempan "
+"raporton de la danghernivelo de via malliberejo, ofte antaudirantan "
 "estontecajn problemojn.\n"
 "\n"
-"Kiel ĉiuj administrantoj, li bezonas oficejon por funkcii."
+"Kiel chiuj administrantoj, li bezonas oficejon por funkcii."
 
 #. Original key in file was "research_remoteaccess"
 #: foo/data/language/base-language.txt:1286
@@ -11501,7 +11501,7 @@ msgstr ""
 #. Original key in file was "rapsheet_bio_long"
 #: foo/data/language/base-language.txt:1156
 msgid "Sentenced to *Y years for multiple crimes including *A, *B, and *C."
-msgstr "Juĝiĝis *Y jarojn pro pluraj krimoj inkluzive *A, *B, kaj *C."
+msgstr "Jughighis *Y jarojn pro pluraj krimoj inkluzive *A, *B, kaj *C."
 
 #. Original key in file was "interfacecallout_armedpolice"
 #: foo/data/language/base-language.txt:231
@@ -11576,7 +11576,7 @@ msgid ""
 "Your prison will be sent boxes of discarded and used books from around the "
 "country. Prisoners will need to sort those books onto the shelves."
 msgstr ""
-"Al via malliberejo sendos skatolojn da elĵetitaj kaj uzitaj libroj dise el "
+"Al via malliberejo sendos skatolojn da eljhetitaj kaj uzitaj libroj dise el "
 "la lando. Malliberuloj devos sorti tiujn librojn en la bretojn."
 
 #. Original key in file was "dialogcomponent_dropdownmenu"
@@ -11587,7 +11587,7 @@ msgstr "Menuo"
 #. Original key in file was "interfacetopbar_tension_recentpunishments"
 #: foo/data/language/base-language.txt:321
 msgid "= (DETERRENT) *X punishments have been handed down recently"
-msgstr "= (MALINSTIGO) *X punoj lastatempe doniĝas"
+msgstr "= (MALINSTIGO) *X punoj lastatempe donighas"
 
 #. Original key in file was "prisoner_roomquality_average"
 #: foo/data/language/base-language.txt:2766
@@ -11631,7 +11631,7 @@ msgstr ""
 #. Original key in file was "codex_settings_weather"
 #: foo/data/language/base-language.txt:1068
 msgid "Enable Weather"
-msgstr "Ŝalti veteron"
+msgstr "shalti veteron"
 
 #. Original key in file was "objective_agitatingradio"
 #: foo/data/language/base-language.txt:3237
@@ -11673,12 +11673,12 @@ msgstr ""
 #. Original key in file was "codex_sortbycaption"
 #: foo/data/language/base-language.txt:1055
 msgid "Sort By:"
-msgstr "Sorti laŭ:"
+msgstr "Sorti lau:"
 
 #. Original key in file was "interface_action_search"
 #: foo/data/language/base-language.txt:343
 msgid "Search"
-msgstr "Traserĉi"
+msgstr "Traserchi"
 
 #. Original key in file was "crime_aggravatedburglary"
 #: foo/data/language/base-language.txt:3271
@@ -11706,7 +11706,7 @@ msgstr ""
 #. Original key in file was "research_requireunlock"
 #: foo/data/language/base-language.txt:1249
 msgid "You need to research '*X' to unlock this report"
-msgstr "Vi devas esplori je '*X' por malŝlosi ĉi tiun raporton"
+msgstr "Vi devas esplori je '*X' por malshlosi chi tiun raporton"
 
 #. Original key in file was "buildtoolbar_title"
 #: foo/data/language/base-language.txt:404
@@ -11721,7 +11721,7 @@ msgstr ""
 #. Original key in file was "modnotification_inactive"
 #: foo/data/language/base-language.txt:1109
 msgid "Inactive"
-msgstr "Elŝaltita"
+msgstr "Elshaltita"
 
 #. Original key in file was "crime_indievideogamepiracy"
 #: foo/data/language/base-language.txt:3315
@@ -11745,8 +11745,8 @@ msgid ""
 "prisoners and staff will be taken to the Infirmary and Doctors will patch "
 "them up."
 msgstr ""
-"Malŝlosas la kuraciston, kuracejon kaj la mortulejon.  Vunditaj malliberuloj "
-"kaj dungitaranoj preniĝos al la kurecejo kaj kuracistoj kuracos ilin."
+"Malshlosas la kuraciston, kuracejon kaj la mortulejon.  Vunditaj malliberuloj "
+"kaj dungitaranoj prenighos al la kurecejo kaj kuracistoj kuracos ilin."
 
 #. Original key in file was "object_roadgate"
 #: foo/data/language/base-language.txt:2258
@@ -11804,7 +11804,7 @@ msgstr ""
 #. Original key in file was "interface_action_dump"
 #: foo/data/language/base-language.txt:340
 msgid "Dump"
-msgstr "Forĵeti"
+msgstr "Forjheti"
 
 #. Original key in file was "prisoner_assignedto"
 #: foo/data/language/base-language.txt:2764
@@ -11829,7 +11829,7 @@ msgstr "Vi jam publikigis malliberejon tiunoman. Bonvole elektu alian."
 #: foo/data/language/base-language.txt:261
 msgid ""
 "The overall danger level of your prison, according to your security chief."
-msgstr "La entuta danĝernivelo de via malliberejo laŭ via sekurecestro."
+msgstr "La entuta danghernivelo de via malliberejo lau via sekurecestro."
 
 #. Original key in file was "codex_options_highdpi"
 #: foo/data/language/base-language.txt:855
@@ -11913,7 +11913,7 @@ msgstr ""
 #: foo/data/language/base-language.txt:506
 msgid "A place to hold the narcotics until your prisoners steal them."
 msgstr ""
-"Loko por teni viajn narkotaĵojn antaŭ ol viaj malliberuloj ŝtelas ilin."
+"Loko por teni viajn narkotajhojn antau ol viaj malliberuloj shtelas ilin."
 
 #. Original key in file was "valuation_stock"
 #: foo/data/language/base-language.txt:1511
@@ -11923,7 +11923,7 @@ msgstr ""
 #. Original key in file was "rapsheet_age"
 #: foo/data/language/base-language.txt:1141
 msgid "Age:"
-msgstr "Aĝo:"
+msgstr "Agho:"
 
 #. Original key in file was "codex_option_unlimitedfunds"
 #: foo/data/language/base-language.txt:918
@@ -12005,10 +12005,10 @@ msgid ""
 "is too high. Use a small pipe for that."
 msgstr ""
 "Distribuas grandan volumon da akvo dise en via malliberejo, per alta premo. "
-"Verŝajne sufiĉe granda por ke iu povu rampi al libereco tra kvincent jardojn "
+"Vershajne sufiche granda por ke iu povu rampi al libereco tra kvincent jardojn "
 "da fekodora stulteco.\n"
 "\n"
-"N.B: Ĝenerale ne uziĝas por konekti al malavujoj, duŝkapoj ktp. - la premo "
+"N.B: ghenerale ne uzighas por konekti al malavujoj, dushkapoj ktp. - la premo "
 "tro altas. Uzu malgrandan pipon por tio."
 
 #. Original key in file was "dialogcomponent_iconbox"
@@ -12019,7 +12019,7 @@ msgstr "Ikonujo"
 #. Original key in file was "dialog_width"
 #: foo/data/language/base-language.txt:11
 msgid "Width"
-msgstr "Larĝeco"
+msgstr "Largheco"
 
 #. Original key in file was "adviser_deathrow_setupexecution3"
 #: foo/data/language/base-language.txt:3094
@@ -12056,7 +12056,7 @@ msgstr "Granda"
 #. Original key in file was "buildtoolbar_popup_room_kennel"
 #: foo/data/language/base-language.txt:475
 msgid "Where your dogs live."
-msgstr "Kie viaj hundoj loĝas."
+msgstr "Kie viaj hundoj loghas."
 
 #. Original key in file was "adviser_deathrow_setupexecution6"
 #: foo/data/language/base-language.txt:3098
@@ -12133,13 +12133,13 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_room_kitchen"
 #: foo/data/language/base-language.txt:462
 msgid "Area for cooks to prepare food for your prisoners."
-msgstr "Areo por kuiristoj kuiri manĝojn por viaj malliberuloj."
+msgstr "Areo por kuiristoj kuiri manghojn por viaj malliberuloj."
 
 #. Original key in file was "buildtoolbar_deployment_UnlockedZone"
 #: foo/data/language/base-language.txt:585
 msgid ""
 "Anyone will be permitted to enter this zone, and all doors will be unlocked."
-msgstr "Ĉiuj permesiĝos en ĉi tiu sektoro, kaj ĉiuj pordoj estos malfermitaj."
+msgstr "chiuj permesighos en chi tiu sektoro, kaj chiuj pordoj estos malfermitaj."
 
 #. Original key in file was "objective_grant_enhancedsecurity_guards"
 #: foo/data/language/base-language.txt:2133
@@ -12199,7 +12199,7 @@ msgid ""
 "start, without having to worry or wait for more later."
 msgstr ""
 "Pura Provejo! Vi povas elspezi kiom vole plej multe ekde la komenco, sen "
-"devi maltrankviliĝi aŭ atendi pli ĝis poste."
+"devi maltrankvilighi au atendi pli ghis poste."
 
 #. Original key in file was "interfaceplanning_zone1"
 #: foo/data/language/base-language.txt:211
@@ -12275,7 +12275,7 @@ msgstr "Unu jaron"
 #: foo/data/language/base-language.txt:1045
 msgid ""
 "This translation is created and maintained by the community - Thank You!"
-msgstr "Ĉi tiu traduko estas kreita kaj traktita de la komunumo - Dankon!"
+msgstr "chi tiu traduko estas kreita kaj traktita de la komunumo - Dankon!"
 
 #. Original key in file was "interfaceplanning_zone5"
 #: foo/data/language/base-language.txt:215
@@ -12369,7 +12369,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_room_garbage"
 #: foo/data/language/base-language.txt:467
 msgid "Where your waste is collected from."
-msgstr "El kie via rubaĵo kolektiĝas."
+msgstr "El kie via rubajho kolektighas."
 
 #. Original key in file was "prisoner_cellerror_toohighquality"
 #: foo/data/language/base-language.txt:2941
@@ -12394,7 +12394,7 @@ msgstr "Malliberejpolitiko"
 #. Original key in file was "buildtoolbar_wired"
 #: foo/data/language/base-language.txt:434
 msgid "- Wired (connects to other wired objects)"
-msgstr "- Dratita (konektas al aliaj dratitaĵoj)"
+msgstr "- Dratita (konektas al aliaj dratitajhoj)"
 
 #. Original key in file was "reformprogram_deathrowappeal"
 #: foo/data/language/base-language.txt:2558
@@ -12491,12 +12491,12 @@ msgstr ""
 #. Original key in file was "codex_mod_update"
 #: foo/data/language/base-language.txt:1029
 msgid "Update This Mod"
-msgstr "Ĝisdatigi ĉi tiun ludredaktaĵon"
+msgstr "ghisdatigi chi tiun ludredaktajhon"
 
 #. Original key in file was "codex_steamtrending"
 #: foo/data/language/base-language.txt:833
 msgid "Most Popular Prisons (Steam)"
-msgstr "Plej ŝatataj malliberejoj (Steam)"
+msgstr "Plej shatataj malliberejoj (Steam)"
 
 #. Original key in file was "job_failed_nomaterials"
 #: foo/data/language/base-language.txt:756
@@ -12509,8 +12509,8 @@ msgid ""
 "Show the sources of Contraband, and all recently recovered contraband in "
 "your prison. Also shows your Confidential Informants and their information."
 msgstr ""
-"Vidi la fontojn de kontrabando, kaj ĉiun lastatempe retrovitan kontrabandon "
-"en via malliberejo. Ankaŭ montras viajn Konfidencajn Informantantojn kaj "
+"Vidi la fontojn de kontrabando, kaj chiun lastatempe retrovitan kontrabandon "
+"en via malliberejo. Ankau montras viajn Konfidencajn Informantantojn kaj "
 "iliajn informojn."
 
 #. Original key in file was "objective_grant_cellblock50"
@@ -12567,7 +12567,7 @@ msgstr "Trovis armilojn"
 #: foo/data/language/base-language.txt:465
 msgid "Area designated to hold any materials your prison staff need."
 msgstr ""
-"Areo detinita por teni ĉiujn materialojn kiujn via malliberejdungitaro "
+"Areo detinita por teni chiujn materialojn kiujn via malliberejdungitaro "
 "bezonas."
 
 #. Original key in file was "object_capacitor"
@@ -12700,8 +12700,8 @@ msgid ""
 "Unlocks the Janitor.  He will clean all the indoor areas of your prison and "
 "can also help with the prison laundry service."
 msgstr ""
-"Malŝlosas la laviston.  Li purigos ĉiujn enternajn areojn de via malliberejo "
-"kaj ankaŭ povas helpi pri la malliberejlavservo."
+"Malshlosas la laviston.  Li purigos chiujn enternajn areojn de via malliberejo "
+"kaj ankau povas helpi pri la malliberejlavservo."
 
 #. Original key in file was "report_staff_group_prisoners_normal"
 #: foo/data/language/base-language.txt:1452
@@ -12731,7 +12731,7 @@ msgstr "Toksomania je *X"
 #. Original key in file was "buildtoolbar_popup_obj_filingcabinet"
 #: foo/data/language/base-language.txt:505
 msgid "Your staff need to keep the things they write ordered nicely."
-msgstr "Via dungitaro bezonas restigi al siaj surpaperigaĵoj esti ordaj."
+msgstr "Via dungitaro bezonas restigi al siaj surpaperigajhoj esti ordaj."
 
 #. Original key in file was "soundchannelviewer_title"
 #: foo/data/language/base-language.txt:94
@@ -12755,7 +12755,7 @@ msgstr ""
 #. Original key in file was "codex_settings_gangs"
 #: foo/data/language/base-language.txt:1066
 msgid "Enable Gangs"
-msgstr "Ŝalti bandojn"
+msgstr "shalti bandojn"
 
 #. Original key in file was "codex_tooltip_funds"
 #: foo/data/language/base-language.txt:930
@@ -12763,8 +12763,8 @@ msgid ""
 "You will start with this much money in your bank account. Sell your "
 "established prisons from the Valuation screen to start with more funds."
 msgstr ""
-"Vi komenciĝos kun ĉi tiom da mono en via bankkonto. Vendu viajn establiitajn "
-"malliberejojn per la taksadekrano por komenciĝi kun pli da financoj."
+"Vi komencighos kun chi tiom da mono en via bankkonto. Vendu viajn establiitajn "
+"malliberejojn per la taksadekrano por komencighi kun pli da financoj."
 
 #. Original key in file was "reports_decreaseloan"
 #: foo/data/language/base-language.txt:2833
@@ -12776,7 +12776,7 @@ msgstr ""
 msgid ""
 "Do you wish to keep these graphics options? These changes will revert in"
 msgstr ""
-"Ĉu vi volas pluhavi ĉi tiujn grafikagordojn? Ĉi tiuj ŝanĝoj malfariĝos post"
+"chu vi volas pluhavi chi tiujn grafikagordojn? chi tiuj shanghoj malfarighos post"
 
 #. Original key in file was "prisoner_roomquality_waybelowaverage"
 #: foo/data/language/base-language.txt:2770
@@ -12830,7 +12830,7 @@ msgstr "Destini areojn de via malliberejo per specifa funkcio."
 #. Original key in file was "codex_trending_alltime"
 #: foo/data/language/base-language.txt:1061
 msgid "All Time"
-msgstr "Ĉiam"
+msgstr "chiam"
 
 #. Original key in file was "object_stack"
 #: foo/data/language/base-language.txt:2243
@@ -12961,7 +12961,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_walk_speed"
 #: foo/data/language/base-language.txt:422
 msgid "Walk Speed : *S"
-msgstr "Marŝrapideco : *S"
+msgstr "Marshrapideco : *S"
 
 #. Original key in file was "weathermap_temperature_c"
 #: foo/data/language/base-language.txt:2913
@@ -12981,7 +12981,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_morgueslab"
 #: foo/data/language/base-language.txt:507
 msgid "Ensure the dead have a respectful place to rest before moving."
-msgstr "Certigi ke mortuloj havas respektan lokon por resti antaŭ transloĝo."
+msgstr "Certigi ke mortuloj havas respektan lokon por resti antau translogho."
 
 #. Original key in file was "interface_action_rapsheet"
 #: foo/data/language/base-language.txt:360
@@ -13004,8 +13004,8 @@ msgid ""
 "Causes events to occur during the game to keep you on your toes. Adds extra "
 "challenge and an element of unpredictability."
 msgstr ""
-"Kaŭzas okazaĵojn pli ofte okazi dum la ludo por restigi vin maldorma. "
-"Aldonas ekstran defion kaj neantaŭdireblecon."
+"Kauzas okazajhojn pli ofte okazi dum la ludo por restigi vin maldorma. "
+"Aldonas ekstran defion kaj neantaudireblecon."
 
 #. Original key in file was "weathermap_temperature_f"
 #: foo/data/language/base-language.txt:2914
@@ -13030,7 +13030,7 @@ msgstr "Armitaj patroloj"
 #. Original key in file was "codex_loadcampaign"
 #: foo/data/language/base-language.txt:813
 msgid "Load Campaign"
-msgstr "Ŝarĝi kampanjon"
+msgstr "sharghi kampanjon"
 
 #. Original key in file was "object_electricalcable"
 #: foo/data/language/base-language.txt:2338
@@ -13089,7 +13089,7 @@ msgstr ""
 #. Original key in file was "biography_prisoner_sentenced"
 #: foo/data/language/base-language.txt:1130
 msgid "Sentenced to *X years in jail"
-msgstr "Juĝiĝis *X jarojn en malliberejo"
+msgstr "Jughighis *X jarojn en malliberejo"
 
 #. Original key in file was "buildtoolbar_popup_staff_doctor"
 #: foo/data/language/base-language.txt:526
@@ -13097,7 +13097,7 @@ msgid ""
 "Automatically heals all nearby injured people, whether they are guards or "
 "prisoners."
 msgstr ""
-"Aŭtomate kuracos ĉiujn proksimajn homojn, senpense ĉu ili estas gardistoj aŭ "
+"Automate kuracos chiujn proksimajn homojn, senpense chu ili estas gardistoj au "
 "malliberuloj."
 
 #. Original key in file was "buildtoolbar_popup_room_security"
@@ -13126,18 +13126,18 @@ msgid ""
 "\n"
 "Thank you!"
 msgstr ""
-"Laŭ via permeso, plaĉus al ni kolekti la sekvajn aparatardatumojn el via "
+"Lau via permeso, plachus al ni kolekti la sekvajn aparatardatumojn el via "
 "komputilo.\n"
 "\n"
-"Ĉi tiuj informoj tute anonimas kaj helpos nin certigi ke Prison Architect "
-"subteniĝas en kiel eble plej multe da komputilaparataro.\n"
+"chi tiuj informoj tute anonimas kaj helpos nin certigi ke Prison Architect "
+"subtenighas en kiel eble plej multe da komputilaparataro.\n"
 "\n"
 "Dankon!"
 
 #. Original key in file was "interfacemode_cutscenes"
 #: foo/data/language/base-language.txt:157
 msgid "(Cutscenes)"
-msgstr "(Tranĉscenoj)"
+msgstr "(Tranchscenoj)"
 
 #. Original key in file was "objective_grant_advancedsecurity_cctvcameras"
 #: foo/data/language/base-language.txt:2146
@@ -13180,8 +13180,8 @@ msgid ""
 "These mods were used when the current prison was saved. We highly recommend "
 "downloading and activating them before playing this prison."
 msgstr ""
-"Ĉi tiuj ludredaktaĵoj uziĝis kiam la nuna malliberejo konserviĝis. Ni tre "
-"konsilas elŝuti kaj ŝalti ilin antaŭ ol ludi ĉi tiun malliberejon."
+"chi tiuj ludredaktajhoj uzighis kiam la nuna malliberejo konservighis. Ni tre "
+"konsilas elshuti kaj shalti ilin antau ol ludi chi tiun malliberejon."
 
 #. Original key in file was "dialogcomponent_inputfield"
 #: foo/data/language/base-language.txt:63
@@ -13286,7 +13286,7 @@ msgstr ""
 #. Original key in file was "punish_lockdown_perm"
 #: foo/data/language/base-language.txt:1201
 msgid "Lockdown (Permanent)"
-msgstr "Enĉelŝlosi (Permanente)"
+msgstr "Enchelshlosi (Permanente)"
 
 #. Original key in file was "codex_developer_clearach"
 #: foo/data/language/base-language.txt:819
@@ -13306,7 +13306,7 @@ msgstr ""
 #. Original key in file was "research_required"
 #: foo/data/language/base-language.txt:1248
 msgid "You need a *X to prepare this report."
-msgstr "Vi bezonas je *X por prepari ĉi tiun raporton."
+msgstr "Vi bezonas je *X por prepari chi tiun raporton."
 
 #. Original key in file was "valuation_shares"
 #: foo/data/language/base-language.txt:1529
@@ -13357,12 +13357,12 @@ msgstr ""
 #. Original key in file was "rapsheet_bio"
 #: foo/data/language/base-language.txt:1154
 msgid "Sentenced to *Y years for *A."
-msgstr "Juĝiĝis *Y jarojn pro *A."
+msgstr "Jughighis *Y jarojn pro *A."
 
 #. Original key in file was "buildtoolbar_popup_room_deliveries"
 #: foo/data/language/base-language.txt:466
 msgid "Where your goods, materials, and prisoners are dropped off."
-msgstr "Kie viaj havaĵoj, materialoj, kaj malliberuloj deĵetiĝas."
+msgstr "Kie viaj havajhoj, materialoj, kaj malliberuloj dejhetighas."
 
 #. Original key in file was "sector_jobs_qualified"
 #: foo/data/language/base-language.txt:378
@@ -13472,7 +13472,7 @@ msgid ""
 "Gardeners."
 msgstr ""
 "Altnivela dungitarano kiu permesas al vi atingi akceson al Lavistoj kaj "
-"Ĝardenistoj."
+"ghardenistoj."
 
 #. Original key in file was "contraband_log_detected"
 #: foo/data/language/base-language.txt:1771
@@ -13537,7 +13537,7 @@ msgid ""
 "Not too soft, not too hard, just right. Well, actually, really hard and too "
 "small."
 msgstr ""
-"Ne tro mola, ne tro malmola, ĝuste taŭga. Nu, fakte, tre malmola kaj tro "
+"Ne tro mola, ne tro malmola, ghuste tauga. Nu, fakte, tre malmola kaj tro "
 "malgranda."
 
 #. Original key in file was "informant_coverblown"
@@ -13548,7 +13548,7 @@ msgstr ""
 #. Original key in file was "codex_timelapse_cam_fitwidth"
 #: foo/data/language/base-language.txt:986
 msgid "Fit Map Width"
-msgstr "Taŭgigi maplarĝecon"
+msgstr "Taugigi maplarghecon"
 
 #. Original key in file was "material_grass"
 #: foo/data/language/base-language.txt:2434
@@ -13558,12 +13558,12 @@ msgstr ""
 #. Original key in file was "codex_mod_deactivate"
 #: foo/data/language/base-language.txt:1012
 msgid "Deactivate all mods"
-msgstr "Elŝalti ĉiujn ludredaktaĵojn"
+msgstr "Elshalti chiujn ludredaktajhojn"
 
 #. Original key in file was "buildtoolbar_popup_room_intake"
 #: foo/data/language/base-language.txt:479
 msgid "Where your prisoners are first taken when they arrive."
-msgstr "Kie viaj malliberuloj unue preniĝos kiam ili alvenas."
+msgstr "Kie viaj malliberuloj unue prenighos kiam ili alvenas."
 
 #. Original key in file was "interfaceclone_cancel"
 #: foo/data/language/base-language.txt:237
@@ -13590,7 +13590,7 @@ msgstr ""
 #. Original key in file was "codex_options_volume"
 #: foo/data/language/base-language.txt:862
 msgid "Master Volume"
-msgstr "Ĉefsonforteco"
+msgstr "chefsonforteco"
 
 #. Original key in file was "codex_researtchapter_confirm"
 #: foo/data/language/base-language.txt:1050
@@ -13598,8 +13598,8 @@ msgid ""
 "Are you sure you wish to restart the current chapter? Unsaved progress will "
 "be lost."
 msgstr ""
-"Ĉu vi certas ke vi volas rekomenci la nunan ĉapitron? Nekonservita progreso "
-"perdiĝos."
+"chu vi certas ke vi volas rekomenci la nunan chapitron? Nekonservita progreso "
+"perdighos."
 
 #. Original key in file was "material_concretewall"
 #: foo/data/language/base-language.txt:2451
@@ -13617,7 +13617,7 @@ msgstr ""
 #. Original key in file was "codex_workshop_published_bad_msg_new"
 #: foo/data/language/base-language.txt:959
 msgid "Your new prison has failed to publish. Please try again."
-msgstr "Via nova malliberejo fiaskis publikiĝi. Bonvole repenu."
+msgstr "Via nova malliberejo fiaskis publikighi. Bonvole repenu."
 
 #. Original key in file was "soundparametereditor_smoothing"
 #: foo/data/language/base-language.txt:121
@@ -13654,13 +13654,13 @@ msgid ""
 "Find contraband on your prisoners that pass through these. Will require a "
 "guard to be nearby to take the contraband."
 msgstr ""
-"Trovi kontrabandon sur viaj malliberuloj kiuj trairas ĉi tiujn. Bezonon "
+"Trovi kontrabandon sur viaj malliberuloj kiuj trairas chi tiujn. Bezonon "
 "proksimas gardiston kiu povas preni la kontrabandon."
 
 #. Original key in file was "dialogeditor_reloadlanguage"
 #: foo/data/language/base-language.txt:46
 msgid "Reload Language"
-msgstr "Reŝarĝi lingvon"
+msgstr "Resharghi lingvon"
 
 #. Original key in file was "adviser_deathrowelectricityb_3"
 #: foo/data/language/base-language.txt:3060
@@ -13689,7 +13689,7 @@ msgstr ""
 #. Original key in file was "codex_mods"
 #: foo/data/language/base-language.txt:1009
 msgid "Mods"
-msgstr "Ludredaktaĵoj"
+msgstr "Ludredaktajhoj"
 
 #. Original key in file was "buildtoolbar_popup_obj_bin"
 #: foo/data/language/base-language.txt:499
@@ -13793,7 +13793,7 @@ msgid ""
 "The head of a shower. For showering. Showering with hot water makes your "
 "prisoners happier."
 msgstr ""
-"La kapo de duŝilo. Por duŝi. Duŝi per varma akvo pli feliĉigos viajn "
+"La kapo de dushilo. Por dushi. Dushi per varma akvo pli felichigos viajn "
 "malliberulojn."
 
 #. Original key in file was "family_mother"
@@ -13821,7 +13821,7 @@ msgstr "=[Miskonduto]="
 #. Original key in file was "rapsheet_scheduleexecution"
 #: foo/data/language/base-language.txt:1191
 msgid "Schedule Execution"
-msgstr "Aranĝi ekzekuton"
+msgstr "Aranghi ekzekuton"
 
 #. Original key in file was "codex_options_audio"
 #: foo/data/language/base-language.txt:861
@@ -13873,7 +13873,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_obj_servingtable"
 #: foo/data/language/base-language.txt:501
 msgid "Dish up food to your prisoners."
-msgstr "Servaĉi manĝaĵon al viaj malliberuloj."
+msgstr "Servachi manghajhon al viaj malliberuloj."
 
 #. Original key in file was "modnotification_playnow"
 #: foo/data/language/base-language.txt:1107
@@ -13905,7 +13905,7 @@ msgstr "Tago"
 #. Original key in file was "interfacecontrol_mainmenu_tooltip"
 #: foo/data/language/base-language.txt:325
 msgid "Toggle the main menu (New/Load/Save/Exit etc)"
-msgstr "Baskuligi la ĉefmenuon (Nova/Ŝarĝi/Konservi/Eleiri ktp.)"
+msgstr "Baskuligi la chefmenuon (Nova/sharghi/Konservi/Eleiri ktp.)"
 
 #. Original key in file was "profiler_glfinishcaption"
 #: foo/data/language/base-language.txt:86
@@ -13969,7 +13969,7 @@ msgstr ""
 #. Original key in file was "rapsheet_bio_med"
 #: foo/data/language/base-language.txt:1155
 msgid "Sentenced to *Y years for multiple crimes including *A, and *B."
-msgstr "Juĝiĝis *Y jarojn pro pluraj krimoj inkluzive *A, kaj *B."
+msgstr "Jughighis *Y jarojn pro pluraj krimoj inkluzive *A, kaj *B."
 
 #. Original key in file was "codex_packrects_heightcaption"
 #: foo/data/language/base-language.txt:1076
@@ -14053,7 +14053,7 @@ msgstr ""
 #. Original key in file was "misconduct_reporttype_contrabandluxuries"
 #: foo/data/language/base-language.txt:1233
 msgid "Found Luxuries"
-msgstr "Trovis luksaĵojn"
+msgstr "Trovis luksajhojn"
 
 #. Original key in file was "buildtoolbar_popup_help_workman_1"
 #: foo/data/language/base-language.txt:651
@@ -14066,7 +14066,7 @@ msgstr ""
 #. Original key in file was "codex_workshop_downloading"
 #: foo/data/language/base-language.txt:944
 msgid "Downloading"
-msgstr "Elŝutante"
+msgstr "Elshutante"
 
 #. Original key in file was "buildtoolbar_popup_obj_door"
 #: foo/data/language/base-language.txt:490
@@ -14137,7 +14137,7 @@ msgstr ""
 #: foo/data/language/base-language.txt:581
 msgid ""
 "Only 'protected custody' prisoners will be permitted to enter this sector."
-msgstr "Nur 'protektitaj' malliberuloj permesiĝos en ĉi tiu sektoro."
+msgstr "Nur 'protektitaj' malliberuloj permesighos en chi tiu sektoro."
 
 #. Original key in file was "adviser_deathrow_murder3"
 #: foo/data/language/base-language.txt:2966
@@ -14157,7 +14157,7 @@ msgstr ""
 #. Original key in file was "codex_disabled"
 #: foo/data/language/base-language.txt:904
 msgid "Disabled"
-msgstr "Elŝaltita"
+msgstr "Elshaltita"
 
 #. Original key in file was "targettingfood_supply"
 #: foo/data/language/base-language.txt:2884
@@ -14246,7 +14246,7 @@ msgstr "Enizolitecigi (6 horojn)"
 #. Original key in file was "codex_cutscenes"
 #: foo/data/language/base-language.txt:810
 msgid "Cutscenes"
-msgstr "Tranĉscenoj"
+msgstr "Tranchscenoj"
 
 #. Original key in file was "objective_grant_health_description"
 #: foo/data/language/base-language.txt:2093
@@ -14259,7 +14259,7 @@ msgstr ""
 #. Original key in file was "codex_mod_modsupdated"
 #: foo/data/language/base-language.txt:1034
 msgid "Mods Updated"
-msgstr "Ludredaktaĵoj ĝisdatigitaj"
+msgstr "Ludredaktajhoj ghisdatigitaj"
 
 #. Original key in file was "quickbuild_basiccell"
 #: foo/data/language/base-language.txt:2923
@@ -14281,12 +14281,12 @@ msgstr ""
 msgid ""
 "Shows all contraband confiscated in the last 24 hours. The icons show where "
 "the contraband was confiscated."
-msgstr "Montras ĉiun kontrabandon konfiskitan dum la pasintaj 24 horoj."
+msgstr "Montras chiun kontrabandon konfiskitan dum la pasintaj 24 horoj."
 
 #. Original key in file was "buildtoolbar_tooltip_lockdown"
 #: foo/data/language/base-language.txt:413
 msgid "Instantly lock all doors in the prison."
-msgstr "Tuj fermi kaj ŝlosi ciujn pordojn en la malliberejo."
+msgstr "Tuj fermi kaj shlosi ciujn pordojn en la malliberejo."
 
 #. Original key in file was "experiencefactor_fractionalexercising"
 #: foo/data/language/base-language.txt:1726
@@ -14301,7 +14301,7 @@ msgstr "Helpo (vikipedio)"
 #. Original key in file was "buildtoolbar_popup_obj_toilet"
 #: foo/data/language/base-language.txt:483
 msgid "A basic human right, if you believe all those crackpots."
-msgstr "Baza homara rajto, se vi kredas ĉiujn tiujn stultulojn."
+msgstr "Baza homara rajto, se vi kredas chiujn tiujn stultulojn."
 
 #. Original key in file was "crime_arson"
 #: foo/data/language/base-language.txt:3273
@@ -14373,7 +14373,7 @@ msgstr ""
 #. Original key in file was "codex_mod_translationcaption"
 #: foo/data/language/base-language.txt:1036
 msgid "Is this a translation to another language?"
-msgstr "Ĉu ĉi tio estas traduko al alia lingvo?"
+msgstr "chu chi tio estas traduko al alia lingvo?"
 
 #. Original key in file was "codex_options_clocktype_analogue"
 #: foo/data/language/base-language.txt:871
@@ -14534,7 +14534,7 @@ msgstr "Laborareo por viaj administraranoj."
 #. Original key in file was "interfacelogistics_targettingfood"
 #: foo/data/language/base-language.txt:202
 msgid "Food Distribution"
-msgstr "Manĝdistribuo"
+msgstr "Manghdistribuo"
 
 #. Original key in file was "buildtoolbar_tooltip_weaponsfree"
 #: foo/data/language/base-language.txt:415
@@ -14543,7 +14543,7 @@ msgid ""
 "fire warning shots before taking a target down."
 msgstr ""
 "Permesos al viaj armitaj gardistoj uzi mortigan povon. Fusilistoj ne plu "
-"avertpafos antaŭ ol ili mortigos."
+"avertpafos antau ol ili mortigos."
 
 #. Original key in file was "interfaceoverlay_decay"
 #: foo/data/language/base-language.txt:163
@@ -14583,7 +14583,7 @@ msgstr ""
 #. Original key in file was "interface_action_servoopen"
 #: foo/data/language/base-language.txt:357
 msgid "Open On Trigger"
-msgstr "Fermi laŭ ellasilo"
+msgstr "Fermi lau ellasilo"
 
 #. Original key in file was "execution_stage_Execution"
 #: foo/data/language/base-language.txt:2690
@@ -14709,7 +14709,7 @@ msgstr ""
 #. Original key in file was "codex_mod_activetitle"
 #: foo/data/language/base-language.txt:1010
 msgid "Active Mods"
-msgstr "Ŝaltitaj ludredaktaĵoj"
+msgstr "shaltitaj ludredaktajhoj"
 
 #. Original key in file was "buildtoolbar_popup_uts_phonemonitor"
 #: foo/data/language/base-language.txt:549
@@ -14720,11 +14720,11 @@ msgid ""
 "\n"
 "Use the Connect tool to connect this system to your Phone Booths."
 msgstr ""
-"Dezajnita por konstruiĝi en sekurecĉambro kaj regata de gardisto. Permesas "
-"al vi gvati ĉiujn elirantajn telefonalvokojn faratajn de malliberuloj, "
-"donante al vi esencan sagacecon pri planita kontraŭleĝa aktiveco.\n"
+"Dezajnita por konstruighi en sekurecchambro kaj regata de gardisto. Permesas "
+"al vi gvati chiujn elirantajn telefonalvokojn faratajn de malliberuloj, "
+"donante al vi esencan sagacecon pri planita kontraulegha aktiveco.\n"
 "\n"
-"Uzu la konektilon por konekti ĉi tiun sistemon al viaj telefonujoj."
+"Uzu la konektilon por konekti chi tiun sistemon al viaj telefonujoj."
 
 #. Original key in file was "object_weaponrack"
 #: foo/data/language/base-language.txt:2374
@@ -14739,7 +14739,7 @@ msgid ""
 "with violent situations."
 msgstr ""
 "(NUNE HAVAS NENIUN UZON)\n"
-"Malŝlosas la turmultgaridston.  Ĉi tiuj estas armitaj kaj pli bone povas "
+"Malshlosas la turmultgaridston.  chi tiuj estas armitaj kaj pli bone povas "
 "trakti violentajn situaciojn."
 
 #. Original key in file was "victory_death"
@@ -14797,12 +14797,12 @@ msgstr ""
 #. Original key in file was "spritebankeditor_markermodetitle"
 #: foo/data/language/base-language.txt:801
 msgid "Marker Mode"
-msgstr "Markilreĝimo"
+msgstr "Markilreghimo"
 
 #. Original key in file was "interfacetopbar_tension_currentlevel"
 #: foo/data/language/base-language.txt:303
 msgid "The danger level is *X"
-msgstr "La danĝernivelo estas *X"
+msgstr "La danghernivelo estas *X"
 
 #. Original key in file was "objective_deathrow_executionobjects"
 #: foo/data/language/base-language.txt:3021
@@ -14876,7 +14876,7 @@ msgstr ""
 #. Original key in file was "dialogcomponent_canvas"
 #: foo/data/language/base-language.txt:70
 msgid "Canvas"
-msgstr "Areaĵo"
+msgstr "Areajho"
 
 #. Original key in file was "equipment_lighter"
 #: foo/data/language/base-language.txt:2516
@@ -14889,8 +14889,8 @@ msgid ""
 "Some of your active mods have been updated. Click OK to apply the new "
 "changes. Your game will be autosaved."
 msgstr ""
-"Iuj el viaj ŝaltitaj ludredaktaĵoj ĝisdatiĝis. Alklaku bone por apliki la "
-"novajn ŝanĝojn. Via ludo aŭtomate konserviĝos."
+"Iuj el viaj shaltitaj ludredaktajhoj ghisdatighis. Alklaku bone por apliki la "
+"novajn shanghojn. Via ludo automate konservighos."
 
 #. Original key in file was "report_intake_list_tooltip"
 #: foo/data/language/base-language.txt:1501
@@ -14957,9 +14957,9 @@ msgid ""
 "duplicate areas of your prison, such as Cells.  To use, select a zone to be "
 "copied with a right mouse drag, then left click to stamp down a copy."
 msgstr ""
-"Malŝlosas la klonilon en la ĉefilo.  Uzu ĉi tiun ilon por rapide duobligi "
-"areojn de via malliberejo kiel ĉelojn.  Por uzi, elektu zonon kopiotan per "
-"dekstra ŝovo, kaj tiam maldekstra alklako por meti kopion."
+"Malshlosas la klonilon en la chefilo.  Uzu chi tiun ilon por rapide duobligi "
+"areojn de via malliberejo kiel chelojn.  Por uzi, elektu zonon kopiotan per "
+"dekstra shovo, kaj tiam maldekstra alklako por meti kopion."
 
 #. Original key in file was "dialogeditor_background"
 #: foo/data/language/base-language.txt:54
@@ -15129,8 +15129,8 @@ msgid ""
 "By submitting this item, you agree to the [url=http://steamcommunity.com/"
 "sharedfiles/workshoplegalagreement]workshop terms of service[/url]."
 msgstr ""
-"Sendante ĉi tion, vi interkonsentas al la [url=http://steamcommunity.com/"
-"sharedfiles/workshoplegalagreement]uzkondiĉoj de Steam Workshop[/url]."
+"Sendante chi tion, vi interkonsentas al la [url=http://steamcommunity.com/"
+"sharedfiles/workshoplegalagreement]uzkondichoj de Steam Workshop[/url]."
 
 #. Original key in file was "failuremessage_blocked"
 #: foo/data/language/base-language.txt:769
@@ -15190,7 +15190,7 @@ msgstr ""
 #. Original key in file was "codex_timelapse_cam_fitmap"
 #: foo/data/language/base-language.txt:984
 msgid "Fit Map"
-msgstr "Taŭgigi mapon"
+msgstr "Taugigi mapon"
 
 #. Original key in file was "informant_coveragecaps"
 #: foo/data/language/base-language.txt:2801
@@ -15235,7 +15235,7 @@ msgstr "Nune malliberigitaj"
 #. Original key in file was "codex_option_events"
 #: foo/data/language/base-language.txt:922
 msgid "Events"
-msgstr "Okazaĵoj"
+msgstr "Okazajhoj"
 
 #. Original key in file was "interfacetopbar_tooltip_guards"
 #: foo/data/language/base-language.txt:260
@@ -15250,7 +15250,7 @@ msgstr ""
 #. Original key in file was "buildtoolbar_popup_autolights_name"
 #: foo/data/language/base-language.txt:561
 msgid "Auto Lights"
-msgstr "Aŭtomate lampoj"
+msgstr "Automate lampoj"
 
 #. Original key in file was "season_winter"
 #: foo/data/language/base-language.txt:2938
@@ -15295,7 +15295,7 @@ msgstr ""
 #. Original key in file was "codex_sortbydesc"
 #: foo/data/language/base-language.txt:1003
 msgid "Sort By Date"
-msgstr "Sorti laŭ dato"
+msgstr "Sorti lau dato"
 
 #. Original key in file was "codex_tooltip_gangs"
 #: foo/data/language/base-language.txt:921
@@ -15326,7 +15326,7 @@ msgstr ""
 #. Original key in file was "codex_mod_moresteammods"
 #: foo/data/language/base-language.txt:1015
 msgid "Find more mods (Steam Workshop)"
-msgstr "Trovi pli da ludredaktaĵoj (Steam Workshop)"
+msgstr "Trovi pli da ludredaktajhoj (Steam Workshop)"
 
 #. Original key in file was "crime_attemptedmurder"
 #: foo/data/language/base-language.txt:3298
