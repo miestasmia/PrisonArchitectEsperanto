@@ -17,15 +17,18 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 # ---------------------------------------------------------------------
 
+# not everybody calls this file with 'sh'
+shopt -s expand_aliases
+
 alias GETTEXT="gettext REPAKI"
 
 if [ -z "$1" ]; then
-  echo "$(GETTEXT "Bonvolu aldoni loko de main.dat")"
+  echo $(GETTEXT "Bonvolu aldoni loko de main.dat (unua argumento)")
   exit 1
 fi
 
 if [ -z "$2" ]; then
-  echo "$(GETTEXT "Bonvolu aldoni loko de tradukado po dosiero")"
+  echo "$(GETTEXT "Bonvolu aldoni loko de tradukado po dosiero (dua argumento)")"
   exit 1
 fi
 
