@@ -23,12 +23,12 @@ shopt -s expand_aliases
 alias GETTEXT="gettext REPAKI"
 
 if [ -z "$1" ]; then
-  echo $(GETTEXT "Bonvolu aldoni loko de main.dat (unua argumento)")
+  echo "$(GETTEXT "Bonvolu aldoni lokon de main.dat")"
   exit 1
 fi
 
 if [ -z "$2" ]; then
-  echo "$(GETTEXT "Bonvolu aldoni loko de tradukado po dosiero (dua argumento)")"
+  echo "$(GETTEXT "Bonvolu aldoni lokon de tradukado po dosiero")"
   exit 1
 fi
 
@@ -55,7 +55,7 @@ if [ ! -e "$SVT_UTILS_BASE" ]; then
   cd "$SELF" && git clone "$SVT_UTILS_GIT"
 fi
 
-echo "===> $(GETTEXT "Movi PO tradukado al lingvo dosieroj ... ")"
+echo "===> $(GETTEXT "Movas PO-tradukadon al lingvo-dosieroj ... ")"
 gawk -f "$SVT_UTILS_BASE/po2sv.awk" "$PO_FILE" "$SELF_LANG/base-language.txt" > "$SELF_LANG/base-language.tmp"
 mv "$SELF_LANG/base-language.tmp" "$SELF_LANG/base-language.txt"
 
@@ -64,18 +64,18 @@ mv "$SELF_LANG/fullgame.tmp" "$SELF_LANG/fullgame.txt"
 
 
 if [ ! -e "$BACKUP" ]; then
-  echo "===> $(GETTEXT "Kopi kopio al") $BACKUP"
+  echo "===> $(GETTEXT "Kopias kopion al") $BACKUP"
   cp "$MAIN_DAT" "$BACKUP"
 else
   if [ -e "$MAIN_DAT" ]; then
-    echo "===> $(GETTEXT "Kopio ekzistas, fari nenio ...")"
+    echo "===> $(GETTEXT "Kopio ekzistas, faras nenion ...")"
   else
-    echo "===> $(GETTEXT "Kopio ekzistas sed main.dat ne, kopii kopio")"
+    echo "===> $(GETTEXT "Kopio ekzistas sed main.dat ne, kopias kopion")"
     cp "$BACKUP" "$MAIN_DAT"
   fi
 fi
 
-echo "===> $(GETTEXT "Kopii lingvo dosieroj ...")"
+echo "===> $(GETTEXT "Kopias lingvo-dosierojn ...")"
 if [ -e "$TMP" ]; then
   rm -rf "$TMP"
 fi
@@ -84,7 +84,7 @@ mkdir "$TMP"
 cd "$TMP" && unrar x "$MAIN_DAT"
 cp "$SELF/$LANG_DIR"/* "$TMP/$LANG_DIR"
 
-echo "===> $(GETTEXT "Kompresi nova luddosiero ... ")"
+echo "===> $(GETTEXT "Kompresas novan luddosieron ... ")"
 
 rm "$MAIN_DAT"
 cd "$TMP" && rar a -s -r "$MAIN_DAT" data/*
